@@ -1,0 +1,721 @@
+10
+64
+new
+move shd 10
+new
+move sda 29
+new
+move sf 40
+new
+move sbc 50
+new
+move see 60
+new
+move sdb 67
+new
+move sje 73
+new
+move sif 82
+new
+move sfj 88
+new
+move sdh 95
+impl sffdjead 55
+move seg 6
+impl sjbjcfbg 81
+impl sfdceicb 0
+impl sdihfgeg 43
+impl siiaigh 46
+impl sbddceha 24
+impl sffhejhb 41
+impl sbcjdaie 81
+impl sghhdhec 62
+impl sggehei 82
+impl sfbijccg 59
+impl sgjaeccd 23
+impl sghcdieh 51
+impl scfeadgf 1
+impl sefjecib 27
+impl sgidaibb 30
+impl sefifbhb 67
+impl shagcbfa 88
+impl sghadidg 79
+impl scghbajj 82
+impl sfgjcagd 12
+impl sddibcaa 12
+impl sjicijfd 48
+impl sbahijia 58
+impl scbjccjb 37
+impl sbjjdab 76
+impl sbbhjbed 62
+impl sigidbdi 27
+impl sjicghfj 10
+impl sdcgihjh 25
+impl sdigagij 99
+impl sjhhiiia 88
+impl sghhjiii 33
+impl sfaggcif 38
+impl seehddfa 65
+impl sfbbebhf 99
+impl sgbbbgbd 81
+impl shicijja 64
+impl sefifdde 24
+impl sjgfbgdb 18
+impl shbcadgh 75
+impl sdiiihfd 90
+wait 2
+71
+new
+move sge 11
+new
+move shb 22
+new
+move sei 32
+new
+move sij 39
+new
+move sbj 44
+new
+move sjc 52
+new
+move sfb 57
+impl sccdgchi 93
+impl sbgifjef 16
+impl scifhide 26
+impl sgiedhij 63
+impl shaadgg 66
+impl shihcijh 25
+impl scaafbed 35
+impl seeigahf 75
+impl shhhfajg 31
+impl sfhgdacc 84
+impl scccbgbi 69
+impl sjfjdhbj 63
+impl sdgahcf 37
+impl sdcddgdi 42
+impl sbfcheed 54
+impl scgbahff 10
+impl sbcfjhia 76
+impl sefcafeb 62
+impl scedfahj 62
+impl shabiede 40
+impl sgdahaih 1
+impl sjcfdjdh 97
+impl sdbfjbaa 47
+impl sgjddghj 49
+impl sgcghgfc 30
+impl sjfbfghb 3
+impl sfgecihg 58
+impl sfcjjgj 5
+impl sedbgehe 41
+impl sijcdib 71
+impl sbfdagja 2
+impl schefgcj 58
+impl shegafcf 17
+impl shjbbecb 80
+impl sjibbidf 69
+impl shgajiec 55
+impl sfjfgbh 61
+impl sjhhaeae 69
+impl sccfcbig 60
+impl scedhjec 65
+impl sehhagci 3
+impl sbbhjbed 64
+impl sehfifai 65
+impl sbbdajdh 29
+impl sgedbcb 99
+impl sfcedhfj 15
+impl sfhgdjif 34
+impl sbebeicd 66
+impl sgfdcef 72
+impl siaehhhj 36
+impl sjjdbhcc 27
+impl scjejdji 5
+impl sjcgehja 31
+impl sfbhheig 29
+impl sjfcijjc 10
+impl sbaedijj 61
+wait 5
+73
+new
+move sie 12
+new
+move shg 21
+new
+move sgb 31
+new
+move sjd 34
+new
+move sbi 43
+impl sehdjahb 18
+impl sfchbied 36
+impl sbjieehc 40
+impl sgjfacbj 48
+impl sgjchaj 43
+impl sgebdabh 29
+impl sdjhbdai 21
+impl seddjg 44
+move shc 1
+impl sgcafffb 36
+impl sdceigge 17
+impl scfaeic 75
+impl sbiijfje 79
+impl sjcddfid 84
+impl sfhaeega 70
+impl sghibgeb 10
+impl scgcgiff 4
+move sib 7
+move shj 3
+impl seahdhbb 60
+move sfi 1
+impl sibejjdg 63
+impl sfdcbcgj 65
+impl sffhejhb 18
+impl shdcgfef 16
+impl sicecjcf 87
+impl scifagij 91
+impl scfiiege 77
+impl sdajbdfc 85
+impl sbigdefa 21
+impl siajjbah 31
+impl sdbcbehj 85
+impl seaeiddi 18
+impl sffiddfb 89
+impl sdieaahb 40
+impl scgadhii 45
+impl sdighhic 44
+impl sedhgeig 75
+impl sbhdjjbi 2
+impl scfdhch 62
+impl shgajiec 18
+impl sbdhebeg 96
+impl sgjijhjh 4
+impl sghjicca 44
+impl sheagigi 56
+impl sffbiaaj 64
+impl scfbheah 1
+impl sddjdfjb 41
+impl shbfadaf 77
+impl shjddga 43
+impl sicjabia 36
+impl sbebeicd 17
+impl sbbjaigd 42
+impl sjfejjeb 51
+impl sbgejggh 14
+impl sfbbebhf 26
+impl sgcfhdji 77
+impl sbiiajee 27
+impl sjjfaeca 31
+impl sifdfdii 74
+impl sjgfbgdb 58
+impl sbaedijj 90
+wait 6
+75
+new
+move sgh 13
+new
+move sbb 30
+new
+move sh 41
+new
+move sde 51
+new
+move sff 61
+new
+move sdd 68
+new
+move scf 74
+new
+move sdf 83
+new
+move sdi 89
+new
+move she 96
+move sji 4
+impl sgececjb 60
+impl sghgdafi 23
+move sdj 8
+move sef 9
+impl sbcabebe 9
+impl sdgcibah 37
+impl sgadcaeh 97
+impl sjdcjcfg 11
+impl sddbhhhe 60
+impl shabiede 68
+impl sjcadjjd 20
+impl sbjahcjg 38
+impl scadbjgb 84
+impl sbdgcacb 71
+impl sgjddghj 51
+impl sjfbfghb 32
+impl shcabgdc 18
+impl sbhacdjb 62
+impl sijcdib 76
+impl sghechge 41
+impl shhefhgd 49
+impl sfjhhjhg 92
+impl sjcdffdj 11
+impl sghadidg 38
+impl seaahghj 7
+impl scicffgb 1
+impl sjhffdea 88
+impl sgfbhddb 77
+impl shgfjbje 42
+impl shibgiie 18
+impl siejijhg 47
+impl sbbhehjf 20
+impl scedhjec 49
+impl sfbibbje 22
+impl sgcbeedd 12
+impl sbjjdab 96
+impl scgjdaif 7
+impl shfajidh 84
+impl sbjcaga 31
+impl scbhjbjd 60
+impl sbibhhbh 69
+impl scjigbef 89
+impl secfecdf 75
+impl siaehhhj 35
+impl sbcadghf 14
+impl sbgejggh 13
+impl sfbbebhf 61
+impl sdbjbceg 1
+impl sfdffbda 41
+impl sfifefci 72
+impl sjdhffbh 89
+impl shbcadgh 12
+impl sdiiihfd 30
+wait 2
+73
+new
+move sbd 14
+new
+move sgc 20
+new
+move sjj 27
+impl sgjfdag 19
+impl sdijedff 12
+impl shacccdc 32
+impl sjddjcfc 33
+impl sebfihcf 14
+impl sgaibdfc 37
+impl sgcieibh 24
+impl secfbbdb 47
+impl shebbjah 23
+impl sgbfafac 41
+impl seadheei 20
+impl sjdefdhf 61
+impl sbedifih 12
+impl sjfffdac 20
+impl segijacc 26
+impl sifbdbgb 77
+impl sididhje 78
+impl sijcfdbc 15
+impl sfhaeega 29
+impl scdiabii 89
+impl sfaffbcf 98
+impl sgaeaaff 79
+impl sddfidig 41
+impl scgbahff 68
+impl sbcfjhia 80
+impl shabdfgf 7
+impl sgefdddi 67
+impl shdcgfef 89
+impl shaejjgj 15
+impl scfiiege 62
+impl sijciije 11
+impl sfhheahb 22
+impl sgffgbbj 68
+impl sbffdbdh 20
+impl sfieihf 94
+impl sgdfebic 4
+impl sfdhahdg 8
+impl sehfechc 95
+impl shhahfjf 85
+impl scghhcfe 46
+impl seaahghj 6
+impl scedhhcg 30
+impl sbjcbaga 66
+impl sdjjhhja 65
+impl shbdgiai 6
+impl sgajcjdd 52
+impl sbbhehjf 61
+impl scedhjec 21
+impl sfbibbje 18
+impl sfabefab 81
+impl sbbhjbed 15
+impl sigidbdi 29
+impl sjfdchii 51
+impl sdcdddbe 61
+impl sjhhiiia 18
+impl sghhjiii 51
+impl shbdgjgg 54
+impl sgfeibed 2
+impl sgfidchb 48
+impl sjfejjeb 45
+impl sihceejj 69
+impl sdgajche 45
+impl siabbdgc 49
+impl sjgfbgdb 96
+impl sihchbcc 72
+impl segdef 68
+wait 2
+68
+new
+move sfg 15
+new
+move sca 24
+new
+move sfc 35
+new
+move scg 45
+new
+move sbe 54
+new
+move sii 62
+new
+move sbf 69
+new
+move sgf 75
+new
+move sea 79
+new
+move sih 85
+new
+move sba 91
+new
+move sj 97
+impl sefjibeb 26
+impl sdiiffh 1
+impl sidgiahb 16
+impl sjegddig 68
+impl sdgcibah 15
+impl shadbhcc 37
+impl sjgcihj 31
+impl sfdhbebc 45
+impl sehbciif 88
+impl scdifii 50
+impl sbbhibid 74
+impl sdhghchi 70
+impl sghcdieh 13
+impl sgajifga 2
+impl sgidaibb 78
+impl sghechge 1
+impl shhefhgd 29
+impl sfiigaed 97
+impl sceibjdc 20
+impl siaiagef 25
+impl sfjhhbg 44
+impl sfbjiceh 84
+impl sgjijhjh 49
+impl sdgbgdhg 49
+impl sccfcbig 67
+impl sgbjbde 10
+impl sdfcbhgg 86
+impl sbbdajdh 97
+impl sgedbcb 10
+impl scjchhbe 17
+impl sejjafhe 82
+impl sjhhiiia 86
+impl sfjheia 86
+impl shghccc 1
+impl sbgejggh 47
+impl sfbbebhf 68
+impl sficfehj 97
+impl sfahghfj 24
+impl sfjdibdd 38
+impl sfadajib 99
+impl sifdfdii 41
+impl sjdhffbh 27
+impl sjbdajjf 78
+wait 5
+70
+new
+move sgi 16
+new
+move seh 28
+new
+move sfh 38
+new
+move sfa 49
+new
+move scd 58
+new
+move sfe 66
+new
+move sic 72
+new
+move sjg 78
+new
+move sc 84
+new
+move sed 90
+new
+move sce 94
+impl sdiaejfc 41
+impl secchcdj 40
+impl sefbggfj 13
+impl secgjceh 52
+impl sfdhbebc 56
+impl sbddceha 49
+impl shjbidbd 75
+impl sghcbfhe 83
+impl seeffiab 5
+impl shjjajg 44
+impl sgffajid 68
+impl sfjdbjhf 33
+impl sdeiebad 84
+impl scfeadgf 89
+impl seaeiddi 21
+impl sgddaf 31
+impl sdjcadcg 62
+impl siieieja 46
+impl scghcjbj 22
+impl scghhcfe 77
+impl seabhiag 1
+impl seaiif 8
+impl sedccejj 62
+impl scfdhch 79
+impl scefcbai 40
+impl sjgfgdai 21
+impl siejijhg 58
+impl sejjhg 63
+impl sdhhjagb 60
+impl sbjjdab 38
+impl sheagea 93
+impl sddjdfjb 23
+impl shbfadaf 17
+impl sgedbcb 35
+impl sbjcaga 58
+impl scbhjbjd 57
+impl scgadgbh 77
+impl sbbeebba 32
+impl shbdjfi 89
+impl scjejdji 75
+impl sficfehj 98
+impl sfahghfj 48
+impl sfjdibdd 95
+impl sfcdgaj 44
+impl sdeachbd 87
+impl sjdhffbh 46
+impl sjbdajjf 44
+wait 5
+73
+new
+move shf 17
+new
+move sg 25
+new
+move si 36
+new
+move sia 46
+new
+move shi 55
+new
+move sej 63
+new
+move sjb 70
+new
+move sbh 76
+new
+move sec 80
+new
+move sjh 86
+new
+move sfd 92
+new
+move sgd 98
+impl shhdcafa 50
+impl sigadfj 31
+impl sccdjiih 91
+impl sdcdggbf 46
+impl sibejjdg 41
+impl sgacabba 38
+impl sedchjdb 29
+impl sddbhhhe 38
+impl sjaeif 53
+impl sjcadjjd 10
+impl shajacea 2
+impl sigadfce 78
+impl sghfdgai 49
+impl sfbcbfjg 62
+impl sihifjdd 45
+impl sgddaf 10
+impl sghechge 83
+impl shdececj 61
+impl sjcdffdj 25
+impl sghadidg 74
+impl seaahghj 17
+impl shehfdge 36
+impl sbjcbaga 56
+impl sjhffdea 53
+impl scfdhch 35
+impl scfdhch 43
+impl shgajiec 14
+impl sbdhebeg 17
+impl sijgjjae 76
+impl sccccjie 49
+impl sccfcbig 40
+impl sebidagh 33
+impl sbecdgjc 88
+impl sehijbbc 82
+impl siajfjej 43
+impl sdaefhje 67
+impl sdbbbfjc 94
+impl sibehfi 38
+impl scaidahf 49
+impl sbgejggh 1
+impl scjejdji 21
+impl sjcgehja 87
+impl sjcgehja 56
+impl sfdffbda 10
+impl sfadajib 2
+impl siabbdgc 83
+impl sccfaghi 40
+impl segdef 17
+wait 2
+69
+new
+move sga 18
+new
+move sdc 26
+new
+move scb 37
+new
+move sid 47
+new
+move sci 56
+new
+move sdg 64
+new
+move seb 71
+new
+move sig 77
+new
+move sja 81
+new
+move sch 87
+new
+move scc 93
+new
+move sb 99
+move sd 2
+impl shjddbdc 2
+impl sefibbba 45
+impl sbigfhca 38
+impl sggcicej 75
+impl shabdfgf 63
+impl sgefdddi 36
+impl sihidgea 4
+impl siiebcjf 31
+impl sdfhbbeb 10
+impl sfhheahb 24
+impl sdhidadg 9
+impl seaaafda 67
+impl shgfgcfb 72
+impl sfhcgfbe 9
+impl sfdhahdg 53
+impl sjajfhga 29
+impl shhahfjf 36
+impl sebhggi 32
+impl shjbbecb 78
+impl sjhffdea 75
+impl sghaihhf 15
+impl sgeaeiga 89
+impl sjgabeih 30
+impl sccfcbig 99
+impl scjchhff 58
+impl sfabefab 60
+impl sehfcgai 7
+impl shfajidh 13
+impl scjchhbe 86
+impl sejjafhe 26
+impl sdbbbfjc 10
+impl sibehfi 58
+impl sgfeibed 42
+impl sfcfaie 88
+impl sgfcceb 90
+impl scjejdji 41
+impl sjcgehja 10
+impl sfahghfj 66
+impl sbiiajee 83
+impl sefifdde 32
+impl sjgfbgdb 26
+impl sihchbcc 90
+impl sdiiihfd 66
+wait 4
+74
+new
+move scj 19
+new
+move sgg 23
+new
+move sha 33
+new
+move shh 42
+new
+move sgj 48
+new
+move sbg 53
+new
+move sa 59
+new
+move sjf 65
+impl sbjcbfga 70
+impl sedbdceb 62
+impl sdcfhafc 50
+impl sdgebejf 60
+impl sgeefcdh 23
+impl sicbfhdi 45
+impl sicbfhdi 48
+impl sjheebee 16
+impl shgjcbii 68
+impl sejgjafg 22
+impl sjbjaeig 51
+move se 5
+impl sdiiffh 57
+impl sccdjiih 24
+impl sbcabebe 61
+impl sdihfgeg 36
+impl sijcehee 49
+impl sifiebbg 25
+impl scbhhejd 49
+impl sjaeif 14
+impl sbfjggif 46
+impl sdbfjbaa 72
+impl scadbjgb 76
+impl sbbebaac 83
+impl shceieig 13
+impl sdeiebad 78
+impl sbejfcia 57
+impl sfhcgfbe 34
+impl sdfeafde 34
+impl sfjhhjhg 99
+impl shagcbfa 80
+impl sbijdcdh 57
+impl sdieifed 50
+impl seddhgfh 56
+impl shgajiec 21
+impl sfbjiceh 10
+impl sijgjjae 48
+impl scdecfh 98
+impl sjhhaeae 66
+impl sheagigi 28
+impl sffbiaaj 86
+impl sgegdfgb 54
+impl shhagdjc 35
+impl sfcgcfdf 15
+impl sdigagij 83
+impl sfhgdjif 3
+impl sicedafg 58
+impl secfecdf 79
+impl sgfcacaj 69
+impl sjfejjeb 34
+impl sicdajde 96
+impl sfdffbda 11
+impl sfjdibdd 36
+impl sfcdgaj 38
+impl sifdfdii 1
+impl sihchbcc 19
+impl sbaedijj 41
+wait 4

@@ -7,6 +7,12 @@ A curated list of open-source solvers for Google Hash Code problems, 2014–2022
 
 Best score per instance for the problems benchmarked so far. *Open-source solvers* is the best valid output of the solvers kept in the problem folder (`<problem>/output/`), re-scored with the official judge under the benchmark protocol (10-minute limit per run; see each problem's `SOLVER_SELECTION.md`). *Competition* is the best score among the teams on the archived scoreboard ([google-hashcode-archive](https://github.com/pierreavn/google-hashcode-archive)). The *Total* row sums the open-source bests over the benchmarked instances and gives the best team total, which also includes the example (A). Where a scoreboard has only team totals, the per-instance cells say *not published*.
 
+### [Street View Routing](street_view_routing/) (Hash Code 2014, final round)
+
+| Instance | Best score of the open-source solvers | Best score in the competition |
+|---|---:|---:|
+| `hashcode_2014_final_round` | 1,930,138 | 1,923,588 |
+
 ### [Compiling Google](compiling_google/) (Hash Code 2019, final round)
 
 | Instance | Best score of the open-source solvers | Best score in the competition |

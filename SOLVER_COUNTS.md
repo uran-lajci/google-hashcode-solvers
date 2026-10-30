@@ -4,7 +4,7 @@ Number of solvers collected and kept for each problem, in contest order. A `-` m
 
 | Problem | Collected | Kept |
 |---|---:|---:|
-| [Street View Routing](street_view_routing/) (2014, final) | 18 | - |
+| [Street View Routing](street_view_routing/) (2014, final) | 18 | 2 |
 | [Optimize a Data Center](optimize_a_data_center/) (2015, qualification) | 60 | - |
 | [Loon](loon/) (2015, final) | 29 | - |
 | [Delivery](delivery/) (2016, qualification) | 182 | - |
@@ -26,4 +26,4 @@ Number of solvers collected and kept for each problem, in contest order. A `-` m
 | [Mentorship and Teamwork](mentorship_and_teamwork/) (2022, qualification) | 267 | - |
 | [Santa Tracker](santa_tracker/) (2022, final) | 8 | 2 |
 
-Collected counts are repositories. For Software Engineering at Scale, the 4 kept solvers come from 3 of the 6 repositories, because `Loicyeu` provides two of them. For Compiling Google, the 3 kept solvers come from 2 of the 12 repositories, because `LarsAstrom` provides two of them.
+Collected counts are repositories. For Software Engineering at Scale, the 4 kept solvers come from 3 of the 6 repositories, because `Loicyeu` provides two of them. For Compiling Google, the 3 kept solvers come from 2 of the 12 repositories, because `LarsAstrom` provides two of them. For Street View Routing, one of the 2 kept solvers is a single program with four modes.

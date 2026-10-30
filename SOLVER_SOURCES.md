@@ -2,7 +2,7 @@
 
 Links to every solver repository found for each problem, before any solver was analyzed or removed. Problems are in contest order. A repository that covers several problems appears under each of them.
 
-*Collected* repositories were imported into the problem folder. Only Street View Routing, Compiling Google, Assembling Smartphones, Software Engineering at Scale and Santa Tracker have been through selection so far, so they are the only problems with repositories marked *not kept*. *Found but not collected* lists duplicates of a collected solver and repositories with no usable solver that the problem's README attributes to that problem. Repositories that were rejected without being attributed to a problem are in [EXCLUDED.md](EXCLUDED.md).
+*Collected* repositories were imported into the problem folder. Only Street View Routing, City Plan, Compiling Google, Assembling Smartphones, Software Engineering at Scale and Santa Tracker have been through selection so far, so they are the only problems with repositories marked *not kept*. *Found but not collected* lists duplicates of a collected solver and repositories with no usable solver that the problem's README attributes to that problem. Repositories that were rejected without being attributed to a problem are in [EXCLUDED.md](EXCLUDED.md).
 
 | Problem | Contest | Collected | Found but not collected |
 |---|---|---:|---:|
@@ -1766,20 +1766,20 @@ Links to every solver repository found for each problem, before any solver was a
 
 ### Collected (14)
 
-- [afonsoafonsoafonso/hashcode2018-city-plan](https://github.com/afonsoafonsoafonso/hashcode2018-city-plan)
-- [AntoineMrj/google-hashcode-2018](https://github.com/AntoineMrj/google-hashcode-2018)
-- [arriopolis/HashCode](https://github.com/arriopolis/HashCode)
-- [DamienCvl/Google-Hashcode2018](https://github.com/DamienCvl/Google-Hashcode2018)
-- [HillaShx/HashCode](https://github.com/HillaShx/HashCode)
-- [HofmannZ/hashcode-2018](https://github.com/HofmannZ/hashcode-2018)
-- [kjanko/hashcode18-19](https://github.com/kjanko/hashcode18-19)
-- [kostyaHrytsyuk/CityPlan](https://github.com/kostyaHrytsyuk/CityPlan)
+- [afonsoafonsoafonso/hashcode2018-city-plan](https://github.com/afonsoafonsoafonso/hashcode2018-city-plan) — not kept after benchmarking
+- [AntoineMrj/google-hashcode-2018](https://github.com/AntoineMrj/google-hashcode-2018) — not kept after benchmarking
+- [arriopolis/HashCode](https://github.com/arriopolis/HashCode) — not kept after benchmarking
+- [DamienCvl/Google-Hashcode2018](https://github.com/DamienCvl/Google-Hashcode2018) — not kept after benchmarking
+- [HillaShx/HashCode](https://github.com/HillaShx/HashCode) — not kept after benchmarking
+- [HofmannZ/hashcode-2018](https://github.com/HofmannZ/hashcode-2018) — not kept after benchmarking
+- [kjanko/hashcode18-19](https://github.com/kjanko/hashcode18-19) — not kept after benchmarking
+- [kostyaHrytsyuk/CityPlan](https://github.com/kostyaHrytsyuk/CityPlan) — not kept after benchmarking
 - [mihai-bontea/Google-Hash-Code-2018-Final-Round](https://github.com/mihai-bontea/Google-Hash-Code-2018-Final-Round)
-- [Mykhailenko/hashcode2018](https://github.com/Mykhailenko/hashcode2018)
-- [PierreLeGuen/Google-HashCode-Polyhash-2018](https://github.com/PierreLeGuen/Google-HashCode-Polyhash-2018) — also: [gitlab.univ-nantes.fr/E166236R/equipe-p---projetalgo2018](https://gitlab.univ-nantes.fr/E166236R/equipe-p---projetalgo2018)
-- [robert-panduru/Google-HashCode-2018](https://github.com/robert-panduru/Google-HashCode-2018)
-- [thomas-peuziat/PolyHash2018](https://github.com/thomas-peuziat/PolyHash2018)
-- `polyhash-mjbm` (URL not recorded)
+- [Mykhailenko/hashcode2018](https://github.com/Mykhailenko/hashcode2018) — not kept: not a solver (a score calculator)
+- [PierreLeGuen/Google-HashCode-Polyhash-2018](https://github.com/PierreLeGuen/Google-HashCode-Polyhash-2018) — also: [gitlab.univ-nantes.fr/E166236R/equipe-p---projetalgo2018](https://gitlab.univ-nantes.fr/E166236R/equipe-p---projetalgo2018) — not kept after benchmarking
+- [robert-panduru/Google-HashCode-2018](https://github.com/robert-panduru/Google-HashCode-2018) — not kept after benchmarking
+- [thomas-peuziat/PolyHash2018](https://github.com/thomas-peuziat/PolyHash2018) — not kept after benchmarking
+- `polyhash-mjbm` (URL not recorded) — not kept after benchmarking
 
 ### Found but not collected (3)
 

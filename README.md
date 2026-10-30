@@ -13,6 +13,18 @@ Best score per instance for the problems benchmarked so far. *Open-source solver
 |---|---:|---:|
 | `hashcode_2014_final_round` | 1,930,138 | 1,923,588 |
 
+### [City Plan](city_plan/) (Hash Code 2018, final round)
+
+| Instance | Best score of the open-source solvers | Best score in the competition |
+|---|---:|---:|
+| `a_example` | not benchmarked (example) | not published |
+| `b_short_walk` | 4,906,081 | not published |
+| `c_going_green` | 8,693,408 | not published |
+| `d_wide_selection` | 7,750,808 | not published |
+| `e_precise_fit` | 4,803,980 | not published |
+| `f_different_footprints` | 7,004,244 | not published |
+| **Total** | **33,158,521** (B–F) | **38,102,788** (all instances; ( ._.) ( ._. ) (._.) (._. )) |
+
 ### [Compiling Google](compiling_google/) (Hash Code 2019, final round)
 
 | Instance | Best score of the open-source solvers | Best score in the competition |

@@ -13,7 +13,7 @@ Number of solvers collected and kept for each problem, in contest order. A `-` m
 | [Streaming Videos](streaming_videos/) (2017, qualification) | 363 | - |
 | [Router Placement](router_placement/) (2017, final) | 25 | - |
 | [Self-driving Rides](self_driving_rides/) (2018, qualification) | 526 | - |
-| [City Plan](city_plan/) (2018, final) | 14 | - |
+| [City Plan](city_plan/) (2018, final) | 13 | 2 |
 | [Photo Slideshow](photo_slideshow/) (2019, qualification) | 539 | - |
 | [Compiling Google](compiling_google/) (2019, final) | 12 | 3 |
 | [More Pizza](more_pizza/) (2020, practice) | 296 | - |
@@ -26,4 +26,4 @@ Number of solvers collected and kept for each problem, in contest order. A `-` m
 | [Mentorship and Teamwork](mentorship_and_teamwork/) (2022, qualification) | 253 | - |
 | [Santa Tracker](santa_tracker/) (2022, final) | 8 | 2 |
 
-Collected counts are repositories. They leave out repositories found not to be solvers and exact duplicates, which are listed in [EXCLUDED.md](EXCLUDED.md) and in each problem's README. For Software Engineering at Scale, the 4 kept solvers come from 3 of the 6 repositories, because `Loicyeu` provides two of them. For Compiling Google, the 3 kept solvers come from 2 of the 12 repositories, because `LarsAstrom` provides two of them. For Street View Routing, one of the 2 kept solvers is a single program with four modes.
+Collected counts are repositories. They leave out repositories found not to be solvers and exact duplicates, which are listed in [EXCLUDED.md](EXCLUDED.md) and in each problem's README. For Software Engineering at Scale, the 4 kept solvers come from 3 of the 6 repositories, because `Loicyeu` provides two of them. For Compiling Google, the 3 kept solvers come from 2 of the 12 repositories, because `LarsAstrom` provides two of them. For Street View Routing, one of the 2 kept solvers is a single program with four modes. For City Plan, the 2 kept solvers both come from `mihai-bontea`, 1 of the 13 repositories.

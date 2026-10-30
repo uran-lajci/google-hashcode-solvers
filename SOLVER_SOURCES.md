@@ -2,7 +2,7 @@
 
 Links to every solver repository found for each problem, before any solver was analyzed or removed. Problems are in contest order. A repository that covers several problems appears under each of them.
 
-*Collected* repositories were imported into the problem folder. Only Assembling Smartphones, Software Engineering at Scale and Santa Tracker have been through selection so far, so they are the only problems with repositories marked *not kept*. *Found but not collected* lists duplicates of a collected solver and repositories with no usable solver that the problem's README attributes to that problem. Repositories that were rejected without being attributed to a problem are in [EXCLUDED.md](EXCLUDED.md).
+*Collected* repositories were imported into the problem folder. Only Compiling Google, Assembling Smartphones, Software Engineering at Scale and Santa Tracker have been through selection so far, so they are the only problems with repositories marked *not kept*. *Found but not collected* lists duplicates of a collected solver and repositories with no usable solver that the problem's README attributes to that problem. Repositories that were rejected without being attributed to a problem are in [EXCLUDED.md](EXCLUDED.md).
 
 | Problem | Contest | Collected | Found but not collected |
 |---|---|---:|---:|
@@ -2368,18 +2368,18 @@ Links to every solver repository found for each problem, before any solver was a
 
 ### Collected (12)
 
-- [AlexeyZhuravlev/hashcode-2019-final-training](https://github.com/AlexeyZhuravlev/hashcode-2019-final-training)
-- [arriopolis/HashCode](https://github.com/arriopolis/HashCode)
-- [danvixent/hashcode2019-final-round](https://github.com/danvixent/hashcode2019-final-round)
-- [gnitsua/hashcode2021](https://github.com/gnitsua/hashcode2021)
-- [ishaanzaveri/HashCode2019](https://github.com/ishaanzaveri/HashCode2019)
-- [kobr4/g_hashcodes](https://github.com/kobr4/g_hashcodes)
+- [AlexeyZhuravlev/hashcode-2019-final-training](https://github.com/AlexeyZhuravlev/hashcode-2019-final-training) — not kept after benchmarking
+- [arriopolis/HashCode](https://github.com/arriopolis/HashCode) — not kept after benchmarking
+- [danvixent/hashcode2019-final-round](https://github.com/danvixent/hashcode2019-final-round) — not kept after benchmarking
+- [gnitsua/hashcode2021](https://github.com/gnitsua/hashcode2021) — not kept after benchmarking
+- [ishaanzaveri/HashCode2019](https://github.com/ishaanzaveri/HashCode2019) — not kept after benchmarking
+- [kobr4/g_hashcodes](https://github.com/kobr4/g_hashcodes) — not kept after benchmarking
 - [LarsAstrom/Hashcode-final-2019](https://github.com/LarsAstrom/Hashcode-final-2019)
-- [lekemula/compile_scheduler](https://github.com/lekemula/compile_scheduler)
-- [Mogstene/Google-HashCode-2019](https://github.com/Mogstene/Google-HashCode-2019)
-- [mrDreaml/hashCode2019UI](https://github.com/mrDreaml/hashCode2019UI)
+- [lekemula/compile_scheduler](https://github.com/lekemula/compile_scheduler) — not kept after benchmarking
+- [Mogstene/Google-HashCode-2019](https://github.com/Mogstene/Google-HashCode-2019) — not kept after benchmarking
+- [mrDreaml/hashCode2019UI](https://github.com/mrDreaml/hashCode2019UI) — not kept after benchmarking
 - [Nanored4498/HashCode2022](https://github.com/Nanored4498/HashCode2022)
-- [nilswende/hashcode-2019](https://github.com/nilswende/hashcode-2019)
+- [nilswende/hashcode-2019](https://github.com/nilswende/hashcode-2019) — not kept after benchmarking
 
 ### Found but not collected (2)
 

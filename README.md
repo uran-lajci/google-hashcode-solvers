@@ -7,6 +7,18 @@ A curated list of open-source solvers for Google Hash Code problems, 2014–2022
 
 Best score per instance for the problems benchmarked so far. *Open-source solvers* is the best valid output of the solvers kept in the problem folder (`<problem>/output/`), re-scored with the official judge under the benchmark protocol (10-minute limit per run; see each problem's `SOLVER_SELECTION.md`). *Competition* is the best score among the teams on the archived scoreboard ([google-hashcode-archive](https://github.com/pierreavn/google-hashcode-archive)). The *Total* row sums the open-source bests over the benchmarked instances and gives the best team total, which also includes the example (A). Where a scoreboard has only team totals, the per-instance cells say *not published*.
 
+### [Compiling Google](compiling_google/) (Hash Code 2019, final round)
+
+| Instance | Best score of the open-source solvers | Best score in the competition |
+|---|---:|---:|
+| `a_example` | not benchmarked (example) | not published |
+| `b_narrow` | 1,530,065 | not published |
+| `c_urgent` | 1,950,379 | not published |
+| `d_typical` | 1,277,337 | not published |
+| `e_intriguing` | 524,288 | not published |
+| `f_big` | 840,971 | not published |
+| **Total** | **6,123,040** (B–F) | **6,228,032** (all instances; Past Glory) |
+
 ### [Assembling Smartphones](assembling_smartphones/) (Hash Code 2020, final round)
 
 | Instance | Best score of the open-source solvers | Best score in the competition |

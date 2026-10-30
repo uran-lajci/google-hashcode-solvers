@@ -15,7 +15,7 @@ Number of solvers collected and kept for each problem, in contest order. A `-` m
 | [Self-driving Rides](self_driving_rides/) (2018, qualification) | 544 | - |
 | [City Plan](city_plan/) (2018, final) | 14 | - |
 | [Photo Slideshow](photo_slideshow/) (2019, qualification) | 557 | - |
-| [Compiling Google](compiling_google/) (2019, final) | 12 | - |
+| [Compiling Google](compiling_google/) (2019, final) | 12 | 3 |
 | [More Pizza](more_pizza/) (2020, practice) | 301 | - |
 | [Book Scanning](book_scanning/) (2020, qualification) | 749 | - |
 | [Assembling Smartphones](assembling_smartphones/) (2020, final) | 12 | 3 |
@@ -26,4 +26,4 @@ Number of solvers collected and kept for each problem, in contest order. A `-` m
 | [Mentorship and Teamwork](mentorship_and_teamwork/) (2022, qualification) | 267 | - |
 | [Santa Tracker](santa_tracker/) (2022, final) | 8 | 2 |
 
-Collected counts are repositories. For Software Engineering at Scale, the 4 kept solvers come from 3 of the 6 repositories, because `Loicyeu` provides two of them.
+Collected counts are repositories. For Software Engineering at Scale, the 4 kept solvers come from 3 of the 6 repositories, because `Loicyeu` provides two of them. For Compiling Google, the 3 kept solvers come from 2 of the 12 repositories, because `LarsAstrom` provides two of them.

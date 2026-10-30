@@ -31,4 +31,16 @@ Best score per instance for the problems benchmarked so far. *Open-source solver
 | `f_five_thousand` | 151,177,982 | not published |
 | **Total** | **314,181,920** (B–F) | **370,364,455** (all instances; No jokes about underpants) |
 
+### [Santa Tracker](santa_tracker/) (Hash Code 2022, final round)
+
+| Instance | Best score of the open-source solvers | Best score in the competition |
+|---|---:|---:|
+| `a_an_example` | not benchmarked (example) | 18 |
+| `b_better_hurry` | 122,311 | 270,570 |
+| `c_carousel` | 1,692,098 | 1,794,307 |
+| `d_decorated_houses` | 621,478 | 914,999 |
+| `e_excellent_weather` | 1,050,706 | 1,193,009 |
+| `f_festive_flyover` | 1,352,019 | 1,787,457 |
+| **Total** | **4,838,612** (B–F) | **5,396,369** (all instances; ✷code) |
+
 <!-- benchmark-tables:end -->

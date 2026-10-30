@@ -2,7 +2,7 @@
 
 Links to every solver repository found for each problem, before any solver was analyzed or removed. Problems are in contest order. A repository that covers several problems appears under each of them.
 
-*Collected* repositories were imported into the problem folder. Only Compiling Google, Assembling Smartphones, Software Engineering at Scale and Santa Tracker have been through selection so far, so they are the only problems with repositories marked *not kept*. *Found but not collected* lists duplicates of a collected solver and repositories with no usable solver that the problem's README attributes to that problem. Repositories that were rejected without being attributed to a problem are in [EXCLUDED.md](EXCLUDED.md).
+*Collected* repositories were imported into the problem folder. Only Street View Routing, Compiling Google, Assembling Smartphones, Software Engineering at Scale and Santa Tracker have been through selection so far, so they are the only problems with repositories marked *not kept*. *Found but not collected* lists duplicates of a collected solver and repositories with no usable solver that the problem's README attributes to that problem. Repositories that were rejected without being attributed to a problem are in [EXCLUDED.md](EXCLUDED.md).
 
 | Problem | Contest | Collected | Found but not collected |
 |---|---|---:|---:|
@@ -35,24 +35,24 @@ Links to every solver repository found for each problem, before any solver was a
 
 ### Collected (18)
 
-- [antgus/hashcode2014](https://github.com/antgus/hashcode2014)
-- [Artifere/HashCodeBanane](https://github.com/Artifere/HashCodeBanane)
-- [davidfang00/Julia_Hashcode2014.jl](https://github.com/davidfang00/Julia_Hashcode2014.jl)
-- [Diegoriggle77/hashcode2017](https://github.com/Diegoriggle77/hashcode2017)
-- [gdalle/GoogleHashCode2014.jl](https://github.com/gdalle/GoogleHashCode2014.jl)
-- [ivanmakhnyk/StreetViewRouting-HashCode](https://github.com/ivanmakhnyk/StreetViewRouting-HashCode)
+- [antgus/hashcode2014](https://github.com/antgus/hashcode2014) — not kept after benchmarking
+- [Artifere/HashCodeBanane](https://github.com/Artifere/HashCodeBanane) — not kept after benchmarking
+- [davidfang00/Julia_Hashcode2014.jl](https://github.com/davidfang00/Julia_Hashcode2014.jl) — not kept after benchmarking
+- [Diegoriggle77/hashcode2017](https://github.com/Diegoriggle77/hashcode2017) — not kept after benchmarking
+- [gdalle/GoogleHashCode2014.jl](https://github.com/gdalle/GoogleHashCode2014.jl) — not kept after benchmarking
+- [ivanmakhnyk/StreetViewRouting-HashCode](https://github.com/ivanmakhnyk/StreetViewRouting-HashCode) — not kept after benchmarking
 - [jilljenn/hashcode2014](https://github.com/jilljenn/hashcode2014)
 - [jp172/google-hash-code-solutions](https://github.com/jp172/google-hash-code-solutions)
-- [kafkoders/hashcode-streetview](https://github.com/kafkoders/hashcode-streetview)
-- [LAnastasiia/street_view_routing](https://github.com/LAnastasiia/street_view_routing)
-- [nicolas-legroux/Google-HashCode-2014](https://github.com/nicolas-legroux/Google-HashCode-2014)
-- [nicolasbourbaki35/hashcode2014](https://github.com/nicolasbourbaki35/hashcode2014)
-- [renuo/hashcode2018-jam-streetview](https://github.com/renuo/hashcode2018-jam-streetview)
-- [Siddharth-cmd/google-hashcode-2014](https://github.com/Siddharth-cmd/google-hashcode-2014)
-- [TedevFR/GoogleHashCode-StreetViewRouting](https://github.com/TedevFR/GoogleHashCode-StreetViewRouting)
-- [tfisher013/SuperStreetViewRouter.jl](https://github.com/tfisher013/SuperStreetViewRouter.jl)
-- [X-Wei/INF580_HashCode2014](https://github.com/X-Wei/INF580_HashCode2014)
-- [yuvalm11/HashCode2014Solution.jl](https://github.com/yuvalm11/HashCode2014Solution.jl)
+- [kafkoders/hashcode-streetview](https://github.com/kafkoders/hashcode-streetview) — not kept after benchmarking
+- [LAnastasiia/street_view_routing](https://github.com/LAnastasiia/street_view_routing) — not kept after benchmarking
+- [nicolas-legroux/Google-HashCode-2014](https://github.com/nicolas-legroux/Google-HashCode-2014) — not kept after benchmarking
+- [nicolasbourbaki35/hashcode2014](https://github.com/nicolasbourbaki35/hashcode2014) — not kept after benchmarking
+- [renuo/hashcode2018-jam-streetview](https://github.com/renuo/hashcode2018-jam-streetview) — not kept after benchmarking
+- [Siddharth-cmd/google-hashcode-2014](https://github.com/Siddharth-cmd/google-hashcode-2014) — not kept after benchmarking
+- [TedevFR/GoogleHashCode-StreetViewRouting](https://github.com/TedevFR/GoogleHashCode-StreetViewRouting) — not kept after benchmarking
+- [tfisher013/SuperStreetViewRouter.jl](https://github.com/tfisher013/SuperStreetViewRouter.jl) — not kept after benchmarking
+- [X-Wei/INF580_HashCode2014](https://github.com/X-Wei/INF580_HashCode2014) — not kept after benchmarking
+- [yuvalm11/HashCode2014Solution.jl](https://github.com/yuvalm11/HashCode2014Solution.jl) — not kept after benchmarking
 
 ## Optimize a Data Center
 

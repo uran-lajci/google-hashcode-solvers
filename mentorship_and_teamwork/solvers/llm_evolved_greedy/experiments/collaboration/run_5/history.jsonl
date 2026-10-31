@@ -1,0 +1,202 @@
+{"iter": 0, "event": "baseline", "score": 255918}
+{"iter": 1, "event": "usage", "input": 31, "output": 412, "cache_read": 0, "cache_write": 6074}
+{"iter": 1, "event": "accept", "score": 255918, "best": 255918, "blocks": [["\t\tif(sol.size() > 3200) break;", "\t\tif(sol.size() > 6400) break;"]]}
+{"iter": 2, "event": "usage", "input": 143, "output": 1013, "cache_read": 6074, "cache_write": 0}
+{"iter": 2, "event": "accept", "score": 273168, "best": 273168, "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time;", "\t\t\tdouble score = 1000. + double(sco) / time - 1e-7*end;"]]}
+{"iter": 3, "event": "usage", "input": 267, "output": 124, "cache_read": 6074, "cache_write": 0}
+{"iter": 3, "event": "reject", "score": 256706, "best": 273168, "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 1e-7*end;", "\t\t\tdouble score = 1000. + double(sco) / time - 1e-6*end;"]]}
+{"iter": 4, "event": "usage", "input": 413, "output": 96, "cache_read": 6074, "cache_write": 0}
+{"iter": 4, "event": "accept", "score": 273234, "best": 273234, "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 1e-7*end;", "\t\t\tdouble score = 1000. + double(sco) / time - 3e-8*end;"]]}
+{"iter": 5, "event": "usage", "input": 545, "output": 93, "cache_read": 6074, "cache_write": 0}
+{"iter": 5, "event": "reject", "score": 262066, "best": 273234, "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 3e-8*end;", "\t\t\tdouble score = 1000. + double(sco) / time - 1e-8*end;"]]}
+{"iter": 6, "event": "usage", "input": 691, "output": 114, "cache_read": 6074, "cache_write": 0}
+{"iter": 6, "event": "reject", "score": 260863, "best": 273234, "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 3e-8*end;", "\t\t\tdouble score = 1000. + double(sco) / time - 5e-8*end;"]]}
+{"iter": 7, "event": "usage", "input": 837, "output": 116, "cache_read": 6074, "cache_write": 0}
+{"iter": 7, "event": "accept", "score": 273234, "best": 273234, "blocks": [["\t\tif(sol.size() > 6400) break;", "\t\tif(sol.size() > 100000) break;"]]}
+{"iter": 8, "event": "usage", "input": 949, "output": 323, "cache_read": 6074, "cache_write": 0}
+{"iter": 8, "event": "reject", "score": 262014, "best": 273234, "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 3e-8*end;", "\t\t\tdouble score = 1000. + double(sco) / time - 2e-8*end;"]]}
+{"iter": 9, "event": "usage", "input": 1095, "output": 203, "cache_read": 6074, "cache_write": 0}
+{"iter": 9, "event": "reject", "score": 254434, "best": 273234, "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 3e-8*end;", "\t\t\tdouble score = 1000. + double(sco) / time - 3.5e-8*end;"]]}
+{"iter": 10, "event": "usage", "input": 1243, "output": 179, "cache_read": 6074, "cache_write": 0}
+{"iter": 10, "event": "accept", "score": 273234, "best": 273234, "blocks": [["\t\t\t\tscore = nblvlup / time;", "\t\t\t\tscore = nblvlup / time - 3e-8*end;"]]}
+{"iter": 11, "event": "usage", "input": 1355, "output": 1389, "cache_read": 6074, "cache_write": 0}
+{"iter": 11, "event": "accept", "score": 273234, "best": 273234, "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 3e-8*end;", "\t\t\tdouble score = 1000. + double(sco) / time - 2.8e-8*end;"]]}
+{"iter": 12, "event": "usage", "input": 1489, "output": 365, "cache_read": 6074, "cache_write": 0}
+{"iter": 12, "event": "reject", "score": 255094, "best": 273234, "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 2.8e-8*end;", "\t\t\tdouble score = 1000. + double(sco) / time - 2.8e-8*time;"]]}
+{"iter": 13, "event": "usage", "input": 1639, "output": 1657, "cache_read": 6074, "cache_write": 0}
+{"iter": 13, "event": "accept", "score": 273234, "best": 273234, "blocks": [["\t\t\t\t\t\tdouble sc = double(max(0, S[p] - max(0, av[subR[i]]+D[p]-B[p]))) / double(t);\n\t\t\t\t\t\tif(sc < best) {", "\t\t\t\t\t\tdouble sc = double(max(0, S[p] - max(0, av[subR[i]]+D[p]-B[p]))) / double(t);\n\t\t\t\t\t\tif(sc > best) {"]]}
+{"iter": 14, "event": "usage", "input": 1831, "output": 888, "cache_read": 6074, "cache_write": 0}
+{"iter": 14, "event": "accept", "score": 273234, "best": 273234, "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 2.8e-8*end;", "\t\t\tdouble score = 1000. + double(sco) / time - 2.9e-8*end;"]]}
+{"iter": 15, "event": "usage", "input": 1967, "output": 997, "cache_read": 6074, "cache_write": 0}
+{"iter": 15, "event": "reject", "score": 262014, "best": 273234, "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 2.9e-8*end;", "\t\t\tdouble score = 1000. + double(sco) / time - 2.9e-8*mav;"]]}
+{"iter": 16, "event": "usage", "input": 2118, "output": 543, "cache_read": 6074, "cache_write": 0}
+{"iter": 16, "event": "accept", "score": 273234, "best": 273234, "blocks": [["\t\t\t\tscore = nblvlup / time - 3e-8*end;", "\t\t\t\tscore = nblvlup / time - 2.9e-8*end;"]]}
+{"iter": 17, "event": "usage", "input": 2240, "output": 1426, "cache_read": 6074, "cache_write": 0}
+{"iter": 17, "event": "accept", "score": 273234, "best": 273234, "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 2.9e-8*end;", "\t\t\tdouble score = 1000. + double(sco) / time - 3.1e-8*end;"]]}
+{"iter": 18, "event": "usage", "input": 2376, "output": 482, "cache_read": 6074, "cache_write": 0}
+{"iter": 18, "event": "reject", "score": 265840, "best": 273234, "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 3.1e-8*end;", "\t\t\tdouble score = 1000. + double(sco) / time - 3.3e-8*end;"]]}
+{"iter": 19, "event": "usage", "input": 2526, "output": 746, "cache_read": 6074, "cache_write": 0}
+{"iter": 19, "event": "accept", "score": 273234, "best": 273234, "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 3.1e-8*end;", "\t\t\tdouble score = 1000. + double(sco) / time - 3.05e-8*end;"]]}
+{"iter": 20, "event": "usage", "input": 2662, "output": 1307, "cache_read": 6074, "cache_write": 0}
+{"iter": 20, "event": "accept", "score": 273234, "best": 273234, "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 3.05e-8*end;", "\t\t\tdouble score = 1000. + double(sco) / time - 3.05e-8*end + 1e-9*S[p];"]]}
+{"iter": 21, "event": "usage", "input": 2808, "output": 279, "cache_read": 6074, "cache_write": 0}
+{"iter": 21, "event": "accept", "score": 273234, "best": 273234, "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 3.05e-8*end + 1e-9*S[p];", "\t\t\tdouble score = 1000. + double(sco) / time - 3.05e-8*end + 1e-8*S[p];"]]}
+{"iter": 22, "event": "usage", "input": 2964, "output": 124, "cache_read": 6074, "cache_write": 0}
+{"iter": 22, "event": "reject", "score": 262079, "best": 273234, "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 3.05e-8*end + 1e-8*S[p];", "\t\t\tdouble score = 1000. + double(sco) / time - 3.05e-8*end + 1e-7*S[p];"]]}
+{"iter": 23, "event": "usage", "input": 3134, "output": 472, "cache_read": 6074, "cache_write": 0}
+{"iter": 23, "event": "reject", "score": 261402, "best": 273234, "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 3.05e-8*end + 1e-8*S[p];", "\t\t\tdouble score = 1000. + double(sco) / time - 3.05e-8*end + 3e-8*S[p];"], ["\t\t\tdouble score = 1000. + double(sco) / time - 3.05e-8*end + 3e-8*S[p];", "\t\t\tdouble score = 1000. + double(sco) / time - 3.05e-8*end + 5e-8*S[p];"]]}
+{"iter": 24, "event": "usage", "input": 3459, "output": 518, "cache_read": 6074, "cache_write": 0}
+{"iter": 24, "event": "apply_error", "detail": "block 1: SEARCH text matched 0 times in the current accepted solver (must match exactly once). First SEARCH line: '\\t\\t\\tdouble score = 1000. + double(sco) / time - 3.05e-8*end + 3e-8*S[p];'", "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 3.05e-8*end + 3e-8*S[p];", "\t\t\tdouble score = 1000. + double(sco) / time - 3.05e-8*end + 3e-8*S[p] - 1e-9*D[p];"]]}
+{"iter": 25, "event": "usage", "input": 3714, "output": 256, "cache_read": 6074, "cache_write": 0}
+{"iter": 25, "event": "apply_error", "detail": "block 1: SEARCH text matched 0 times in the current accepted solver (must match exactly once). First SEARCH line: '\\t\\t\\tdouble score = 1000. + double(sco) / time - 3.05e-8*end + 3e-8*S[p];'", "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 3.05e-8*end + 3e-8*S[p];", "\t\t\tdouble score = 1000. + double(sco) / time - 3.05e-8*end + 3e-8*S[p] - 1e-9*time;"]]}
+{"iter": 26, "event": "usage", "input": 3967, "output": 452, "cache_read": 6074, "cache_write": 0}
+{"iter": 26, "event": "accept", "score": 273234, "best": 273234, "blocks": [["\t\t\t\tscore = nblvlup / time - 2.9e-8*end;", "\t\t\t\tscore = nblvlup / time - 3.05e-8*end;"]]}
+{"iter": 27, "event": "usage", "input": 4091, "output": 2189, "cache_read": 6074, "cache_write": 0}
+{"iter": 27, "event": "accept", "score": 273234, "best": 273234, "blocks": [["\t\t\t\t\t\tdouble sc = double(max(0, S[p] - max(0, av[subR[i]]+D[p]-B[p]))) / double(t);\n\t\t\t\t\t\tif(sc > best) {", "\t\t\t\t\t\tdouble sc = double(max(0, S[p] - max(0, av[subR[i]]+D[p]-B[p]))) / double(t) - 3.05e-8*(av[subR[i]]+D[p]);\n\t\t\t\t\t\tif(sc > best) {"]]}
+{"iter": 28, "event": "usage", "input": 4307, "output": 548, "cache_read": 6074, "cache_write": 0}
+{"iter": 28, "event": "reject", "score": 252855, "best": 273234, "blocks": [["\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), -min(av[c], m), skill[c][s], ts[c]); };", "\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), -min(av[c], m), skill[c][s], -ts[c]); };"]]}
+{"iter": 29, "event": "usage", "input": 4528, "output": 283, "cache_read": 6074, "cache_write": 0}
+{"iter": 29, "event": "apply_error", "detail": "block 1: SEARCH text matched 0 times in the current accepted solver (must match exactly once). First SEARCH line: '\\t\\t\\tdouble score = 1000. + double(sco) / time - 3.05e-8*end + 3e-8*S[p];'", "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 3.05e-8*end + 3e-8*S[p];", "\t\t\tdouble score = 1000. + double(sco) / time - 3.0e-8*end + 3e-8*S[p];"]]}
+{"iter": 30, "event": "usage", "input": 4772, "output": 2249, "cache_read": 6074, "cache_write": 0}
+{"iter": 30, "event": "apply_error", "detail": "block 1: SEARCH text matched 0 times in the current accepted solver (must match exactly once). First SEARCH line: '- 3.05e-8*end + 3e-8*S[p];'", "blocks": [["- 3.05e-8*end + 3e-8*S[p];", "- 3.0e-8*end + 3e-8*S[p];"]]}
+{"iter": 31, "event": "usage", "input": 4961, "output": 1292, "cache_read": 6074, "cache_write": 0}
+{"iter": 31, "event": "apply_error", "detail": "block 1: SEARCH text matched 0 times in the current accepted solver (must match exactly once). First SEARCH line: ' + 3e-8*S[p];'", "blocks": [[" + 3e-8*S[p];", " + 3e-8*S[p] - 1e-9*D[p];"]]}
+{"iter": 32, "event": "usage", "input": 5134, "output": 386, "cache_read": 6074, "cache_write": 0}
+{"iter": 32, "event": "accept", "score": 273234, "best": 273234, "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time", "\t\t\tdouble score = 1000. + double(sco) / time - 1e-9*D[p]"]]}
+{"iter": 33, "event": "usage", "input": 5259, "output": 139, "cache_read": 6074, "cache_write": 0}
+{"iter": 33, "event": "accept", "score": 275615, "best": 275615, "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 1e-9*D[p]", "\t\t\tdouble score = 1000. + double(sco) / time - 1e-8*D[p]"]]}
+{"iter": 34, "event": "usage", "input": 5395, "output": 103, "cache_read": 6074, "cache_write": 0}
+{"iter": 34, "event": "reject", "score": 263418, "best": 275615, "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 1e-8*D[p]", "\t\t\tdouble score = 1000. + double(sco) / time - 3e-8*D[p]"]]}
+{"iter": 35, "event": "usage", "input": 5545, "output": 88, "cache_read": 6074, "cache_write": 0}
+{"iter": 35, "event": "reject", "score": 258917, "best": 275615, "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 1e-8*D[p]", "\t\t\tdouble score = 1000. + double(sco) / time - 1.5e-8*D[p]"]]}
+{"iter": 36, "event": "usage", "input": 5697, "output": 88, "cache_read": 6074, "cache_write": 0}
+{"iter": 36, "event": "accept", "score": 275615, "best": 275615, "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 1e-8*D[p]", "\t\t\tdouble score = 1000. + double(sco) / time - 1.2e-8*D[p]"]]}
+{"iter": 37, "event": "usage", "input": 5835, "output": 102, "cache_read": 6074, "cache_write": 0}
+{"iter": 37, "event": "accept", "score": 275615, "best": 275615, "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 1.2e-8*D[p]", "\t\t\tdouble score = 1000. + double(sco) / time - 1.2e-8*D[p] - 1e-9*cs.size()"]]}
+{"iter": 38, "event": "usage", "input": 5987, "output": 253, "cache_read": 6074, "cache_write": 0}
+{"iter": 38, "event": "accept", "score": 275615, "best": 275615, "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 1.2e-8*D[p] - 1e-9*cs.size()", "\t\t\tdouble score = 1000. + double(sco) / time - 1.2e-8*D[p] - 1e-8*cs.size()"]]}
+{"iter": 39, "event": "usage", "input": 6151, "output": 114, "cache_read": 6074, "cache_write": 0}
+{"iter": 39, "event": "accept", "score": 275615, "best": 275615, "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 1.2e-8*D[p] - 1e-8*cs.size()", "\t\t\tdouble score = 1000. + double(sco) / time - 1.2e-8*D[p] - 5e-8*cs.size()"]]}
+{"iter": 40, "event": "usage", "input": 6315, "output": 125, "cache_read": 6074, "cache_write": 0}
+{"iter": 40, "event": "accept", "score": 275615, "best": 275615, "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 1.2e-8*D[p] - 5e-8*cs.size()", "\t\t\tdouble score = 1000. + double(sco) / time - 1.2e-8*D[p] - 2e-7*cs.size()"]]}
+{"iter": 41, "event": "usage", "input": 6479, "output": 226, "cache_read": 6074, "cache_write": 0}
+{"iter": 41, "event": "accept", "score": 275615, "best": 275615, "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 1.2e-8*D[p] - 2e-7*cs.size()", "\t\t\tdouble score = 1000. + double(sco) / time - 1.1e-8*D[p] - 2e-7*cs.size()"]]}
+{"iter": 42, "event": "usage", "input": 6643, "output": 162, "cache_read": 6074, "cache_write": 0}
+{"iter": 42, "event": "accept", "score": 275615, "best": 275615, "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 1.1e-8*D[p] - 2e-7*cs.size()", "\t\t\tdouble score = 1000. + double(sco) / time - 1.05e-8*D[p] - 2e-7*cs.size()"]]}
+{"iter": 43, "event": "usage", "input": 6807, "output": 1327, "cache_read": 6074, "cache_write": 0}
+{"iter": 43, "event": "apply_error", "detail": "block 1: SEARCH text matched 0 times in the current accepted solver (must match exactly once). First SEARCH line: '\\t\\t\\tdouble score = 1000. + double(sco) / time - 1.05e-8*D[p] - 2e-7*cs.size() - 3.05e-8*end + 3e-8*S[p];'", "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 1.05e-8*D[p] - 2e-7*cs.size() - 3.05e-8*end + 3e-8*S[p];", "\t\t\tdouble score = 1000. + double(sco) / time - 1.05e-8*D[p] - 2e-7*cs.size() - 3.05e-8*end + 5e-8*S[p];"]]}
+{"iter": 44, "event": "usage", "input": 7126, "output": 1150, "cache_read": 6074, "cache_write": 0}
+{"iter": 44, "event": "apply_error", "detail": "block 1: SEARCH text matched 0 times in the current accepted solver (must match exactly once). First SEARCH line: ' - 3.05e-8*end + 3e-8*S[p];'", "blocks": [[" - 3.05e-8*end + 3e-8*S[p];", " - 3.05e-8*end + 5e-8*S[p];"]]}
+{"iter": 45, "event": "usage", "input": 7318, "output": 5086, "cache_read": 6074, "cache_write": 0}
+{"iter": 45, "event": "accept", "score": 275615, "best": 275615, "blocks": [["- 1.05e-8*D[p] - 2e-7*cs.size()", "- 1.05e-8*D[p] - 1e-7*cs.size()"]]}
+{"iter": 46, "event": "usage", "input": 7450, "output": 418, "cache_read": 6074, "cache_write": 0}
+{"iter": 46, "event": "apply_error", "detail": "block 1: SEARCH text matched 0 times in the current accepted solver (must match exactly once). First SEARCH line: '*cs.size() - 3.05e-8*end + 3e-8*S[p];'", "blocks": [["*cs.size() - 3.05e-8*end + 3e-8*S[p];", "*cs.size() - 3.0e-8*end + 3e-8*S[p];"]]}
+{"iter": 47, "event": "usage", "input": 7657, "output": 546, "cache_read": 6074, "cache_write": 0}
+{"iter": 47, "event": "apply_error", "detail": "block 1: SEARCH text matched 0 times in the current accepted solver (must match exactly once). First SEARCH line: '*cs.size() - 3.05e-8*end + 3e-8*S[p];'", "blocks": [["*cs.size() - 3.05e-8*end + 3e-8*S[p];", "*cs.size() - 2.9e-8*end + 3e-8*S[p];"]]}
+{"iter": 48, "event": "usage", "input": 7879, "output": 2935, "cache_read": 6074, "cache_write": 0}
+{"iter": 48, "event": "accept", "score": 275615, "best": 275615, "blocks": [["\t\t\t\tscore = nblvlup / time - 3.05e-8*end;", "\t\t\t\tscore = nblvlup / time - 3.05e-8*end - 1e-8*D[p];"]]}
+{"iter": 49, "event": "usage", "input": 8013, "output": 185, "cache_read": 6074, "cache_write": 0}
+{"iter": 49, "event": "apply_error", "detail": "block 1: SEARCH text matched 0 times in the current accepted solver (must match exactly once). First SEARCH line: '*cs.size() - 3.05e-8*end + 3e-8*S[p];'", "blocks": [["*cs.size() - 3.05e-8*end + 3e-8*S[p];", "*cs.size() - 3.05e-8*end + 3.5e-8*S[p];"]]}
+{"iter": 50, "event": "usage", "input": 8222, "output": 5670, "cache_read": 6074, "cache_write": 0}
+{"iter": 50, "event": "apply_error", "detail": "block 1: SEARCH text matched 0 times in the current accepted solver (must match exactly once). First SEARCH line: '\\t\\t\\tdouble score = 1000. + double(sco) / time - 1.05e-8*D[p] - 1e-7*cs.size() - 3.05e-8*end + 3e-8*S[p];'", "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 1.05e-8*D[p] - 1e-7*cs.size() - 3.05e-8*end + 3e-8*S[p];", "\t\t\tdouble score = 1000. + double(sco) / time - 1.05e-8*D[p] - 1e-7*cs.size() - 3.05e-8*end + 6e-8*S[p];"]]}
+{"iter": 51, "event": "usage", "input": 8541, "output": 1450, "cache_read": 6074, "cache_write": 0}
+{"iter": 51, "event": "apply_error", "detail": "block 1: SEARCH text matched 0 times in the current accepted solver (must match exactly once). First SEARCH line: '*end + 3e-8*S[p];'", "blocks": [["*end + 3e-8*S[p];", "*end + 4e-8*S[p];"]]}
+{"iter": 52, "event": "usage", "input": 8706, "output": 4630, "cache_read": 6074, "cache_write": 0}
+{"iter": 52, "event": "accept", "score": 275615, "best": 275615, "blocks": [["- 1.05e-8*D[p] - 1e-7*cs.size()", "- 1.05e-8*D[p] - 0.5e-7*cs.size()"]]}
+{"iter": 53, "event": "usage", "input": 8840, "output": 4466, "cache_read": 6074, "cache_write": 0}
+{"iter": 53, "event": "accept", "score": 275615, "best": 275615, "blocks": [["\t\t\t\tscore = nblvlup / time - 3.05e-8*end - 1e-8*D[p];", "\t\t\t\tscore = nblvlup / time - 3.05e-8*end - 1.05e-8*D[p];"]]}
+{"iter": 54, "event": "usage", "input": 8986, "output": 759, "cache_read": 6074, "cache_write": 0}
+{"iter": 54, "event": "apply_error", "detail": "block 1: SEARCH text matched 0 times in the current accepted solver (must match exactly once). First SEARCH line: '*cs.size() - 3.05e-8*end + 3e-8*S[p];'", "blocks": [["*cs.size() - 3.05e-8*end + 3e-8*S[p];", "*cs.size() - 2.7e-8*end + 3e-8*S[p];"]]}
+{"iter": 55, "event": "usage", "input": 9193, "output": 263, "cache_read": 6074, "cache_write": 0}
+{"iter": 55, "event": "apply_error", "detail": "block 1: SEARCH text matched 0 times in the current accepted solver (must match exactly once). First SEARCH line: '\\t\\t\\tdouble score = 1000. + double(sco) / time - 1.05e-8*D[p] - 0.5e-7*cs.size() - 3.05e-8*end + 3e-8*S[p];'", "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 1.05e-8*D[p] - 0.5e-7*cs.size() - 3.05e-8*end + 3e-8*S[p];", "\t\t\tdouble score = 1000. + double(sco) / time - 1.05e-8*D[p] - 0.5e-7*cs.size() - 2.7e-8*end + 3e-8*S[p];"]]}
+{"iter": 56, "event": "usage", "input": 9518, "output": 4780, "cache_read": 6074, "cache_write": 0}
+{"iter": 56, "event": "accept", "score": 275615, "best": 275615, "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 1.05e-8*D[p] - 0.5e-7*cs.size()", "\t\t\tdouble score = 1000. + double(sco) / time - 1.05e-8*D[p] - 0.3e-7*cs.size()"]]}
+{"iter": 57, "event": "usage", "input": 9686, "output": 2797, "cache_read": 6074, "cache_write": 0}
+{"iter": 57, "event": "apply_error", "detail": "block 1: SEARCH text matched 0 times in the current accepted solver (must match exactly once). First SEARCH line: ' - 0.3e-7*cs.size() - 3.05e-8*end + 3e-8*S[p];'", "blocks": [[" - 0.3e-7*cs.size() - 3.05e-8*end + 3e-8*S[p];", " - 0.3e-7*cs.size() - 3.05e-8*end + 4e-8*S[p];"]]}
+{"iter": 58, "event": "usage", "input": 9920, "output": 2978, "cache_read": 6074, "cache_write": 0}
+{"iter": 58, "event": "apply_error", "detail": "block 1: SEARCH text matched 0 times in the current accepted solver (must match exactly once). First SEARCH line: '\\t\\t\\tdouble score = 1000. + double(sco) / time - 1.05e-8*D[p] - 0.3e-7*cs.size() - 3.05e-8*end + 3e-8*S[p];'", "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 1.05e-8*D[p] - 0.3e-7*cs.size() - 3.05e-8*end + 3e-8*S[p];", "\t\t\tdouble score = 1000. + double(sco) / time - 1.05e-8*D[p] - 0.3e-7*cs.size() - 3.05e-8*end + 4e-8*S[p];"]]}
+{"iter": 59, "event": "usage", "input": 10245, "output": 329, "cache_read": 6074, "cache_write": 0}
+{"iter": 59, "event": "apply_error", "detail": "block 1: SEARCH text matched 0 times in the current accepted solver (must match exactly once). First SEARCH line: '+ 3e-8*S[p];'", "blocks": [["+ 3e-8*S[p];", "+ 4e-8*S[p];"]]}
+{"iter": 60, "event": "usage", "input": 10407, "output": 3215, "cache_read": 6074, "cache_write": 0}
+{"iter": 60, "event": "accept", "score": 275615, "best": 275615, "blocks": [[" / double(t) - 3.05e-8*(av[subR[i]]+D[p]);", " / double(t) - 3.05e-8*(av[subR[i]]+D[p]) - 1.05e-8*D[p];"]]}
+{"iter": 61, "event": "usage", "input": 10562, "output": 6362, "cache_read": 6074, "cache_write": 0}
+{"iter": 61, "event": "reject", "score": 261251, "best": 275615, "blocks": [["\t\t\tdouble time = cs.size()*end - sav;", "\t\t\tdouble time = cs.size()*end - sav + 0.5*cs.size()*D[p];"]]}
+{"iter": 62, "event": "usage", "input": 10703, "output": 3356, "cache_read": 6074, "cache_write": 0}
+{"iter": 62, "event": "accept", "score": 275615, "best": 275615, "blocks": [[" / double(t) - 3.05e-8*(av[subR[i]]+D[p]) - 1.05e-8*D[p];", " / double(t) - 3.05e-8*(av[subR[i]]+D[p]) - 1.05e-8*D[p] - 0.3e-7*r;"]]}
+{"iter": 63, "event": "usage", "input": 10882, "output": 1110, "cache_read": 6074, "cache_write": 0}
+{"iter": 63, "event": "reject", "score": 262243, "best": 275615, "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time", "\t\t\tdouble score = 1000. + double(sco) / (time + 0.1*cs.size()*D[p])"]]}
+{"iter": 64, "event": "usage", "input": 11027, "output": 576, "cache_read": 6074, "cache_write": 0}
+{"iter": 64, "event": "accept", "score": 275615, "best": 275615, "blocks": [[" - 1.05e-8*D[p] - 0.3e-7*r;", " - 1.05e-8*D[p] - 0.5e-7*r;"]]}
+{"iter": 65, "event": "usage", "input": 11159, "output": 2341, "cache_read": 6074, "cache_write": 0}
+{"iter": 65, "event": "reject", "score": 268667, "best": 275615, "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time", "\t\t\tdouble score = 1000. + double(sco) / (0.9*time + 0.1*end)"]]}
+{"iter": 66, "event": "usage", "input": 11300, "output": 4581, "cache_read": 6074, "cache_write": 0}
+{"iter": 66, "event": "accept", "score": 275615, "best": 275615, "blocks": [["- 1.05e-8*D[p] - 0.3e-7*cs.size()", "- 1.0e-8*D[p] - 0.3e-7*cs.size()"]]}
+{"iter": 67, "event": "usage", "input": 11436, "output": 633, "cache_read": 6074, "cache_write": 0}
+{"iter": 67, "event": "accept", "score": 275615, "best": 275615, "blocks": [["\t\t\t\tscore = nblvlup / time - 3.05e-8*end - 1.05e-8*D[p];", "\t\t\t\tscore = 1.5*nblvlup / time - 3.05e-8*end - 1.05e-8*D[p];"]]}
+{"iter": 68, "event": "usage", "input": 11589, "output": 141, "cache_read": 6074, "cache_write": 0}
+{"iter": 68, "event": "accept", "score": 275615, "best": 275615, "blocks": [["\t\t\t\tscore = 1.5*nblvlup / time - 3.05e-8*end - 1.05e-8*D[p];", "\t\t\t\tscore = 3.0*nblvlup / time - 3.05e-8*end - 1.05e-8*D[p];"]]}
+{"iter": 69, "event": "usage", "input": 11747, "output": 137, "cache_read": 6074, "cache_write": 0}
+{"iter": 69, "event": "accept", "score": 275615, "best": 275615, "blocks": [["\t\t\t\tscore = 3.0*nblvlup / time - 3.05e-8*end - 1.05e-8*D[p];", "\t\t\t\tscore = 10.0*nblvlup / time - 3.05e-8*end - 1.05e-8*D[p];"]]}
+{"iter": 70, "event": "usage", "input": 11905, "output": 731, "cache_read": 6074, "cache_write": 0}
+{"iter": 70, "event": "apply_error", "detail": "block 1: SEARCH text matched 0 times in the current accepted solver (must match exactly once). First SEARCH line: '\\t\\t\\tdouble score = 1000. + double(sco) / time - 1.0e-8*D[p] - 0.3e-7*cs.size() - 3.05e-8*end + 3e-8*S[p];'", "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 1.0e-8*D[p] - 0.3e-7*cs.size() - 3.05e-8*end + 3e-8*S[p];", "\t\t\tdouble score = 1000. + double(sco) / time - 1.0e-8*D[p] - 0.3e-7*cs.size() - 3.05e-8*end + 1.5e-8*S[p];"]]}
+{"iter": 71, "event": "usage", "input": 12232, "output": 83, "cache_read": 6074, "cache_write": 0}
+{"iter": 71, "event": "apply_error", "detail": "block 1: SEARCH text matched 0 times in the current accepted solver (must match exactly once). First SEARCH line: ' + 3e-8*S[p];'", "blocks": [[" + 3e-8*S[p];", " + 1.5e-8*S[p];"]]}
+{"iter": 72, "event": "usage", "input": 12396, "output": 7461, "cache_read": 6074, "cache_write": 0}
+{"iter": 72, "event": "accept", "score": 275615, "best": 275615, "blocks": [[" - 1.05e-8*D[p] - 0.5e-7*r;", " - 1.05e-8*D[p] - 0.3e-7*r;"]]}
+{"iter": 73, "event": "usage", "input": 12528, "output": 3343, "cache_read": 6074, "cache_write": 0}
+{"iter": 73, "event": "accept", "score": 275615, "best": 275615, "blocks": [["\t\t\t\tscore = 10.0*nblvlup / time - 3.05e-8*end - 1.05e-8*D[p];", "\t\t\t\tscore = 30.0*nblvlup / time - 3.05e-8*end - 1.05e-8*D[p];"]]}
+{"iter": 74, "event": "usage", "input": 12686, "output": 1484, "cache_read": 6074, "cache_write": 0}
+{"iter": 74, "event": "accept", "score": 275615, "best": 275615, "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 1.0e-8*D[p]", "\t\t\tdouble score = 1000. + double(sco) / time - 0.8e-8*D[p]"]]}
+{"iter": 75, "event": "usage", "input": 12826, "output": 1300, "cache_read": 6074, "cache_write": 0}
+{"iter": 75, "event": "reject", "score": 273234, "best": 275615, "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 0.8e-8*D[p]", "\t\t\tdouble score = 1000. + double(sco) / time - 0.6e-8*D[p]"]]}
+{"iter": 76, "event": "usage", "input": 12980, "output": 1455, "cache_read": 6074, "cache_write": 0}
+{"iter": 76, "event": "apply_error", "detail": "block 1: SEARCH text matched 0 times in the current accepted solver (must match exactly once). First SEARCH line: ' - 3.05e-8*end + 3e-8*S[p];'", "blocks": [[" - 3.05e-8*end + 3e-8*S[p];", " - 3.05e-8*end + 2e-8*S[p];"]]}
+{"iter": 77, "event": "usage", "input": 13172, "output": 273, "cache_read": 6074, "cache_write": 0}
+{"iter": 77, "event": "apply_error", "detail": "block 1: SEARCH text matched 0 times in the current accepted solver (must match exactly once). First SEARCH line: '*cs.size() - 3.05e-8*end + 3e-8*S[p];'", "blocks": [["*cs.size() - 3.05e-8*end + 3e-8*S[p];", "*cs.size() - 3.05e-8*end + 2e-8*S[p];"]]}
+{"iter": 78, "event": "usage", "input": 13394, "output": 3226, "cache_read": 6074, "cache_write": 0}
+{"iter": 78, "event": "reject", "score": 268728, "best": 275615, "blocks": [["\t\tfor(int s = 0; s < NS; ++s) sort(s2c[s].begin(), s2c[s].end(), [&](int i, int j) { return make_tuple(av[i], skill[i][s], ts[i]) < make_tuple(av[j], skill[j][s], ts[j]); });", "\t\tfor(int s = 0; s < NS; ++s) sort(s2c[s].begin(), s2c[s].end(), [&](int i, int j) { return make_tuple(av[i], skill[i][s], -ts[i]) < make_tuple(av[j], skill[j][s], -ts[j]); });"]]}
+{"iter": 79, "event": "usage", "input": 13705, "output": 342, "cache_read": 6074, "cache_write": 0}
+{"iter": 79, "event": "apply_error", "detail": "block 1: SEARCH text matched 0 times in the current accepted solver (must match exactly once). First SEARCH line: '\\t\\t\\tdouble score = 1000. + double(sco) / time - 0.8e-8*D[p] - 0.3e-7*cs.size() - 3.05e-8*end + 3e-8*S[p];'", "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 0.8e-8*D[p] - 0.3e-7*cs.size() - 3.05e-8*end + 3e-8*S[p];", "\t\t\tdouble score = 1000. + double(sco) / time - 0.8e-8*D[p] - 0.3e-7*cs.size() - 3.05e-8*end + 4e-8*S[p];"]]}
+{"iter": 80, "event": "usage", "input": 14030, "output": 278, "cache_read": 6074, "cache_write": 0}
+{"iter": 80, "event": "accept", "score": 275615, "best": 275615, "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 0.8e-8*D[p]", "\t\t\tdouble score = 1000. + double(sco) / time - 0.7e-8*D[p]"]]}
+{"iter": 81, "event": "usage", "input": 14170, "output": 310, "cache_read": 6074, "cache_write": 0}
+{"iter": 81, "event": "apply_error", "detail": "block 1: SEARCH text matched 0 times in the current accepted solver (must match exactly once). First SEARCH line: '*cs.size() - 3.05e-8*end + 3e-8*S[p];'", "blocks": [["*cs.size() - 3.05e-8*end + 3e-8*S[p];", "*cs.size() - 3.05e-8*end + 2.5e-8*S[p];"]]}
+{"iter": 82, "event": "usage", "input": 14379, "output": 6510, "cache_read": 6074, "cache_write": 0}
+{"iter": 82, "event": "accept", "score": 275615, "best": 275615, "blocks": [["\t\t\t\tscore = 30.0*nblvlup / time - 3.05e-8*end - 1.05e-8*D[p];", "\t\t\t\tscore = 30.0*nblvlup / time - 3.05e-8*end - 0.7e-8*D[p];"]]}
+{"iter": 83, "event": "usage", "input": 14537, "output": 888, "cache_read": 6074, "cache_write": 0}
+{"iter": 83, "event": "accept", "score": 275615, "best": 275615, "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 0.7e-8*D[p] - 0.3e-7*cs.size()", "\t\t\tdouble score = 1000. + double(sco) / time - 0.7e-8*D[p] - 0.2e-7*cs.size()"]]}
+{"iter": 84, "event": "usage", "input": 14705, "output": 928, "cache_read": 6074, "cache_write": 0}
+{"iter": 84, "event": "apply_error", "detail": "block 1: SEARCH text matched 0 times in the current accepted solver (must match exactly once). First SEARCH line: '\\t\\t\\tdouble score = 1000. + double(sco) / time - 0.7e-8*D[p] - 0.2e-7*cs.size() - 3.05e-8*end + 3e-8*S[p];'", "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 0.7e-8*D[p] - 0.2e-7*cs.size() - 3.05e-8*end + 3e-8*S[p];", "\t\t\tdouble score = 1000. + double(sco) / time - 0.7e-8*D[p] - 0.2e-7*cs.size() - 3.05e-8*end + 4e-8*S[p];"]]}
+{"iter": 85, "event": "usage", "input": 15030, "output": 197, "cache_read": 6074, "cache_write": 0}
+{"iter": 85, "event": "apply_error", "detail": "block 1: SEARCH text matched 0 times in the current accepted solver (must match exactly once). First SEARCH line: 'end + 3e-8*S[p];'", "blocks": [["end + 3e-8*S[p];", "end + 4e-8*S[p];"]]}
+{"iter": 86, "event": "usage", "input": 15193, "output": 4298, "cache_read": 6074, "cache_write": 0}
+{"iter": 86, "event": "accept", "score": 275615, "best": 275615, "blocks": [["- 0.7e-8*D[p] - 0.2e-7*cs.size()", "- 0.7e-8*D[p] - 0.1e-7*cs.size()"]]}
+{"iter": 87, "event": "usage", "input": 15329, "output": 4240, "cache_read": 6074, "cache_write": 0}
+{"iter": 87, "event": "apply_error", "detail": "block 1: SEARCH text matched 0 times in the current accepted solver (must match exactly once). First SEARCH line: '\\t\\t\\tdouble score = 1000. + double(sco) / time - 0.7e-8*D[p] - 0.1e-7*cs.size() - 3.05e-8*end + 3e-8*S[p];'", "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 0.7e-8*D[p] - 0.1e-7*cs.size() - 3.05e-8*end + 3e-8*S[p];", "\t\t\tdouble score = 1000. + double(sco) / time - 0.7e-8*D[p] - 0.1e-7*cs.size() - 3.05e-8*end + 4e-8*S[p];"]]}
+{"iter": 88, "event": "usage", "input": 15654, "output": 4547, "cache_read": 6074, "cache_write": 0}
+{"iter": 88, "event": "accept", "score": 275615, "best": 275615, "blocks": [["- 0.7e-8*D[p] - 0.1e-7*cs.size()", "- 0.7e-8*D[p] - 0.05e-7*cs.size()"]]}
+{"iter": 89, "event": "usage", "input": 15790, "output": 1529, "cache_read": 6074, "cache_write": 0}
+{"iter": 89, "event": "apply_error", "detail": "block 1: SEARCH text matched 0 times in the current accepted solver (must match exactly once). First SEARCH line: '\\t\\t\\tdouble score = 1000. + double(sco) / time - 0.7e-8*D[p] - 0.05e-7*cs.size() - 3.05e-8*end + 3e-8*S[p];'", "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 0.7e-8*D[p] - 0.05e-7*cs.size() - 3.05e-8*end + 3e-8*S[p];", "\t\t\tdouble score = 1000. + double(sco) / time - 0.7e-8*D[p] - 0.05e-7*cs.size() - 3.05e-8*end + 4e-8*S[p];"]]}
+{"iter": 90, "event": "usage", "input": 16115, "output": 816, "cache_read": 6074, "cache_write": 0}
+{"iter": 90, "event": "apply_error", "detail": "block 1: SEARCH text matched 0 times in the current accepted solver (must match exactly once). First SEARCH line: '*end + 3e-8*S[p];'", "blocks": [["*end + 3e-8*S[p];", "*end + 4e-8*S[p];"]]}
+{"iter": 91, "event": "usage", "input": 16280, "output": 706, "cache_read": 6074, "cache_write": 0}
+{"iter": 91, "event": "apply_error", "detail": "block 1: SEARCH text matched 0 times in the current accepted solver (must match exactly once). First SEARCH line: '3.05e-8*end + 3e-8*S[p];'", "blocks": [["3.05e-8*end + 3e-8*S[p];", "3.05e-8*end + 4e-8*S[p];"]]}
+{"iter": 92, "event": "usage", "input": 16463, "output": 1588, "cache_read": 6074, "cache_write": 0}
+{"iter": 92, "event": "reject", "score": 273234, "best": 275615, "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 0.7e-8*D[p]", "\t\t\tdouble score = 1000. + double(sco) / time - 0.5e-8*D[p]"]]}
+{"iter": 93, "event": "usage", "input": 16617, "output": 4941, "cache_read": 6074, "cache_write": 0}
+{"iter": 93, "event": "accept", "score": 275615, "best": 275615, "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 0.7e-8*D[p]", "\t\t\tdouble score = 1000. + double(sco) / time - 0.65e-8*D[p]"]]}
+{"iter": 94, "event": "usage", "input": 16757, "output": 8115, "cache_read": 6074, "cache_write": 0}
+{"iter": 94, "event": "accept", "score": 275615, "best": 275615, "blocks": [["\t\t\t\tscore = 30.0*nblvlup / time - 3.05e-8*end - 0.7e-8*D[p];", "\t\t\t\tscore = 100.0*nblvlup / time - 3.05e-8*end - 0.7e-8*D[p];"]]}
+{"iter": 95, "event": "usage", "input": 16915, "output": 4716, "cache_read": 6074, "cache_write": 0}
+{"iter": 95, "event": "accept", "score": 275615, "best": 275615, "blocks": [["\t\t\t\tscore = 100.0*nblvlup / time - 3.05e-8*end - 0.7e-8*D[p];", "\t\t\t\tscore = 100.0*nblvlup / time - 3.05e-8*end - 0.65e-8*D[p];"]]}
+{"iter": 96, "event": "usage", "input": 17073, "output": 648, "cache_read": 6074, "cache_write": 0}
+{"iter": 96, "event": "accept", "score": 275615, "best": 275615, "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 0.65e-8*D[p] - 0.05e-7*cs.size()", "\t\t\tdouble score = 1000. + double(sco) / time - 0.65e-8*D[p] - 0.0e-7*cs.size()"]]}
+{"iter": 97, "event": "usage", "input": 17241, "output": 533, "cache_read": 6074, "cache_write": 0}
+{"iter": 97, "event": "apply_error", "detail": "block 1: SEARCH text matched 0 times in the current accepted solver (must match exactly once). First SEARCH line: '- 0.0e-7*cs.size() - 3.05e-8*end + 3e-8*S[p];'", "blocks": [["- 0.0e-7*cs.size() - 3.05e-8*end + 3e-8*S[p];", "- 0.0e-7*cs.size() - 3.05e-8*end + 2e-8*S[p];"]]}
+{"iter": 98, "event": "usage", "input": 17472, "output": 341, "cache_read": 6074, "cache_write": 0}
+{"iter": 98, "event": "apply_error", "detail": "block 1: SEARCH text matched 0 times in the current accepted solver (must match exactly once). First SEARCH line: '\\t\\t\\tdouble score = 1000. + double(sco) / time - 0.65e-8*D[p] - 0.0e-7*cs.size() - 3.05e-8*end + 3e-8*S[p];'", "blocks": [["\t\t\tdouble score = 1000. + double(sco) / time - 0.65e-8*D[p] - 0.0e-7*cs.size() - 3.05e-8*end + 3e-8*S[p];", "\t\t\tdouble score = 1000. + double(sco) / time - 0.65e-8*D[p] - 0.0e-7*cs.size() - 3.05e-8*end + 2e-8*S[p];"]]}
+{"iter": 99, "event": "usage", "input": 17797, "output": 3960, "cache_read": 6074, "cache_write": 0}
+{"iter": 99, "event": "accept", "score": 275615, "best": 275615, "blocks": [["*S[p];", "*S[p] + 0.0;"]]}
+{"iter": 100, "event": "usage", "input": 17913, "output": 1243, "cache_read": 6074, "cache_write": 0}
+{"iter": 100, "event": "apply_error", "detail": "block 1: SEARCH text matched 0 times in the current accepted solver (must match exactly once). First SEARCH line: '+ 3e-8*S[p] + 0.0;'", "blocks": [["+ 3e-8*S[p] + 0.0;", "+ 4e-8*S[p] + 0.0;"]]}
+{"event": "totals", "provider": "anthropic", "model": "claude-opus-4-8", "input": 851765, "output": 156172, "cache_read": 601326, "cache_write": 6074, "cost_usd": 8.5017505}

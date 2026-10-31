@@ -1,0 +1,5 @@
+.env.local
+**/__pycache__*/*
+
+# Compiled solver binaries (single-letter, extensionless ELF executables)
+experiments/*/run_*/[a-z]

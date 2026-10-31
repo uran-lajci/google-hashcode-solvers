@@ -1,0 +1,202 @@
+{"iter": 0, "event": "baseline", "score": 2608736}
+{"iter": 1, "event": "usage", "input": 31, "output": 1858, "cache_read": 4777, "cache_write": 0}
+{"iter": 1, "event": "accept", "score": 2658837, "best": 2658837, "blocks": [["\t\t\tfor(int test = 0; test < 50; ++test) {", "\t\t\tfor(int test = 0; test < 80; ++test) {"]]}
+{"iter": 2, "event": "usage", "input": 155, "output": 131, "cache_read": 4777, "cache_write": 0}
+{"iter": 2, "event": "accept", "score": 2804772, "best": 2804772, "blocks": [["\t\t\tfor(int test = 0; test < 80; ++test) {", "\t\t\tfor(int test = 0; test < 150; ++test) {"]]}
+{"iter": 3, "event": "usage", "input": 279, "output": 94, "cache_read": 4777, "cache_write": 0}
+{"iter": 3, "event": "reject", "score": 2622068, "best": 2804772, "blocks": [["\t\t\tfor(int test = 0; test < 150; ++test) {", "\t\t\tfor(int test = 0; test < 300; ++test) {"]]}
+{"iter": 4, "event": "usage", "input": 417, "output": 331, "cache_read": 4777, "cache_write": 0}
+{"iter": 4, "event": "reject", "score": 2609097, "best": 2804772, "blocks": [["\t\t\tfor(int test = 0; test < 150; ++test) {", "\t\t\tfor(int test = 0; test < 200; ++test) {"]]}
+{"iter": 5, "event": "usage", "input": 555, "output": 2122, "cache_read": 4777, "cache_write": 0}
+{"iter": 5, "event": "reject", "score": 660334, "best": 2804772, "blocks": [["\t\t\t\t\tif(skill[best][s] <= l0) ++oo;", "\t\t\t\t\tif(skill[best][s] <= l0) oo += 20;"]]}
+{"iter": 6, "event": "usage", "input": 694, "output": 573, "cache_read": 4777, "cache_write": 0}
+{"iter": 6, "event": "reject", "score": 2569111, "best": 2804772, "blocks": [["\tmt19937 mt(42);", "\tmt19937 mt(12345);"]]}
+{"iter": 7, "event": "usage", "input": 817, "output": 1242, "cache_read": 4777, "cache_write": 0}
+{"iter": 7, "event": "reject", "score": 2771400, "best": 2804772, "blocks": [["\t\tsort(order.begin(), order.end(), [&](int a, int b) { return (long long)S[b]*D[a]*req[a].size() < (long long)S[a]*D[b]*req[b].size(); });", "\t\tsort(order.begin(), order.end(), [&](int a, int b) { return (long long)S[b]*D[a] < (long long)S[a]*D[b]; });"]]}
+{"iter": 8, "event": "usage", "input": 1041, "output": 361, "cache_read": 4777, "cache_write": 0}
+{"iter": 8, "event": "reject", "score": 683346, "best": 2804772, "blocks": [["\t\tsort(order.begin(), order.end(), [&](int a, int b) { return (long long)S[b]*D[a]*req[a].size() < (long long)S[a]*D[b]*req[b].size(); });", "\t\tsort(order.begin(), order.end(), [&](int a, int b) { return (long long)S[b]*D[a]*req[a].size()*B[a] < (long long)S[a]*D[b]*req[b].size()*B[b]; });"]]}
+{"iter": 9, "event": "usage", "input": 1287, "output": 328, "cache_read": 4777, "cache_write": 0}
+{"iter": 9, "event": "reject", "score": 2627012, "best": 2804772, "blocks": [["\t\t\t\too += 1000000-mav;", "\t\t\t\too += 2*(1000000-mav);"]]}
+{"iter": 10, "event": "usage", "input": 1414, "output": 742, "cache_read": 4777, "cache_write": 0}
+{"iter": 10, "event": "reject", "score": 2675068, "best": 2804772, "blocks": [["\t\t\tfor(int test = 0; test < 150; ++test) {", "\t\t\tfor(int test = 0; test < 130; ++test) {"]]}
+{"iter": 11, "event": "usage", "input": 1552, "output": 304, "cache_read": 4777, "cache_write": 0}
+{"iter": 11, "event": "reject", "score": 2638129, "best": 2804772, "blocks": [["\t\t\tfor(int test = 0; test < 150; ++test) {", "\t\t\tfor(int test = 0; test < 165; ++test) {"]]}
+{"iter": 12, "event": "usage", "input": 1690, "output": 1247, "cache_read": 4777, "cache_write": 0}
+{"iter": 12, "event": "reject", "score": 2557855, "best": 2804772, "blocks": [["\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), skill[c][s], ts[c]); };", "\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), ts[c], skill[c][s]); };"]]}
+{"iter": 13, "event": "usage", "input": 1896, "output": 862, "cache_read": 4777, "cache_write": 0}
+{"iter": 13, "event": "reject", "score": 663191, "best": 2804772, "blocks": [["\t\t\t\t\tif(skill[best][s] <= l0) ++oo;", "\t\t\t\t\tif(skill[best][s] <= l0) oo += 2;"]]}
+{"iter": 14, "event": "usage", "input": 2035, "output": 1008, "cache_read": 4777, "cache_write": 0}
+{"iter": 14, "event": "reject", "score": 2602368, "best": 2804772, "blocks": [["\t\t\t\too += 1000000-mav;\n\t\t\t\tif(oo > besto) {", "\t\t\t\tint waste = 0;\n\t\t\t\tfor(int i = 0; i < (int)cs.size(); ++i) waste += skill[cs[i]][req[p][i].first] - req[p][i].second;\n\t\t\t\too += 1000000-mav-waste;\n\t\t\t\tif(oo > besto) {"]]}
+{"iter": 15, "event": "usage", "input": 2247, "output": 1279, "cache_read": 4777, "cache_write": 0}
+{"iter": 15, "event": "reject", "score": 2749525, "best": 2804772, "blocks": [["\t\t\tfor(int test = 0; test < 150; ++test) {\n\t\t\t\tshuffle(ro.begin(), ro.end(), mt);", "\t\t\tfor(int test = 0; test < 150; ++test) {\n\t\t\t\tif(test) shuffle(ro.begin(), ro.end(), mt);"]]}
+{"iter": 16, "event": "usage", "input": 2435, "output": 518, "cache_read": 4777, "cache_write": 0}
+{"iter": 16, "event": "reject", "score": 2602571, "best": 2804772, "blocks": [["\t\t\tfor(int test = 0; test < 150; ++test) {", "\t\t\tfor(int test = 0; test < 155; ++test) {"]]}
+{"iter": 17, "event": "usage", "input": 2573, "output": 311, "cache_read": 4777, "cache_write": 0}
+{"iter": 17, "event": "reject", "score": 2606251, "best": 2804772, "blocks": [["\t\t\tfor(int test = 0; test < 150; ++test) {", "\t\t\tfor(int test = 0; test < 145; ++test) {"]]}
+{"iter": 18, "event": "usage", "input": 2711, "output": 1078, "cache_read": 4777, "cache_write": 0}
+{"iter": 18, "event": "reject", "score": 2595870, "best": 2804772, "blocks": [["\t\t\tfor(int test = 0; test < 150; ++test) {", "\t\t\tfor(int test = 0; test < 152; ++test) {"]]}
+{"iter": 19, "event": "usage", "input": 2849, "output": 1099, "cache_read": 4777, "cache_write": 0}
+{"iter": 19, "event": "reject", "score": 2620806, "best": 2804772, "blocks": [["\t\t\tfor(int test = 0; test < 150; ++test) {", "\t\t\tfor(int test = 0; test < 160; ++test) {"]]}
+{"iter": 20, "event": "usage", "input": 2987, "output": 1927, "cache_read": 4777, "cache_write": 0}
+{"iter": 20, "event": "reject", "score": 2639682, "best": 2804772, "blocks": [["\t\t\tvector<int> cs(req[p].size(), 0), cs2, ro=cs;\n\t\t\tiota(ro.begin(), ro.end(), 0);", "\t\t\tvector<int> cs(req[p].size(), 0), cs2, ro=cs;\n\t\t\tiota(ro.begin(), ro.end(), 0);\n\t\t\tsort(ro.begin(), ro.end(), [&](int a, int b){ return req[p][a].second > req[p][b].second; });"]]}
+{"iter": 21, "event": "usage", "input": 3233, "output": 1113, "cache_read": 4777, "cache_write": 0}
+{"iter": 21, "event": "reject", "score": 2620462, "best": 2804772, "blocks": [["\tmt19937 mt(42);", "\tmt19937 mt(7);"]]}
+{"iter": 22, "event": "usage", "input": 3355, "output": 620, "cache_read": 4777, "cache_write": 0}
+{"iter": 22, "event": "reject", "score": 2640870, "best": 2804772, "blocks": [["\t\t\tfor(int test = 0; test < 150; ++test) {", "\t\t\tfor(int test = 0; test < 175; ++test) {"]]}
+{"iter": 23, "event": "usage", "input": 3493, "output": 2092, "cache_read": 4777, "cache_write": 0}
+{"iter": 23, "event": "reject", "score": 2601359, "best": 2804772, "blocks": [["\t\t\tfor(int test = 0; test < 150; ++test) {", "\t\t\tfor(int test = 0; test < 250; ++test) {"]]}
+{"iter": 24, "event": "usage", "input": 3631, "output": 832, "cache_read": 4777, "cache_write": 0}
+{"iter": 24, "event": "reject", "score": 2600413, "best": 2804772, "blocks": [["\tmt19937 mt(42);", "\tmt19937 mt(2022);"]]}
+{"iter": 25, "event": "usage", "input": 3754, "output": 731, "cache_read": 4777, "cache_write": 0}
+{"iter": 25, "event": "reject", "score": 2608746, "best": 2804772, "blocks": [["\t\t\tfor(int test = 0; test < 150; ++test) {\n\t\t\t\tshuffle(ro.begin(), ro.end(), mt);", "\t\t\tint ntest = 150 + 30*(int)req[p].size();\n\t\t\tfor(int test = 0; test < ntest; ++test) {\n\t\t\t\tshuffle(ro.begin(), ro.end(), mt);"]]}
+{"iter": 26, "event": "usage", "input": 3962, "output": 2647, "cache_read": 4777, "cache_write": 0}
+{"iter": 26, "event": "reject", "score": 2618110, "best": 2804772, "blocks": [["\tmt19937 mt(42);", "\tmt19937 mt(1);"]]}
+{"iter": 27, "event": "usage", "input": 4084, "output": 825, "cache_read": 4777, "cache_write": 0}
+{"iter": 27, "event": "reject", "score": 2643928, "best": 2804772, "blocks": [["\tmt19937 mt(42);", "\tmt19937 mt(100);"]]}
+{"iter": 28, "event": "usage", "input": 4206, "output": 2512, "cache_read": 4777, "cache_write": 0}
+{"iter": 28, "event": "reject", "score": 2552123, "best": 2804772, "blocks": [["\t\tsort(order.begin(), order.end(), [&](int a, int b) { return (long long)S[b]*D[a]*req[a].size() < (long long)S[a]*D[b]*req[b].size(); });", "\t\tsort(order.begin(), order.end(), [&](int a, int b) { return (long long)S[b]*S[b]*D[a]*req[a].size() < (long long)S[a]*S[a]*D[b]*req[b].size(); });"]]}
+{"iter": 29, "event": "usage", "input": 4454, "output": 1479, "cache_read": 4777, "cache_write": 0}
+{"iter": 29, "event": "reject", "score": 2602769, "best": 2804772, "blocks": [["\t\t\tfor(int test = 0; test < 150; ++test) {", "\t\t\tfor(int test = 0; test < 140; ++test) {"]]}
+{"iter": 30, "event": "usage", "input": 4592, "output": 1055, "cache_read": 4777, "cache_write": 0}
+{"iter": 30, "event": "accept", "score": 2806919, "best": 2806919, "blocks": [["\t\tsort(order.begin(), order.end(), [&](int a, int b) { return (long long)S[b]*D[a]*req[a].size() < (long long)S[a]*D[b]*req[b].size(); });", "\t\tsort(order.begin(), order.end(), [&](int a, int b) {\n\t\t\tlong long ka = (long long)S[b]*D[a]*req[a].size(), kb = (long long)S[a]*D[b]*req[b].size();\n\t\t\tif(ka != kb) return ka < kb;\n\t\t\treturn B[a] < B[b];\n\t\t});"]]}
+{"iter": 31, "event": "usage", "input": 4855, "output": 184, "cache_read": 4777, "cache_write": 0}
+{"iter": 31, "event": "reject", "score": 2690480, "best": 2806919, "blocks": [["\t\t\tfor(int test = 0; test < 150; ++test) {", "\t\t\tfor(int test = 0; test < 170; ++test) {"]]}
+{"iter": 32, "event": "usage", "input": 4993, "output": 238, "cache_read": 4777, "cache_write": 0}
+{"iter": 32, "event": "accept", "score": 2806919, "best": 2806919, "blocks": [["\t\t\tlong long ka = (long long)S[b]*D[a]*req[a].size(), kb = (long long)S[a]*D[b]*req[b].size();\n\t\t\tif(ka != kb) return ka < kb;\n\t\t\treturn B[a] < B[b];", "\t\t\tlong long ka = (long long)S[b]*D[a]*req[a].size(), kb = (long long)S[a]*D[b]*req[b].size();\n\t\t\tif(ka != kb) return ka < kb;\n\t\t\tif(B[a] != B[b]) return B[a] < B[b];\n\t\t\treturn a < b;"]]}
+{"iter": 33, "event": "usage", "input": 5256, "output": 201, "cache_read": 4777, "cache_write": 0}
+{"iter": 33, "event": "reject", "score": 2806240, "best": 2806919, "blocks": [["\t\t\tif(B[a] != B[b]) return B[a] < B[b];\n\t\t\treturn a < b;", "\t\t\tif(B[a] != B[b]) return B[a] > B[b];\n\t\t\treturn a < b;"]]}
+{"iter": 34, "event": "usage", "input": 5416, "output": 566, "cache_read": 4777, "cache_write": 0}
+{"iter": 34, "event": "reject", "score": 2780400, "best": 2806919, "blocks": [["\t\t\tlong long ka = (long long)S[b]*D[a]*req[a].size(), kb = (long long)S[a]*D[b]*req[b].size();\n\t\t\tif(ka != kb) return ka < kb;", "\t\t\tlong long ka = (long long)S[b]*(D[a]+1)*req[a].size(), kb = (long long)S[a]*(D[b]+1)*req[b].size();\n\t\t\tif(ka != kb) return ka < kb;"]]}
+{"iter": 35, "event": "usage", "input": 5658, "output": 366, "cache_read": 4777, "cache_write": 0}
+{"iter": 35, "event": "accept", "score": 2806919, "best": 2806919, "blocks": [["\t\t\tif(B[a] != B[b]) return B[a] < B[b];\n\t\t\treturn a < b;", "\t\t\tif(B[a] != B[b]) return B[a] < B[b];\n\t\t\tif(S[a] != S[b]) return S[a] > S[b];\n\t\t\treturn a < b;"]]}
+{"iter": 36, "event": "usage", "input": 5828, "output": 748, "cache_read": 4777, "cache_write": 0}
+{"iter": 36, "event": "reject", "score": 2553653, "best": 2806919, "blocks": [["\tmt19937 mt(42);", "\tmt19937 mt(99991);"]]}
+{"iter": 37, "event": "usage", "input": 5951, "output": 570, "cache_read": 4777, "cache_write": 0}
+{"iter": 37, "event": "reject", "score": 2634273, "best": 2806919, "blocks": [["\tmt19937 mt(42);", "\tmt19937 mt(43);"]]}
+{"iter": 38, "event": "usage", "input": 6073, "output": 1021, "cache_read": 4777, "cache_write": 0}
+{"iter": 38, "event": "accept", "score": 2806919, "best": 2806919, "blocks": [["\t\t\t\too += 1000000-mav;", "\t\t\t\too += 100000000-mav;"]]}
+{"iter": 39, "event": "usage", "input": 6183, "output": 1930, "cache_read": 4777, "cache_write": 0}
+{"iter": 39, "event": "reject", "score": 2582387, "best": 2806919, "blocks": [["\tmt19937 mt(42);", "\tmt19937 mt(4242);"]]}
+{"iter": 40, "event": "usage", "input": 6306, "output": 1363, "cache_read": 4777, "cache_write": 0}
+{"iter": 40, "event": "accept", "score": 2806919, "best": 2806919, "blocks": [["\t\t\t\too += 100000000-mav;\n\t\t\t\tif(oo > besto) {", "\t\t\t\tif(end < B[p]) oo += 500000;\n\t\t\t\too += 100000000-mav;\n\t\t\t\tif(oo > besto) {"]]}
+{"iter": 41, "event": "usage", "input": 6456, "output": 1923, "cache_read": 4777, "cache_write": 0}
+{"iter": 41, "event": "reject", "score": 2578360, "best": 2806919, "blocks": [["\t\t\t\tif(end < B[p]) oo += 500000;\n\t\t\t\too += 100000000-mav;\n\t\t\t\tif(oo > besto) {", "\t\t\t\tif(end < B[p]) oo += 500000;\n\t\t\t\tint tsum = 0;\n\t\t\t\tfor(int c : cs) tsum += ts[c];\n\t\t\t\too += 100000000-mav-tsum;\n\t\t\t\tif(oo > besto) {"]]}
+{"iter": 42, "event": "usage", "input": 6671, "output": 3048, "cache_read": 4777, "cache_write": 0}
+{"iter": 42, "event": "reject", "score": 2622268, "best": 2806919, "blocks": [["\tmt19937 mt(42);", "\tmt19937 mt(123);"]]}
+{"iter": 43, "event": "usage", "input": 6793, "output": 324, "cache_read": 4777, "cache_write": 0}
+{"iter": 43, "event": "accept", "score": 2806919, "best": 2806919, "blocks": [["\t\t\t\tif(end < B[p]) oo += 500000;", "\t\t\t\tif(end < B[p]) oo += 5000000;"]]}
+{"iter": 44, "event": "usage", "input": 6914, "output": 657, "cache_read": 4777, "cache_write": 0}
+{"iter": 44, "event": "reject", "score": 660334, "best": 2806919, "blocks": [["\t\t\t\t\tif(skill[best][s] <= l0) ++oo;", "\t\t\t\t\tif(skill[best][s] <= l0) oo += 1000;"]]}
+{"iter": 45, "event": "usage", "input": 7054, "output": 317, "cache_read": 4777, "cache_write": 0}
+{"iter": 45, "event": "reject", "score": 660334, "best": 2806919, "blocks": [["\t\t\t\t\tif(skill[best][s] <= l0) ++oo;", "\t\t\t\t\tif(skill[best][s] <= l0) oo += 50;"]]}
+{"iter": 46, "event": "usage", "input": 7193, "output": 10907, "cache_read": 4777, "cache_write": 0}
+{"iter": 46, "event": "reject", "score": 2576580, "best": 2806919, "blocks": [["\t\t\t\tms.fill(0);\n\t\t\t\tint mav = 0, oo = 0, nr = req[p].size();\n\t\t\t\tfor(int o : ro) {\n\t\t\t\t\tauto [s, l] = req[p][o];\n\t\t\t\t\tconst int l0 = l;\n\t\t\t\t\tif(ms[s] >= l) --l;\n\t\t\t\t\tint best = -1;\n\t\t\t\t\tfor(int c = 0; c < C; ++c) if(!chosen[c] && skill[c][s] >= l)\n\t\t\t\t\t\tif(best == -1 || ckey(c, mav, s, l0) < ckey(best, mav, s, l0))\n\t\t\t\t\t\t\tbest = c;\n\t\t\t\t\tif(best == -1) break;\n\t\t\t\t\t-- nr;\n\t\t\t\t\tcs[o] = best;\n\t\t\t\t\tif(skill[best][s] <= l0) ++oo;\n\t\t\t\t\tfor(int i = 0; i < s2i.size(); ++i) ms[i] = max(ms[i], skill[best][i]);\n\t\t\t\t\tchosen[best] = true;\n\t\t\t\t\tmav = max(mav, av[best]);\n\t\t\t\t}", "\t\t\t\tms.fill(0);\n\t\t\t\tint mav = 0, oo = 0, nr = req[p].size();\n\t\t\t\tvector<int> defer;\n\t\t\t\tfor(int o : ro) {\n\t\t\t\t\tauto [s, l0] = req[p][o];\n\t\t\t\t\tint best = -1;\n\t\t\t\t\tfor(int c = 0; c < C; ++c) if(!chosen[c] && skill[c][s] >= l0)\n\t\t\t\t\t\tif(best == -1 || ckey(c, mav, s, l0) < ckey(best, mav, s, l0))\n\t\t\t\t\t\t\tbest = c;\n\t\t\t\t\tif(best == -1) { defer.push_back(o); continue; }\n\t\t\t\t\t-- nr;\n\t\t\t\t\tcs[o] = best;\n\t\t\t\t\tif(skill[best][s] <= l0) ++oo;\n\t\t\t\t\tfor(int i = 0; i < (int)s2i.size(); ++i) ms[i] = max(ms[i], skill[best][i]);\n\t\t\t\t\tchosen[best] = true;\n\t\t\t\t\tmav = max(mav, av[best]);\n\t\t\t\t}\n\t\t\t\tfor(int o : defer) {\n\t\t\t\t\tauto [s, l0] = req[p][o];\n\t\t\t\t\tif(ms[s] < l0) continue;\n\t\t\t\t\tint l = l0 - 1;\n\t\t\t\t\tint best = -1;\n\t\t\t\t\tfor(int c = 0; c < C; ++c) if(!chosen[c] && skill[c][s] >= l)\n\t\t\t\t\t\tif(best == -1 || ckey(c, mav, s, l0) < ckey(best, mav, s, l0))\n\t\t\t\t\t\t\tbest = c;\n\t\t\t\t\tif(best == -1) continue;\n\t\t\t\t\t-- nr;\n\t\t\t\t\tcs[o] = best;\n\t\t\t\t\tif(skill[best][s] <= l0) ++oo;\n\t\t\t\t\tchosen[best] = true;\n\t\t\t\t\tmav = max(mav, av[best]);\n\t\t\t\t}"]]}
+{"iter": 47, "event": "usage", "input": 8121, "output": 751, "cache_read": 4777, "cache_write": 0}
+{"iter": 47, "event": "reject", "score": 2615195, "best": 2806919, "blocks": [["\t\t\tfor(int test = 0; test < 150; ++test) {", "\t\t\tfor(int test = 0; test < 148; ++test) {"]]}
+{"iter": 48, "event": "usage", "input": 8259, "output": 2475, "cache_read": 4777, "cache_write": 0}
+{"iter": 48, "event": "reject", "score": 2620286, "best": 2806919, "blocks": [["\t\t\tarray<int, NS> ms;\n\t\t\tfor(int test = 0; test < 150; ++test) {\n\t\t\t\tshuffle(ro.begin(), ro.end(), mt);", "\t\t\tarray<int, NS> ms;\n\t\t\tvector<int> rosort = ro;\n\t\t\tsort(rosort.begin(), rosort.end(), [&](int a, int b){ return req[p][a].second > req[p][b].second; });\n\t\t\tfor(int test = 0; test < 150; ++test) {\n\t\t\t\tif(test == 0) ro = rosort;\n\t\t\t\telse shuffle(ro.begin(), ro.end(), mt);"]]}
+{"iter": 49, "event": "usage", "input": 8546, "output": 776, "cache_read": 4777, "cache_write": 0}
+{"iter": 49, "event": "reject", "score": 2745018, "best": 2806919, "blocks": [["\t\t\t\tfor(int i = 1; i < cs.size(); ++i) if(skill[cs[i]][req[p][i].first] > req[p][i].second)\n\t\t\t\t\tfor(int j = 0; j < i; ++j) if(skill[cs[j]][req[p][j].first] > req[p][j].second)\n\t\t\t\t\t\tif(skill[cs[i]][req[p][j].first] >= req[p][j].second-1 && skill[cs[j]][req[p][i].first] >= req[p][i].second-1) {\n\t\t\t\t\t\t\tswap(cs[i], cs[j]);\n\t\t\t\t\t\t\too += 2;\n\t\t\t\t\t\t}", "\t\t\t\tfor(int pass = 0; pass < 3; ++pass)\n\t\t\t\tfor(int i = 1; i < cs.size(); ++i) if(skill[cs[i]][req[p][i].first] > req[p][i].second)\n\t\t\t\t\tfor(int j = 0; j < i; ++j) if(skill[cs[j]][req[p][j].first] > req[p][j].second)\n\t\t\t\t\t\tif(skill[cs[i]][req[p][j].first] >= req[p][j].second-1 && skill[cs[j]][req[p][i].first] >= req[p][i].second-1) {\n\t\t\t\t\t\t\tswap(cs[i], cs[j]);\n\t\t\t\t\t\t\too += 2;\n\t\t\t\t\t\t}"]]}
+{"iter": 50, "event": "usage", "input": 9040, "output": 2296, "cache_read": 4777, "cache_write": 0}
+{"iter": 50, "event": "reject", "score": 2619077, "best": 2806919, "blocks": [["\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), skill[c][s], ts[c]); };", "\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), skill[c][s], av[c], ts[c]); };"]]}
+{"iter": 51, "event": "usage", "input": 9250, "output": 1009, "cache_read": 4777, "cache_write": 0}
+{"iter": 51, "event": "apply_error", "detail": "block 1: SEARCH text matched 0 times in the current accepted solver (must match exactly once). First SEARCH line: '\\t\\t\\t\\too += 1000000-mav;'", "blocks": [["\t\t\t\too += 1000000-mav;", "\t\t\t\too += 10*(1000000-mav);"]]}
+{"iter": 52, "event": "usage", "input": 9420, "output": 176, "cache_read": 4777, "cache_write": 0}
+{"iter": 52, "event": "reject", "score": 2629167, "best": 2806919, "blocks": [["\t\t\t\tif(end < B[p]) oo += 5000000;\n\t\t\t\too += 100000000-mav;", "\t\t\t\tif(end < B[p]) oo += 5000000;\n\t\t\t\too += 10*(100000000-mav);"]]}
+{"iter": 53, "event": "usage", "input": 9585, "output": 1499, "cache_read": 4777, "cache_write": 0}
+{"iter": 53, "event": "reject", "score": 660334, "best": 2806919, "blocks": [["\t\t\t\t\t\t\tswap(cs[i], cs[j]);\n\t\t\t\t\t\t\too += 2;", "\t\t\t\t\t\t\tswap(cs[i], cs[j]);"]]}
+{"iter": 54, "event": "usage", "input": 9721, "output": 2428, "cache_read": 4777, "cache_write": 0}
+{"iter": 54, "event": "reject", "score": 2600761, "best": 2806919, "blocks": [["\t\t\t\tif(oo > besto) {", "\t\t\t\tif(oo >= besto) {"]]}
+{"iter": 55, "event": "usage", "input": 9842, "output": 443, "cache_read": 4777, "cache_write": 0}
+{"iter": 55, "event": "reject", "score": 2602974, "best": 2806919, "blocks": [["\t\t\tfor(int test = 0; test < 150; ++test) {", "\t\t\tfor(int test = 0; test < 151; ++test) {"]]}
+{"iter": 56, "event": "usage", "input": 9980, "output": 1326, "cache_read": 4777, "cache_write": 0}
+{"iter": 56, "event": "reject", "score": 2642473, "best": 2806919, "blocks": [["\t\t\tfor(int test = 0; test < 150; ++test) {\n\t\t\t\tshuffle(ro.begin(), ro.end(), mt);", "\t\t\tint ntest = req[p].size() <= 2 ? 400 : 150;\n\t\t\tfor(int test = 0; test < ntest; ++test) {\n\t\t\t\tshuffle(ro.begin(), ro.end(), mt);"]]}
+{"iter": 57, "event": "usage", "input": 10192, "output": 3115, "cache_read": 4777, "cache_write": 0}
+{"iter": 57, "event": "reject", "score": 2553952, "best": 2806919, "blocks": [["\t\t\t\tif(end < B[p]) oo += 5000000;\n\t\t\t\too += 100000000-mav;", "\t\t\t\tif(end < B[p]) oo += 5000000;\n\t\t\t\tint avsum = 0;\n\t\t\t\tfor(int c : cs) avsum += av[c];\n\t\t\t\too += 100000000-mav-avsum;"]]}
+{"iter": 58, "event": "usage", "input": 10386, "output": 1251, "cache_read": 4777, "cache_write": 0}
+{"iter": 58, "event": "reject", "score": 2497101, "best": 2806919, "blocks": [["\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), skill[c][s], ts[c]); };", "\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), av[c], skill[c][s], ts[c]); };"]]}
+{"iter": 59, "event": "usage", "input": 10596, "output": 338, "cache_read": 4777, "cache_write": 0}
+{"iter": 59, "event": "accept", "score": 2806919, "best": 2806919, "blocks": [["\t\t\tif(B[a] != B[b]) return B[a] < B[b];\n\t\t\tif(S[a] != S[b]) return S[a] > S[b];\n\t\t\treturn a < b;", "\t\t\tif(B[a] != B[b]) return B[a] < B[b];\n\t\t\tif(S[a] != S[b]) return S[a] > S[b];\n\t\t\tif(D[a] != D[b]) return D[a] < D[b];\n\t\t\treturn a < b;"]]}
+{"iter": 60, "event": "usage", "input": 10814, "output": 1550, "cache_read": 4777, "cache_write": 0}
+{"iter": 60, "event": "accept", "score": 2806919, "best": 2806919, "blocks": [["\t\t\t\tif(end < B[p]) oo += 5000000;", "\t\t\t\tif(end < B[p]) oo += 50000000;"]]}
+{"iter": 61, "event": "usage", "input": 10936, "output": 3154, "cache_read": 4777, "cache_write": 0}
+{"iter": 61, "event": "reject", "score": 2723687, "best": 2806919, "blocks": [["\tmt19937 mt(42);", "\tmt19937 mt(17);"]]}
+{"iter": 62, "event": "usage", "input": 11058, "output": 2936, "cache_read": 4777, "cache_write": 0}
+{"iter": 62, "event": "reject", "score": 2748001, "best": 2806919, "blocks": [["\t\t\tarray<int, NS> ms;\n\t\t\tfor(int test = 0; test < 150; ++test) {\n\t\t\t\tshuffle(ro.begin(), ro.end(), mt);", "\t\t\tarray<int, NS> ms;\n\t\t\tfor(int test = 0; test < 150; ++test) {\n\t\t\t\tif(test) shuffle(ro.begin(), ro.end(), mt);\n\t\t\t\telse iota(ro.begin(), ro.end(), 0);"]]}
+{"iter": 63, "event": "usage", "input": 11292, "output": 2046, "cache_read": 4777, "cache_write": 0}
+{"iter": 63, "event": "reject", "score": 2603580, "best": 2806919, "blocks": [["\t\t\tarray<int, NS> ms;\n\t\t\tfor(int test = 0; test < 150; ++test) {\n\t\t\t\tshuffle(ro.begin(), ro.end(), mt);", "\t\t\tarray<int, NS> ms;\n\t\t\tbool small = req[p].size() <= 4;\n\t\t\tif(small) sort(ro.begin(), ro.end());\n\t\t\tfor(int test = 0; test < 150; ++test) {\n\t\t\t\tif(small) { if(test && !next_permutation(ro.begin(), ro.end())) break; }\n\t\t\t\telse shuffle(ro.begin(), ro.end(), mt);"]]}
+{"iter": 64, "event": "usage", "input": 11573, "output": 1269, "cache_read": 4777, "cache_write": 0}
+{"iter": 64, "event": "reject", "score": 2611922, "best": 2806919, "blocks": [["\tmt19937 mt(42);", "\tmt19937 mt(2024);"]]}
+{"iter": 65, "event": "usage", "input": 11696, "output": 781, "cache_read": 4777, "cache_write": 0}
+{"iter": 65, "event": "accept", "score": 2806919, "best": 2806919, "blocks": [["\t\t\t\tif(end < B[p]) oo += 50000000;", "\t\t\t\tif(end < B[p]) oo += 500000000;"]]}
+{"iter": 66, "event": "usage", "input": 11818, "output": 2444, "cache_read": 4777, "cache_write": 0}
+{"iter": 66, "event": "accept", "score": 2806919, "best": 2806919, "blocks": [["\t\t\tif(D[a] != D[b]) return D[a] < D[b];\n\t\t\treturn a < b;", "\t\t\tif(D[a] != D[b]) return D[a] < D[b];\n\t\t\tif(req[a].size() != req[b].size()) return req[a].size() < req[b].size();\n\t\t\treturn a < b;"]]}
+{"iter": 67, "event": "usage", "input": 11996, "output": 679, "cache_read": 4777, "cache_write": 0}
+{"iter": 67, "event": "reject", "score": 528846, "best": 2806919, "blocks": [["\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), skill[c][s], ts[c]); };", "\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), skill[c][s], -ts[c]); };"]]}
+{"iter": 68, "event": "usage", "input": 12201, "output": 685, "cache_read": 4777, "cache_write": 0}
+{"iter": 68, "event": "reject", "score": 2745018, "best": 2806919, "blocks": [["\t\t\t\tfor(int i = 1; i < cs.size(); ++i) if(skill[cs[i]][req[p][i].first] > req[p][i].second)\n\t\t\t\t\tfor(int j = 0; j < i; ++j) if(skill[cs[j]][req[p][j].first] > req[p][j].second)\n\t\t\t\t\t\tif(skill[cs[i]][req[p][j].first] >= req[p][j].second-1 && skill[cs[j]][req[p][i].first] >= req[p][i].second-1) {\n\t\t\t\t\t\t\tswap(cs[i], cs[j]);\n\t\t\t\t\t\t\too += 2;\n\t\t\t\t\t\t}", "\t\t\t\tfor(int pass = 0; pass < 2; ++pass)\n\t\t\t\tfor(int i = 1; i < cs.size(); ++i) if(skill[cs[i]][req[p][i].first] > req[p][i].second)\n\t\t\t\t\tfor(int j = 0; j < i; ++j) if(skill[cs[j]][req[p][j].first] > req[p][j].second)\n\t\t\t\t\t\tif(skill[cs[i]][req[p][j].first] >= req[p][j].second-1 && skill[cs[j]][req[p][i].first] >= req[p][i].second-1) {\n\t\t\t\t\t\t\tswap(cs[i], cs[j]);\n\t\t\t\t\t\t\too += 2;\n\t\t\t\t\t\t}"]]}
+{"iter": 69, "event": "usage", "input": 12695, "output": 1195, "cache_read": 4777, "cache_write": 0}
+{"iter": 69, "event": "reject", "score": 660334, "best": 2806919, "blocks": [["\t\t\t\t\tif(skill[best][s] <= l0) ++oo;", "\t\t\t\t\tif(skill[best][s] <= l0) oo += 100;"]]}
+{"iter": 70, "event": "usage", "input": 12834, "output": 952, "cache_read": 4777, "cache_write": 0}
+{"iter": 70, "event": "reject", "score": 2593907, "best": 2806919, "blocks": [["\t\t\tlong long ka = (long long)S[b]*D[a]*req[a].size(), kb = (long long)S[a]*D[b]*req[b].size();\n\t\t\tif(ka != kb) return ka < kb;", "\t\t\tlong long ka = (long long)S[b]*D[a]*(req[a].size()+1), kb = (long long)S[a]*D[b]*(req[b].size()+1);\n\t\t\tif(ka != kb) return ka < kb;"]]}
+{"iter": 71, "event": "usage", "input": 13075, "output": 901, "cache_read": 4777, "cache_write": 0}
+{"iter": 71, "event": "run_error", "detail": "solver exceeded 600s budget", "blocks": [["\t\t\tint beste = -1, besto = -1;\n\t\t\tvector<int> cs(req[p].size(), 0), cs2, ro=cs;", "\t\t\tint beste = -1, besto = -1;\n\t\t\tif(req[p].size() == 1) { fail.push_back(p); }\n\t\t\tvector<int> cs(req[p].size(), 0), cs2, ro=cs;"]]}
+{"iter": 72, "event": "usage", "input": 13276, "output": 1949, "cache_read": 0, "cache_write": 4777}
+{"iter": 72, "event": "reject", "score": 538507, "best": 2806919, "blocks": [["\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), skill[c][s], ts[c]); };", "\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), skill[c][s], -av[c], ts[c]); };"]]}
+{"iter": 73, "event": "usage", "input": 13485, "output": 569, "cache_read": 4777, "cache_write": 0}
+{"iter": 73, "event": "reject", "score": 660334, "best": 2806919, "blocks": [["\t\t\t\t\tif(skill[best][s] <= l0) ++oo;", "\t\t\t\t\tif(skill[best][s] <= l0) oo += 10000;"]]}
+{"iter": 74, "event": "usage", "input": 13625, "output": 1994, "cache_read": 4777, "cache_write": 0}
+{"iter": 74, "event": "reject", "score": 2716237, "best": 2806919, "blocks": [["\t\t\tlong long ka = (long long)S[b]*D[a]*req[a].size(), kb = (long long)S[a]*D[b]*req[b].size();\n\t\t\tif(ka != kb) return ka < kb;", "\t\t\tlong long ka = (long long)S[b]*D[a]*req[a].size()*req[a].size(), kb = (long long)S[a]*D[b]*req[b].size()*req[b].size();\n\t\t\tif(ka != kb) return ka < kb;"]]}
+{"iter": 75, "event": "usage", "input": 13873, "output": 1973, "cache_read": 4777, "cache_write": 0}
+{"iter": 75, "event": "reject", "score": 2611194, "best": 2806919, "blocks": [["\t\t\tfor(int test = 0; test < 150; ++test) {", "\t\t\tfor(int test = 0; test < 200; ++test) {"]]}
+{"iter": 76, "event": "usage", "input": 14011, "output": 831, "cache_read": 4777, "cache_write": 0}
+{"iter": 76, "event": "accept", "score": 2806919, "best": 2806919, "blocks": [["\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), skill[c][s], ts[c]); };", "\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), 2*skill[c][s]-l, ts[c]); };"]]}
+{"iter": 77, "event": "usage", "input": 14209, "output": 189, "cache_read": 4777, "cache_write": 0}
+{"iter": 77, "event": "accept", "score": 2806919, "best": 2806919, "blocks": [["\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), 2*skill[c][s]-l, ts[c]); };", "\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), skill[c][s]-l, ts[c]); };"]]}
+{"iter": 78, "event": "usage", "input": 14410, "output": 257, "cache_read": 4777, "cache_write": 0}
+{"iter": 78, "event": "accept", "score": 2806919, "best": 2806919, "blocks": [["\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), skill[c][s]-l, ts[c]); };", "\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), skill[c][s]-l, ts[c]-skill[c][s]); };"]]}
+{"iter": 79, "event": "usage", "input": 14616, "output": 200, "cache_read": 4777, "cache_write": 0}
+{"iter": 79, "event": "accept", "score": 2806919, "best": 2806919, "blocks": [["\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), skill[c][s]-l, ts[c]-skill[c][s]); };", "\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), skill[c][s]-l, ts[c]-2*skill[c][s]); };"]]}
+{"iter": 80, "event": "usage", "input": 14832, "output": 333, "cache_read": 4777, "cache_write": 0}
+{"iter": 80, "event": "accept", "score": 2806919, "best": 2806919, "blocks": [["\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), skill[c][s]-l, ts[c]-2*skill[c][s]); };", "\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), skill[c][s]-l, ts[c]-3*skill[c][s]); };"]]}
+{"iter": 81, "event": "usage", "input": 15050, "output": 1392, "cache_read": 4777, "cache_write": 0}
+{"iter": 81, "event": "reject", "score": 0, "best": 2806919, "blocks": [["\t\t\t\tif(end < B[p]) oo += 500000000;\n\t\t\t\too += 100000000-mav;", "\t\t\t\tif(end < B[p]) oo += 500000000;\n\t\t\t\too += 100000000-mav + 1000*oo;"]]}
+{"iter": 82, "event": "usage", "input": 15215, "output": 218, "cache_read": 4777, "cache_write": 0}
+{"iter": 82, "event": "accept", "score": 2806919, "best": 2806919, "blocks": [["\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), skill[c][s]-l, ts[c]-3*skill[c][s]); };", "\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), skill[c][s]-l, ts[c]-5*skill[c][s]); };"]]}
+{"iter": 83, "event": "usage", "input": 15433, "output": 603, "cache_read": 4777, "cache_write": 0}
+{"iter": 83, "event": "accept", "score": 2806919, "best": 2806919, "blocks": [["\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), skill[c][s]-l, ts[c]-5*skill[c][s]); };", "\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), skill[c][s]-l, ts[c]-10*skill[c][s]); };"]]}
+{"iter": 84, "event": "usage", "input": 15651, "output": 1097, "cache_read": 4777, "cache_write": 0}
+{"iter": 84, "event": "accept", "score": 2806919, "best": 2806919, "blocks": [["\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), skill[c][s]-l, ts[c]-10*skill[c][s]); };", "\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), skill[c][s]-l, ts[c]-20*skill[c][s]); };"]]}
+{"iter": 85, "event": "usage", "input": 15869, "output": 519, "cache_read": 4777, "cache_write": 0}
+{"iter": 85, "event": "accept", "score": 2806919, "best": 2806919, "blocks": [["\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), skill[c][s]-l, ts[c]-20*skill[c][s]); };", "\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), skill[c][s]-l, ts[c]-50*skill[c][s]); };"]]}
+{"iter": 86, "event": "usage", "input": 16087, "output": 915, "cache_read": 4777, "cache_write": 0}
+{"iter": 86, "event": "reject", "score": 2642875, "best": 2806919, "blocks": [["\tmt19937 mt(42);", "\tmt19937 mt(31337);"]]}
+{"iter": 87, "event": "usage", "input": 16210, "output": 299, "cache_read": 4777, "cache_write": 0}
+{"iter": 87, "event": "accept", "score": 2806919, "best": 2806919, "blocks": [["\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), skill[c][s]-l, ts[c]-50*skill[c][s]); };", "\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), skill[c][s]-l, ts[c]-200*skill[c][s]); };"]]}
+{"iter": 88, "event": "usage", "input": 16428, "output": 1498, "cache_read": 4777, "cache_write": 0}
+{"iter": 88, "event": "reject", "score": 2577399, "best": 2806919, "blocks": [["\tmt19937 mt(42);", "\tmt19937 mt(987654321);"]]}
+{"iter": 89, "event": "usage", "input": 16552, "output": 2342, "cache_read": 4777, "cache_write": 0}
+{"iter": 89, "event": "reject", "score": 2672946, "best": 2806919, "blocks": [["\tmt19937 mt(42);", "\tmt19937 mt(50);"]]}
+{"iter": 90, "event": "usage", "input": 16674, "output": 1377, "cache_read": 4777, "cache_write": 0}
+{"iter": 90, "event": "reject", "score": 2644794, "best": 2806919, "blocks": [["\t\t\tarray<int, NS> ms;\n\t\t\tfor(int test = 0; test < 150; ++test) {\n\t\t\t\tshuffle(ro.begin(), ro.end(), mt);", "\t\t\tarray<int, NS> ms;\n\t\t\tmt.seed(p*2654435761u + 1);\n\t\t\tfor(int test = 0; test < 150; ++test) {\n\t\t\t\tshuffle(ro.begin(), ro.end(), mt);"]]}
+{"iter": 91, "event": "usage", "input": 16901, "output": 566, "cache_read": 4777, "cache_write": 0}
+{"iter": 91, "event": "accept", "score": 2806919, "best": 2806919, "blocks": [["\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), skill[c][s]-l, ts[c]-200*skill[c][s]); };", "\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), 2*(skill[c][s]-l), ts[c]-200*skill[c][s]); };"]]}
+{"iter": 92, "event": "usage", "input": 17123, "output": 661, "cache_read": 4777, "cache_write": 0}
+{"iter": 92, "event": "accept", "score": 2806919, "best": 2806919, "blocks": [["\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), 2*(skill[c][s]-l), ts[c]-200*skill[c][s]); };", "\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), skill[c][s]-l, ts[c]); };"]]}
+{"iter": 93, "event": "usage", "input": 17335, "output": 1661, "cache_read": 4777, "cache_write": 0}
+{"iter": 93, "event": "reject", "score": 2521239, "best": 2806919, "blocks": [["\t\tsort(order.begin(), order.end(), [&](int a, int b) {\n\t\t\tlong long ka = (long long)S[b]*D[a]*req[a].size(), kb = (long long)S[a]*D[b]*req[b].size();\n\t\t\tif(ka != kb) return ka < kb;\n\t\t\tif(B[a] != B[b]) return B[a] < B[b];\n\t\t\tif(S[a] != S[b]) return S[a] > S[b];\n\t\t\tif(D[a] != D[b]) return D[a] < D[b];\n\t\t\tif(req[a].size() != req[b].size()) return req[a].size() < req[b].size();\n\t\t\treturn a < b;\n\t\t});", "\t\tsort(order.begin(), order.end(), [&](int a, int b) {\n\t\t\tlong long ka = (long long)S[b]*D[a]*req[a].size()*B[b], kb = (long long)S[a]*D[b]*req[b].size()*B[a];\n\t\t\tif(ka != kb) return ka < kb;\n\t\t\tif(B[a] != B[b]) return B[a] < B[b];\n\t\t\tif(S[a] != S[b]) return S[a] > S[b];\n\t\t\tif(D[a] != D[b]) return D[a] < D[b];\n\t\t\tif(req[a].size() != req[b].size()) return req[a].size() < req[b].size();\n\t\t\treturn a < b;\n\t\t});"]]}
+{"iter": 94, "event": "usage", "input": 17858, "output": 385, "cache_read": 4777, "cache_write": 0}
+{"iter": 94, "event": "accept", "score": 2806919, "best": 2806919, "blocks": [["\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), skill[c][s]-l, ts[c]); };", "\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), skill[c][s]-l, ts[c]-skill[c][s]); };"]]}
+{"iter": 95, "event": "usage", "input": 18064, "output": 615, "cache_read": 4777, "cache_write": 0}
+{"iter": 95, "event": "accept", "score": 2806919, "best": 2806919, "blocks": [["\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), skill[c][s]-l, ts[c]-skill[c][s]); };", "\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), skill[c][s]-l, ts[c]-skill[c][s]-skill[c][s]); };"]]}
+{"iter": 96, "event": "usage", "input": 18286, "output": 1163, "cache_read": 4777, "cache_write": 0}
+{"iter": 96, "event": "reject", "score": 2592338, "best": 2806919, "blocks": [["\t\t\t\t\tif(skill[best][s] <= l0) ++oo;", "\t\t\t\t\tif(skill[best][s] <= l0) oo += 0;"]]}
+{"iter": 97, "event": "usage", "input": 18427, "output": 2248, "cache_read": 4777, "cache_write": 0}
+{"iter": 97, "event": "reject", "score": 663191, "best": 2806919, "blocks": [["\t\t\t\t\t\t\tswap(cs[i], cs[j]);\n\t\t\t\t\t\t\too += 2;", "\t\t\t\t\t\t\tswap(cs[i], cs[j]);\n\t\t\t\t\t\t\too += 1;"]]}
+{"iter": 98, "event": "usage", "input": 18571, "output": 1972, "cache_read": 4777, "cache_write": 0}
+{"iter": 98, "event": "reject", "score": 2588939, "best": 2806919, "blocks": [["\t\t\t\t\t\t\tswap(cs[i], cs[j]);\n\t\t\t\t\t\t\too += 2;", "\t\t\t\t\t\t\tswap(cs[i], cs[j]);\n\t\t\t\t\t\t\too += 4;"], ["\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), skill[c][s]-l, ts[c]-skill[c][s]-skill[c][s]); };", "\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), skill[c][s]-l, ts[c]-skill[c][s]-skill[c][s]-skill[c][s]); };"]]}
+{"iter": 99, "event": "usage", "input": 18968, "output": 2966, "cache_read": 4777, "cache_write": 0}
+{"iter": 99, "event": "reject", "score": 2578128, "best": 2806919, "blocks": [["\t\t\tarray<int, NS> ms;\n\t\t\tfor(int test = 0; test < 150; ++test) {\n\t\t\t\tshuffle(ro.begin(), ro.end(), mt);", "\t\t\tarray<int, NS> ms;\n\t\t\tvector<int> roD(ro), roA(ro);\n\t\t\tsort(roD.begin(), roD.end(), [&](int a, int b){ return req[p][a].second > req[p][b].second; });\n\t\t\tsort(roA.begin(), roA.end(), [&](int a, int b){ return req[p][a].second < req[p][b].second; });\n\t\t\tfor(int test = 0; test < 150; ++test) {\n\t\t\t\tif(test == 0) ro = roD;\n\t\t\t\telse if(test == 1) ro = roA;\n\t\t\t\telse shuffle(ro.begin(), ro.end(), mt);"]]}
+{"iter": 100, "event": "usage", "input": 19319, "output": 476, "cache_read": 4777, "cache_write": 0}
+{"iter": 100, "event": "reject", "score": 2280752, "best": 2806919, "blocks": [["\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), skill[c][s]-l, ts[c]-skill[c][s]-skill[c][s]); };", "\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m)*2 - av[c], skill[c][s]-l, ts[c]-skill[c][s]-skill[c][s]); };"]]}
+{"event": "totals", "provider": "anthropic", "model": "claude-opus-4-8", "input": 897313, "output": 123427, "cache_read": 472923, "cache_write": 4777, "cost_usd": 7.83855775}

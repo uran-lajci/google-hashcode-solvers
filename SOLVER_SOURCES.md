@@ -2,7 +2,7 @@
 
 Links to every solver repository found for each problem, before any solver was analyzed or removed. Problems are in contest order. A repository that covers several problems appears under each of them.
 
-*Collected* repositories were imported into the problem folder. Only Street View Routing, City Plan, Compiling Google, Assembling Smartphones, Software Engineering at Scale and Santa Tracker have been through selection so far, so they are the only problems with repositories marked *not kept*. *Found but not collected* lists duplicates of a collected solver and repositories with no usable solver that the problem's README attributes to that problem. Repositories that were rejected without being attributed to a problem are in [EXCLUDED.md](EXCLUDED.md).
+*Collected* repositories were imported into the problem folder. Only Street View Routing, City Plan, Compiling Google, Assembling Smartphones, Software Engineering at Scale, Mentorship and Teamwork and Santa Tracker have been through selection so far, so they are the only problems with repositories marked *not kept*. *Found but not collected* lists duplicates of a collected solver and repositories with no usable solver that the problem's README attributes to that problem. Repositories that were rejected without being attributed to a problem are in [EXCLUDED.md](EXCLUDED.md).
 
 | Problem | Contest | Collected | Found but not collected |
 |---|---|---:|---:|
@@ -25,9 +25,9 @@ Links to every solver repository found for each problem, before any solver was a
 | [Traffic Signaling](#traffic-signaling) | 2021, qualification | 396 | 5 |
 | [Software Engineering at Scale](#software-engineering-at-scale) | 2021, final | 6 | 0 |
 | [One Pizza](#one-pizza) | 2022, practice | 147 | 0 |
-| [Mentorship and Teamwork](#mentorship-and-teamwork) | 2022, qualification | 267 | 3 |
+| [Mentorship and Teamwork](#mentorship-and-teamwork) | 2022, qualification | 268 | 3 |
 | [Santa Tracker](#santa-tracker) | 2022, final | 8 | 1 |
-| **Total** | | **4276** | **76** |
+| **Total** | | **4277** | **76** |
 
 ## Street View Routing
 
@@ -4284,275 +4284,276 @@ Links to every solver repository found for each problem, before any solver was a
 
 2022, qualification. Folder: [`mentorship_and_teamwork/`](mentorship_and_teamwork/). Problem statement and inputs: [pierreavn/google-hashcode-archive/archive/2022/qualification](https://github.com/pierreavn/google-hashcode-archive/tree/main/archive/2022/qualification).
 
-### Collected (267)
+### Collected (268)
 
-- [0CodeLife0/GoogleHashCode2022-Mentorship-and-Teamwork](https://github.com/0CodeLife0/GoogleHashCode2022-Mentorship-and-Teamwork)
-- [0CodeLife0/GoogleHashCode2022-Mentorship-and-Teamwork-MessyVer](https://github.com/0CodeLife0/GoogleHashCode2022-Mentorship-and-Teamwork-MessyVer)
-- [3domDev/hashcode-2022-qualifiers](https://github.com/3domDev/hashcode-2022-qualifiers)
-- [Abhishek-1087/Mentorship-and-Teamwork---Hash-Code-2022-Qualification](https://github.com/Abhishek-1087/Mentorship-and-Teamwork---Hash-Code-2022-Qualification)
-- [abhishr06/HashCode_2022](https://github.com/abhishr06/HashCode_2022)
-- [abidwaqar/hashcode2022](https://github.com/abidwaqar/hashcode2022)
-- [achingachris/hashcode-2022-attempts](https://github.com/achingachris/hashcode-2022-attempts)
-- [Achyut-Krishna/HashCode2022-1](https://github.com/Achyut-Krishna/HashCode2022-1)
-- [AdRs21/HashCode22](https://github.com/AdRs21/HashCode22)
-- [ahmaide/HashCode2022](https://github.com/ahmaide/HashCode2022)
-- [albheim/hashcode2022](https://github.com/albheim/hashcode2022)
-- [AlexeyZhuravlev/hashcode-qual-2022](https://github.com/AlexeyZhuravlev/hashcode-qual-2022)
-- [AlexisBonamyGreau/Hashcode-2022](https://github.com/AlexisBonamyGreau/Hashcode-2022)
-- [AlfonsoSarroLarrey/HashCode2022](https://github.com/AlfonsoSarroLarrey/HashCode2022)
-- [alibimm/HashCode_2022](https://github.com/alibimm/HashCode_2022)
-- [alvarocrego/HashCode2022](https://github.com/alvarocrego/HashCode2022)
-- [Am0stafa/Google-hash-code-2022](https://github.com/Am0stafa/Google-hash-code-2022)
-- [amanroy2001/hashcode-2022](https://github.com/amanroy2001/hashcode-2022)
-- [amartinruiz23/hashcode-2022](https://github.com/amartinruiz23/hashcode-2022)
-- [ambolt314/hashcode-2022](https://github.com/ambolt314/hashcode-2022)
-- [ananthsathvick/hashcode2022](https://github.com/ananthsathvick/hashcode2022)
-- [Andree37/HashCode-2022](https://github.com/Andree37/HashCode-2022)
-- [angelo-rendina-prima/hashcode2022](https://github.com/angelo-rendina-prima/hashcode2022)
-- [AngrySaltyFish24/Hashcode2022](https://github.com/AngrySaltyFish24/Hashcode2022)
-- [AnkilP/google-hashcode-2022](https://github.com/AnkilP/google-hashcode-2022)
-- [anshumalivfx/hashcode-2022](https://github.com/anshumalivfx/hashcode-2022)
-- [antroseco/hashcode-2022](https://github.com/antroseco/hashcode-2022)
-- [arberaga/hashcode2022](https://github.com/arberaga/hashcode2022)
-- [arnodeceuninck/hashcode2022](https://github.com/arnodeceuninck/hashcode2022)
-- [atharv-patil/HashCode2022](https://github.com/atharv-patil/HashCode2022)
-- [aurensanx/hashcode2022](https://github.com/aurensanx/hashcode2022)
-- [aydinsercan/GoogleHashCode2022](https://github.com/aydinsercan/GoogleHashCode2022)
-- [aymenkhs/Hash-code-2022-astrasterix](https://github.com/aymenkhs/Hash-code-2022-astrasterix)
-- [Azzedde/HashCode-2022](https://github.com/Azzedde/HashCode-2022)
-- [Babatunde13/hashcode-22](https://github.com/Babatunde13/hashcode-22)
-- [bacali95/google-hashcode-2022](https://github.com/bacali95/google-hashcode-2022)
-- [baptistelebail/google-hashcode-2022](https://github.com/baptistelebail/google-hashcode-2022)
-- [belmind/hashcode22](https://github.com/belmind/hashcode22)
-- [beobuild/hashcode_2022](https://github.com/beobuild/hashcode_2022)
-- [Bhdzhdz/google_hashcode_2022](https://github.com/Bhdzhdz/google_hashcode_2022)
-- [BlaisMathieu/Hashcode2022](https://github.com/BlaisMathieu/Hashcode2022)
-- [Blisteur/Google-Hashcode-2022](https://github.com/Blisteur/Google-Hashcode-2022)
-- [bouchouk/Mentorship-And-Teamwork-Optimization-C](https://github.com/bouchouk/Mentorship-And-Teamwork-Optimization-C)
-- [brkydnc/hashcode](https://github.com/brkydnc/hashcode)
-- [bshishov/HashCode2022](https://github.com/bshishov/HashCode2022)
-- [Byooks/Hashcode-2022](https://github.com/Byooks/Hashcode-2022)
-- [CaptainLuke/HashCode2022](https://github.com/CaptainLuke/HashCode2022)
-- [ch-pat/google-hashcode](https://github.com/ch-pat/google-hashcode)
-- [christianwiese/hashcode-2022](https://github.com/christianwiese/hashcode-2022)
-- [chrisxu333/Google-Hashcode-2022-Solution](https://github.com/chrisxu333/Google-Hashcode-2022-Solution)
-- [CipherCook/Hashcode-2022-0x138D5](https://github.com/CipherCook/Hashcode-2022-0x138D5)
-- [clementbegnaud/hashcode-2022-alambik](https://github.com/clementbegnaud/hashcode-2022-alambik)
-- [Cmathou/Hashcode-2022](https://github.com/Cmathou/Hashcode-2022)
-- [CorwinMangin/HashCode2022](https://github.com/CorwinMangin/HashCode2022)
-- [Cr4ftingMine/Google-Hashcode-2022](https://github.com/Cr4ftingMine/Google-Hashcode-2022)
-- [cristina-georgeta-radu/HASHCODE_2022](https://github.com/cristina-georgeta-radu/HASHCODE_2022)
-- [Cthulhus-Knights/hashcode_2022](https://github.com/Cthulhus-Knights/hashcode_2022)
-- [Cuijpie/hashcode2022](https://github.com/Cuijpie/hashcode2022)
-- [Curs3W4ll/Google-HashCode-2022](https://github.com/Curs3W4ll/Google-HashCode-2022)
-- [cyril-sabourault/hashcode](https://github.com/cyril-sabourault/hashcode)
-- [Dabsunter/hashcode2022](https://github.com/Dabsunter/hashcode2022)
-- [dalogax/hashcode2022](https://github.com/dalogax/hashcode2022)
-- [damiano00/GoogleHashCode](https://github.com/damiano00/GoogleHashCode)
-- [Damzwan/hashcode2022](https://github.com/Damzwan/hashcode2022)
-- [danielquinti/hashcode-2022](https://github.com/danielquinti/hashcode-2022)
-- [Dante-Masciotra/HashCode2022](https://github.com/Dante-Masciotra/HashCode2022)
-- [DarshalShetty/Hashcode2022](https://github.com/DarshalShetty/Hashcode2022)
-- [dasamantaraoaditya/googleCodeHash](https://github.com/dasamantaraoaditya/googleCodeHash)
-- [davimatyi/hashcode_2022](https://github.com/davimatyi/hashcode_2022)
-- [dilshankarunarathne/Answer_for-Mentorship_and_Teamwork](https://github.com/dilshankarunarathne/Answer_for-Mentorship_and_Teamwork)
-- [djefrey/hashcode-2021](https://github.com/djefrey/hashcode-2021)
-- [DjellalAbdou/hashcode](https://github.com/DjellalAbdou/hashcode)
-- [DorHugi/hashCode2022](https://github.com/DorHugi/hashCode2022)
-- [Dovgalyuk/hashcode2022](https://github.com/Dovgalyuk/hashcode2022)
-- [drlc/Hashcode2022](https://github.com/drlc/Hashcode2022)
-- [dsilvahansen/google-hashcode-2022](https://github.com/dsilvahansen/google-hashcode-2022)
-- [dzjkb/hashcode2022](https://github.com/dzjkb/hashcode2022)
-- [Elijahdanie/Google-Hash-code-Qualification-round-2022](https://github.com/Elijahdanie/Google-Hash-code-Qualification-round-2022)
-- [elvirmisini/Mentorship_Teamwork_ILS](https://github.com/elvirmisini/Mentorship_Teamwork_ILS)
-- [englhardt/hashcode2022](https://github.com/englhardt/hashcode2022)
-- [Epado/hashCode2022](https://github.com/Epado/hashCode2022)
-- [fabian57fabian/hashcode-2022-gdgfi](https://github.com/fabian57fabian/hashcode-2022-gdgfi)
-- [fatimafatimaprogrammer/HashCode-Maximize_Project_Assignments-](https://github.com/fatimafatimaprogrammer/HashCode-Maximize_Project_Assignments-)
-- [floriandejonckheere/hashcode](https://github.com/floriandejonckheere/hashcode)
-- [florin141/hashcode-2022](https://github.com/florin141/hashcode-2022)
-- [fpallaro/HashCode2022](https://github.com/fpallaro/HashCode2022)
-- [FreekDS/Google-hashcode2022](https://github.com/FreekDS/Google-hashcode2022)
-- [g-bl/HashCode22](https://github.com/g-bl/HashCode22)
-- [gamaticow/HashCode2022](https://github.com/gamaticow/HashCode2022)
-- [ginuxone/Google-Hashcode2022](https://github.com/ginuxone/Google-Hashcode2022)
-- [giorgos1998/team-assignment-optimizer](https://github.com/giorgos1998/team-assignment-optimizer)
-- [gleb-kov/hashcode2022](https://github.com/gleb-kov/hashcode2022)
-- [gnitsua/hashcode2022](https://github.com/gnitsua/hashcode2022)
-- [GO3LIN/hash2022](https://github.com/GO3LIN/hash2022)
-- [GoogleHashcode2022-JSBad/HashCode2022](https://github.com/GoogleHashcode2022-JSBad/HashCode2022)
-- [Gophing-Around/qualification-round-2022](https://github.com/Gophing-Around/qualification-round-2022)
-- [grandmasteri/Google-Hashcode-2022](https://github.com/grandmasteri/Google-Hashcode-2022)
-- [GVS2001/TPM_Teamwork-with-Mentoring-Problem](https://github.com/GVS2001/TPM_Teamwork-with-Mentoring-Problem)
-- [HakimTem/GoogleHashcode2022](https://github.com/HakimTem/GoogleHashcode2022)
-- [HappyKid117/hashcode-2022](https://github.com/HappyKid117/hashcode-2022)
-- [harshit-paneri/HashCode-2022](https://github.com/harshit-paneri/HashCode-2022)
-- [HarveyBrezinaConniffe/HashCode2022](https://github.com/HarveyBrezinaConniffe/HashCode2022)
-- [HashCode-ICL-2022/qualification_round_2022](https://github.com/HashCode-ICL-2022/qualification_round_2022)
-- [HasinduLanka/hashcode-2022](https://github.com/HasinduLanka/hashcode-2022)
-- [hcn1z1/hashcode](https://github.com/hcn1z1/hashcode)
-- [hexmod/hash-code-2022](https://github.com/hexmod/hash-code-2022)
-- [hsnthn/hashcode-2022](https://github.com/hsnthn/hashcode-2022)
-- [HuzaifaIrfan-DSA/hashcode-2022-qualification-round](https://github.com/HuzaifaIrfan-DSA/hashcode-2022-qualification-round)
-- [iak0/hashcode2022](https://github.com/iak0/hashcode2022)
-- [iamayushanand/hashcode2022](https://github.com/iamayushanand/hashcode2022)
-- [idow09/hashcode2022](https://github.com/idow09/hashcode2022)
-- [IgorSchittekat/GoogleHashcode2022](https://github.com/IgorSchittekat/GoogleHashcode2022)
-- [iheb-haddad/HashCode-2022](https://github.com/iheb-haddad/HashCode-2022)
-- [ImadABID/HashCode2022](https://github.com/ImadABID/HashCode2022)
-- [indjev99/Optimizational-Problems-Solutions](https://github.com/indjev99/Optimizational-Problems-Solutions)
-- [inkeko/HashCode2022](https://github.com/inkeko/HashCode2022)
-- [isaaclo97/HashCode2022](https://github.com/isaaclo97/HashCode2022)
-- [IumoInfinium/hashcode2022](https://github.com/IumoInfinium/hashcode2022)
-- [jaumes5/hashcode2022](https://github.com/jaumes5/hashcode2022)
-- [Javariati/Hashcode2k22](https://github.com/Javariati/Hashcode2k22)
-- [javgat/hashcode2022](https://github.com/javgat/hashcode2022)
-- [Javidjms/hashcode2022](https://github.com/Javidjms/hashcode2022)
-- [jcolladosp/hash-code-2022](https://github.com/jcolladosp/hash-code-2022)
-- [Jdawson03/GoogleHashCode2022](https://github.com/Jdawson03/GoogleHashCode2022)
-- [JDOsborne1/hashcode2022](https://github.com/JDOsborne1/hashcode2022)
-- [jjustin/hashcode2022](https://github.com/jjustin/hashcode2022)
-- [joffrey-bion/hashcode-2022-qualif](https://github.com/joffrey-bion/hashcode-2022-qualif)
-- [juansalmeronmoya/hashcode2022](https://github.com/juansalmeronmoya/hashcode2022)
-- [justsolomon/hashcode-2022](https://github.com/justsolomon/hashcode-2022)
-- [Kacper-Lis/Google-HashCodes](https://github.com/Kacper-Lis/Google-HashCodes)
-- [kanko-ghosh/hashcode2022](https://github.com/kanko-ghosh/hashcode2022)
-- [katie-hughes/hashcode2022](https://github.com/katie-hughes/hashcode2022)
-- [kayacanv/Google-Hash-Code-Qualification-Round-Codes](https://github.com/kayacanv/Google-Hash-Code-Qualification-Round-Codes)
-- [khalilghouddan/Google-Hashcode-2022-Mentorship-and-Teamwork](https://github.com/khalilghouddan/Google-Hashcode-2022-Mentorship-and-Teamwork)
-- [kindermoumoute/hashcode2022](https://github.com/kindermoumoute/hashcode2022)
-- [kirankuyate2157/hashcode2022](https://github.com/kirankuyate2157/hashcode2022)
-- [kisel-dv/hashcode2022](https://github.com/kisel-dv/hashcode2022)
-- [Kitarsh/hashcode2022](https://github.com/Kitarsh/hashcode2022)
-- [Knackie/hashcode-2022](https://github.com/Knackie/hashcode-2022)
-- [kobr4/g_hashcodes](https://github.com/kobr4/g_hashcodes)
-- [KristofHolecz/hash-code-2022-mentorship-and-teamwork-insights-reporter](https://github.com/KristofHolecz/hash-code-2022-mentorship-and-teamwork-insights-reporter)
-- [krmbzds/hashcode-2022](https://github.com/krmbzds/hashcode-2022)
-- [krunalmk/GoogleHashCode](https://github.com/krunalmk/GoogleHashCode)
-- [laurerunser/hashcode2022](https://github.com/laurerunser/hashcode2022)
-- [lewisc64/Hashcode2022](https://github.com/lewisc64/Hashcode2022)
-- [lynparbone/Hashcode_2022](https://github.com/lynparbone/Hashcode_2022)
-- [m-baj/mentorship-and-teamwork](https://github.com/m-baj/mentorship-and-teamwork)
-- [M3A-Team/hash-code-2022](https://github.com/M3A-Team/hash-code-2022)
-- [mahmoudjobeel1/Google-HashCode-2022-Solutions](https://github.com/mahmoudjobeel1/Google-HashCode-2022-Solutions)
-- [Manhalmaath/Hashcode2022](https://github.com/Manhalmaath/Hashcode2022)
-- [marc1404/google-hashcode-2022](https://github.com/marc1404/google-hashcode-2022)
-- [marcoboari/hashcode-marco-2022](https://github.com/marcoboari/hashcode-marco-2022)
-- [marianocrosetti/icpc-hashcode2022](https://github.com/marianocrosetti/icpc-hashcode2022)
-- [masterchief164/hashcode2022](https://github.com/masterchief164/hashcode2022)
-- [MaximeFre/HashCode2022](https://github.com/MaximeFre/HashCode2022)
-- [mayhim182/Hashcode-2022-my-solution-A-F](https://github.com/mayhim182/Hashcode-2022-my-solution-A-F)
-- [mcieno/HashCode](https://github.com/mcieno/HashCode)
-- [mhmd-azeez/google-hashcode-2022](https://github.com/mhmd-azeez/google-hashcode-2022)
-- [MIA-Deltat1995/HashCode-2022](https://github.com/MIA-Deltat1995/HashCode-2022)
-- [micaelafonso/hashcode2022](https://github.com/micaelafonso/hashcode2022)
-- [Mifour/hashcode_2022](https://github.com/Mifour/hashcode_2022)
-- [MihailoGrbic/Google-HashCode-2022](https://github.com/MihailoGrbic/Google-HashCode-2022)
-- [miksax/hashcode_2022_qualification](https://github.com/miksax/hashcode_2022_qualification)
-- [Mirran64/Hashcode-2022](https://github.com/Mirran64/Hashcode-2022)
-- [mkromkamp/google-hash-code-2022](https://github.com/mkromkamp/google-hash-code-2022)
-- [mmarouen/hascode](https://github.com/mmarouen/hascode)
-- [MrTooOldDriver/Hashcode-2022](https://github.com/MrTooOldDriver/Hashcode-2022)
-- [Mstiekema/TechKechs](https://github.com/Mstiekema/TechKechs)
-- [Mu-selim/Google-Hashcode-2022](https://github.com/Mu-selim/Google-Hashcode-2022)
-- [muety/hashcode-2022](https://github.com/muety/hashcode-2022)
-- [MuhammadSaadSiddique/HashCode2022](https://github.com/MuhammadSaadSiddique/HashCode2022)
-- [MuhammedHasan/hashcode-2022](https://github.com/MuhammedHasan/hashcode-2022)
-- [mullerpeter/hashcode2022](https://github.com/mullerpeter/hashcode2022)
-- [n-gutierrez/HashCode2022](https://github.com/n-gutierrez/HashCode2022)
-- [n-sc/hashcode2022](https://github.com/n-sc/hashcode2022)
-- [Nanored4498/HashCode2022](https://github.com/Nanored4498/HashCode2022)
-- [navasmdc/GoogleHashCode-22](https://github.com/navasmdc/GoogleHashCode-22)
-- [nderousseaux/hashcode-2022-qualification](https://github.com/nderousseaux/hashcode-2022-qualification)
-- [Nicolaus93/hashcode_2022](https://github.com/Nicolaus93/hashcode_2022)
-- [nihal5617/google-hashcode2022](https://github.com/nihal5617/google-hashcode2022)
-- [NikosGour/HashCode2022](https://github.com/NikosGour/HashCode2022)
-- [Nipun-Katariya/hashcode-2022-attempt](https://github.com/Nipun-Katariya/hashcode-2022-attempt)
-- [noharms/hashcode2022](https://github.com/noharms/hashcode2022)
-- [Noobgam/google-hashcode-2018-qualifier](https://github.com/Noobgam/google-hashcode-2018-qualifier)
-- [nvog1/hash_code_2022](https://github.com/nvog1/hash_code_2022)
-- [nzacha/HashCode](https://github.com/nzacha/HashCode)
-- [ogtayhuseynov0/hashcode2022](https://github.com/ogtayhuseynov0/hashcode2022)
-- [onshimiye/hashcode-2022](https://github.com/onshimiye/hashcode-2022)
-- [ootisg/HashCode2022Solution](https://github.com/ootisg/HashCode2022Solution)
-- [ootks/hashcode2022](https://github.com/ootks/hashcode2022)
-- [opiechow/hashcode2022](https://github.com/opiechow/hashcode2022)
-- [orsa-scholis/hashcode-2022](https://github.com/orsa-scholis/hashcode-2022)
-- [otikev/hashcode2022](https://github.com/otikev/hashcode2022)
-- [parvg555/Hashcode-2022](https://github.com/parvg555/Hashcode-2022)
-- [pblkt/hashcode2022](https://github.com/pblkt/hashcode2022)
-- [peirisabhi/hashcode_2022](https://github.com/peirisabhi/hashcode_2022)
-- [PelaezLink/HashCode2022](https://github.com/PelaezLink/HashCode2022)
-- [philipperbd/hashcode2022labs](https://github.com/philipperbd/hashcode2022labs)
-- [Phylu/hashcode2022](https://github.com/Phylu/hashcode2022)
-- [PicoJr/google-hashcode-score-2022](https://github.com/PicoJr/google-hashcode-score-2022)
-- [pizzahunter2000/Hashcode2022](https://github.com/pizzahunter2000/Hashcode2022)
-- [pradeeprajm01/GoogleHashcode-2022-Solution](https://github.com/pradeeprajm01/GoogleHashcode-2022-Solution)
-- [prague-pandas/hashcode-2022-qualification](https://github.com/prague-pandas/hashcode-2022-qualification)
-- [programmistik/HashCode2022](https://github.com/programmistik/HashCode2022)
-- [quangminhdinh/HashCodeQualification2022](https://github.com/quangminhdinh/HashCodeQualification2022)
-- [RideSVEL/hashCode2022](https://github.com/RideSVEL/hashCode2022)
-- [RobbeDP/hashcode-2022](https://github.com/RobbeDP/hashcode-2022)
-- [rohanailoni/HashCode-2022](https://github.com/rohanailoni/HashCode-2022)
-- [rotolonico/Hashcode2022](https://github.com/rotolonico/Hashcode2022)
-- [Ruchit-rt/hashcode](https://github.com/Ruchit-rt/hashcode)
-- [Ryan0v0/HashCode2022](https://github.com/Ryan0v0/HashCode2022)
-- [SaffatHasan/hashcode-2022](https://github.com/SaffatHasan/hashcode-2022)
-- [sagnik1511/hashcode_solutions](https://github.com/sagnik1511/hashcode_solutions)
-- [SainteCroquette/hashcode2022](https://github.com/SainteCroquette/hashcode2022)
-- [samihoucheimi/Google-HashCode2022](https://github.com/samihoucheimi/Google-HashCode2022)
-- [samuelebortolotti/google-hashcode-2022](https://github.com/samuelebortolotti/google-hashcode-2022)
-- [SanchitaMishra170676/Hashcode2022](https://github.com/SanchitaMishra170676/Hashcode2022)
-- [SaNDy4ortyFivE/Hashcode_2022_attempt](https://github.com/SaNDy4ortyFivE/Hashcode_2022_attempt)
-- [sbrodehl/hashcode2022](https://github.com/sbrodehl/hashcode2022)
-- [schweikart/hashcode-2022-qualification](https://github.com/schweikart/hashcode-2022-qualification)
-- [sebastienD/HashCode2022](https://github.com/sebastienD/HashCode2022)
-- [ShahilPatel-IITDh/HashCode2022](https://github.com/ShahilPatel-IITDh/HashCode2022)
-- [shefketbylykbashi/mentorship-teamwork-dataset](https://github.com/shefketbylykbashi/mentorship-teamwork-dataset)
-- [shemetz/Google_Hashcode_2022](https://github.com/shemetz/Google_Hashcode_2022)
-- [ShifaKhan33/Team-Manager](https://github.com/ShifaKhan33/Team-Manager)
-- [shrikant2001/Google-Hashcode-2022](https://github.com/shrikant2001/Google-Hashcode-2022)
-- [Shrirang97/HashCode2022](https://github.com/Shrirang97/HashCode2022)
-- [simbarras/hashcode22-EVREST](https://github.com/simbarras/hashcode22-EVREST)
-- [slybach/GHC22Qualification](https://github.com/slybach/GHC22Qualification)
-- [SmashKs/HashCode2022Qualification](https://github.com/SmashKs/HashCode2022Qualification)
-- [spes2357/2021-hashcode-practice](https://github.com/spes2357/2021-hashcode-practice)
-- [srikanth-iyengar/HashCoder2022](https://github.com/srikanth-iyengar/HashCoder2022)
-- [StefPler/hashcode_2022](https://github.com/StefPler/hashcode_2022)
-- [strdr4605/hashcode-2022](https://github.com/strdr4605/hashcode-2022)
-- [StripedBanana/google-hashcode-2022](https://github.com/StripedBanana/google-hashcode-2022)
-- [Superbasil3/google-hashcode-2021](https://github.com/Superbasil3/google-hashcode-2021)
-- [svenfinke/HashCode2022](https://github.com/svenfinke/HashCode2022)
-- [tallosim/hashcode-2022](https://github.com/tallosim/hashcode-2022)
-- [The-Crystal-Devs/Hashcode-2021](https://github.com/The-Crystal-Devs/Hashcode-2021)
-- [theamankumarsingh/hashcode-2022](https://github.com/theamankumarsingh/hashcode-2022)
-- [TheGuyWithoutH/HashCode2022](https://github.com/TheGuyWithoutH/HashCode2022)
-- [tibovanheule/hashcode_22](https://github.com/tibovanheule/hashcode_22)
-- [tokudai-vs/Hashcode-2022](https://github.com/tokudai-vs/Hashcode-2022)
-- [Tom-stack3/hashCode2022](https://github.com/Tom-stack3/hashCode2022)
-- [Traderain/HashCode2022](https://github.com/Traderain/HashCode2022)
-- [tweedegolf/hashcode2022](https://github.com/tweedegolf/hashcode2022)
-- [uek06/HashCode2022](https://github.com/uek06/HashCode2022)
-- [umang4846/Google-Hashcode-2022](https://github.com/umang4846/Google-Hashcode-2022)
-- [uran-lajci/mentorship-and-teamwork-validator](https://github.com/uran-lajci/mentorship-and-teamwork-validator)
+- [0CodeLife0/GoogleHashCode2022-Mentorship-and-Teamwork](https://github.com/0CodeLife0/GoogleHashCode2022-Mentorship-and-Teamwork) — not kept after benchmarking
+- [0CodeLife0/GoogleHashCode2022-Mentorship-and-Teamwork-MessyVer](https://github.com/0CodeLife0/GoogleHashCode2022-Mentorship-and-Teamwork-MessyVer) — not kept after benchmarking
+- [3domDev/hashcode-2022-qualifiers](https://github.com/3domDev/hashcode-2022-qualifiers) — not kept after benchmarking
+- [Abhishek-1087/Mentorship-and-Teamwork---Hash-Code-2022-Qualification](https://github.com/Abhishek-1087/Mentorship-and-Teamwork---Hash-Code-2022-Qualification) — not kept after benchmarking
+- [abhishr06/HashCode_2022](https://github.com/abhishr06/HashCode_2022) — not kept after benchmarking
+- [abidwaqar/hashcode2022](https://github.com/abidwaqar/hashcode2022) — not kept after benchmarking
+- [achingachris/hashcode-2022-attempts](https://github.com/achingachris/hashcode-2022-attempts) — not kept after benchmarking
+- [Achyut-Krishna/HashCode2022-1](https://github.com/Achyut-Krishna/HashCode2022-1) — not kept after benchmarking
+- [AdRs21/HashCode22](https://github.com/AdRs21/HashCode22) — not kept after benchmarking
+- [ahmaide/HashCode2022](https://github.com/ahmaide/HashCode2022) — not kept after benchmarking
+- [albheim/hashcode2022](https://github.com/albheim/hashcode2022) — not kept after benchmarking
+- [AlexeyZhuravlev/hashcode-qual-2022](https://github.com/AlexeyZhuravlev/hashcode-qual-2022) — not kept after benchmarking
+- [AlexisBonamyGreau/Hashcode-2022](https://github.com/AlexisBonamyGreau/Hashcode-2022) — not kept after benchmarking
+- [AlfonsoSarroLarrey/HashCode2022](https://github.com/AlfonsoSarroLarrey/HashCode2022) — not kept after benchmarking
+- [alibimm/HashCode_2022](https://github.com/alibimm/HashCode_2022) — not kept after benchmarking
+- [alvarocrego/HashCode2022](https://github.com/alvarocrego/HashCode2022) — not kept after benchmarking
+- [Am0stafa/Google-hash-code-2022](https://github.com/Am0stafa/Google-hash-code-2022) — not kept after benchmarking
+- [amanroy2001/hashcode-2022](https://github.com/amanroy2001/hashcode-2022) — not kept after benchmarking
+- [amartinruiz23/hashcode-2022](https://github.com/amartinruiz23/hashcode-2022) — not kept after benchmarking
+- [ambolt314/hashcode-2022](https://github.com/ambolt314/hashcode-2022) — not kept after benchmarking
+- [ananthsathvick/hashcode2022](https://github.com/ananthsathvick/hashcode2022) — not kept after benchmarking
+- [Andree37/HashCode-2022](https://github.com/Andree37/HashCode-2022) — not kept after benchmarking
+- [angelo-rendina-prima/hashcode2022](https://github.com/angelo-rendina-prima/hashcode2022) — not kept after benchmarking
+- [AngrySaltyFish24/Hashcode2022](https://github.com/AngrySaltyFish24/Hashcode2022) — not kept after benchmarking
+- [AnkilP/google-hashcode-2022](https://github.com/AnkilP/google-hashcode-2022) — not kept after benchmarking
+- [anshumalivfx/hashcode-2022](https://github.com/anshumalivfx/hashcode-2022) — not kept after benchmarking
+- [antroseco/hashcode-2022](https://github.com/antroseco/hashcode-2022) — not kept after benchmarking
+- [arberaga/hashcode2022](https://github.com/arberaga/hashcode2022) — not kept after benchmarking
+- [arnodeceuninck/hashcode2022](https://github.com/arnodeceuninck/hashcode2022) — not kept after benchmarking
+- [atharv-patil/HashCode2022](https://github.com/atharv-patil/HashCode2022) — not kept after benchmarking
+- [aurensanx/hashcode2022](https://github.com/aurensanx/hashcode2022) — not kept after benchmarking
+- [aydinsercan/GoogleHashCode2022](https://github.com/aydinsercan/GoogleHashCode2022) — not kept after benchmarking
+- [aymenkhs/Hash-code-2022-astrasterix](https://github.com/aymenkhs/Hash-code-2022-astrasterix) — not kept after benchmarking
+- [Azzedde/HashCode-2022](https://github.com/Azzedde/HashCode-2022) — not kept after benchmarking
+- [Babatunde13/hashcode-22](https://github.com/Babatunde13/hashcode-22) — not kept after benchmarking
+- [bacali95/google-hashcode-2022](https://github.com/bacali95/google-hashcode-2022) — not kept after benchmarking
+- [baptistelebail/google-hashcode-2022](https://github.com/baptistelebail/google-hashcode-2022) — not kept after benchmarking
+- [belmind/hashcode22](https://github.com/belmind/hashcode22) — not kept after benchmarking
+- [beobuild/hashcode_2022](https://github.com/beobuild/hashcode_2022) — not kept after benchmarking
+- [Bhdzhdz/google_hashcode_2022](https://github.com/Bhdzhdz/google_hashcode_2022) — not kept after benchmarking
+- [BlaisMathieu/Hashcode2022](https://github.com/BlaisMathieu/Hashcode2022) — not kept after benchmarking
+- [Blisteur/Google-Hashcode-2022](https://github.com/Blisteur/Google-Hashcode-2022) — not kept after benchmarking
+- [bouchouk/Mentorship-And-Teamwork-Optimization-C](https://github.com/bouchouk/Mentorship-And-Teamwork-Optimization-C) — not kept after benchmarking
+- [brkydnc/hashcode](https://github.com/brkydnc/hashcode) — not kept after benchmarking
+- [bshishov/HashCode2022](https://github.com/bshishov/HashCode2022) — not kept after benchmarking
+- [Byooks/Hashcode-2022](https://github.com/Byooks/Hashcode-2022) — not kept after benchmarking
+- [CaptainLuke/HashCode2022](https://github.com/CaptainLuke/HashCode2022) — not kept after benchmarking
+- [ch-pat/google-hashcode](https://github.com/ch-pat/google-hashcode) — not kept after benchmarking
+- [christianwiese/hashcode-2022](https://github.com/christianwiese/hashcode-2022) — not kept after benchmarking
+- [chrisxu333/Google-Hashcode-2022-Solution](https://github.com/chrisxu333/Google-Hashcode-2022-Solution) — not kept after benchmarking
+- [CipherCook/Hashcode-2022-0x138D5](https://github.com/CipherCook/Hashcode-2022-0x138D5) — not kept after benchmarking
+- [clementbegnaud/hashcode-2022-alambik](https://github.com/clementbegnaud/hashcode-2022-alambik) — not kept after benchmarking
+- [Cmathou/Hashcode-2022](https://github.com/Cmathou/Hashcode-2022) — not kept after benchmarking
+- [CorwinMangin/HashCode2022](https://github.com/CorwinMangin/HashCode2022) — not kept after benchmarking
+- [Cr4ftingMine/Google-Hashcode-2022](https://github.com/Cr4ftingMine/Google-Hashcode-2022) — not kept after benchmarking
+- [cristina-georgeta-radu/HASHCODE_2022](https://github.com/cristina-georgeta-radu/HASHCODE_2022) — not kept after benchmarking
+- [Cthulhus-Knights/hashcode_2022](https://github.com/Cthulhus-Knights/hashcode_2022) — not kept after benchmarking
+- [Cuijpie/hashcode2022](https://github.com/Cuijpie/hashcode2022) — not kept after benchmarking
+- [Curs3W4ll/Google-HashCode-2022](https://github.com/Curs3W4ll/Google-HashCode-2022) — not kept after benchmarking
+- [cyril-sabourault/hashcode](https://github.com/cyril-sabourault/hashcode) — not kept after benchmarking
+- [Dabsunter/hashcode2022](https://github.com/Dabsunter/hashcode2022) — not kept after benchmarking
+- [dalogax/hashcode2022](https://github.com/dalogax/hashcode2022) — not kept after benchmarking
+- [damiano00/GoogleHashCode](https://github.com/damiano00/GoogleHashCode) — not kept after benchmarking
+- [Damzwan/hashcode2022](https://github.com/Damzwan/hashcode2022) — not kept after benchmarking
+- [danielquinti/hashcode-2022](https://github.com/danielquinti/hashcode-2022) — not kept after benchmarking
+- [Dante-Masciotra/HashCode2022](https://github.com/Dante-Masciotra/HashCode2022) — not kept after benchmarking
+- [DarshalShetty/Hashcode2022](https://github.com/DarshalShetty/Hashcode2022) — not kept after benchmarking
+- [dasamantaraoaditya/googleCodeHash](https://github.com/dasamantaraoaditya/googleCodeHash) — not kept after benchmarking
+- [davimatyi/hashcode_2022](https://github.com/davimatyi/hashcode_2022) — not kept after benchmarking
+- [dilshankarunarathne/Answer_for-Mentorship_and_Teamwork](https://github.com/dilshankarunarathne/Answer_for-Mentorship_and_Teamwork) — not kept after benchmarking
+- [djefrey/hashcode-2021](https://github.com/djefrey/hashcode-2021) — not kept after benchmarking
+- [DjellalAbdou/hashcode](https://github.com/DjellalAbdou/hashcode) — not kept after benchmarking
+- [DorHugi/hashCode2022](https://github.com/DorHugi/hashCode2022) — not kept after benchmarking
+- [Dovgalyuk/hashcode2022](https://github.com/Dovgalyuk/hashcode2022) — not kept after benchmarking
+- [drlc/Hashcode2022](https://github.com/drlc/Hashcode2022) — not kept after benchmarking
+- [dsilvahansen/google-hashcode-2022](https://github.com/dsilvahansen/google-hashcode-2022) — not kept after benchmarking
+- [dzjkb/hashcode2022](https://github.com/dzjkb/hashcode2022) — not kept after benchmarking
+- [Elijahdanie/Google-Hash-code-Qualification-round-2022](https://github.com/Elijahdanie/Google-Hash-code-Qualification-round-2022) — not kept after benchmarking
+- [elvirmisini/Mentorship_Teamwork_ILS](https://github.com/elvirmisini/Mentorship_Teamwork_ILS) — not kept after benchmarking
+- [englhardt/hashcode2022](https://github.com/englhardt/hashcode2022) — not kept after benchmarking
+- [Epado/hashCode2022](https://github.com/Epado/hashCode2022) — not kept after benchmarking
+- [fabian57fabian/hashcode-2022-gdgfi](https://github.com/fabian57fabian/hashcode-2022-gdgfi) — not kept after benchmarking
+- [fatimafatimaprogrammer/HashCode-Maximize_Project_Assignments-](https://github.com/fatimafatimaprogrammer/HashCode-Maximize_Project_Assignments-) — not kept after benchmarking
+- [floriandejonckheere/hashcode](https://github.com/floriandejonckheere/hashcode) — not kept after benchmarking
+- [florin141/hashcode-2022](https://github.com/florin141/hashcode-2022) — not kept after benchmarking
+- [fpallaro/HashCode2022](https://github.com/fpallaro/HashCode2022) — not kept after benchmarking
+- [FreekDS/Google-hashcode2022](https://github.com/FreekDS/Google-hashcode2022) — not kept after benchmarking
+- [g-bl/HashCode22](https://github.com/g-bl/HashCode22) — not kept after benchmarking
+- [gamaticow/HashCode2022](https://github.com/gamaticow/HashCode2022) — not kept after benchmarking
+- [ginuxone/Google-Hashcode2022](https://github.com/ginuxone/Google-Hashcode2022) — not kept after benchmarking
+- [giorgos1998/team-assignment-optimizer](https://github.com/giorgos1998/team-assignment-optimizer) — not kept after benchmarking
+- [gleb-kov/hashcode2022](https://github.com/gleb-kov/hashcode2022) — not kept after benchmarking
+- [gnitsua/hashcode2022](https://github.com/gnitsua/hashcode2022) — not kept after benchmarking
+- [GO3LIN/hash2022](https://github.com/GO3LIN/hash2022) — not kept after benchmarking
+- [GoogleHashcode2022-JSBad/HashCode2022](https://github.com/GoogleHashcode2022-JSBad/HashCode2022) — not kept after benchmarking
+- [Gophing-Around/qualification-round-2022](https://github.com/Gophing-Around/qualification-round-2022) — not kept after benchmarking
+- [grandmasteri/Google-Hashcode-2022](https://github.com/grandmasteri/Google-Hashcode-2022) — not kept after benchmarking
+- [GVS2001/TPM_Teamwork-with-Mentoring-Problem](https://github.com/GVS2001/TPM_Teamwork-with-Mentoring-Problem) — not kept after benchmarking
+- [HakimTem/GoogleHashcode2022](https://github.com/HakimTem/GoogleHashcode2022) — not kept after benchmarking
+- [HappyKid117/hashcode-2022](https://github.com/HappyKid117/hashcode-2022) — not kept after benchmarking
+- [harshit-paneri/HashCode-2022](https://github.com/harshit-paneri/HashCode-2022) — not kept after benchmarking
+- [HarveyBrezinaConniffe/HashCode2022](https://github.com/HarveyBrezinaConniffe/HashCode2022) — not kept after benchmarking
+- [HashCode-ICL-2022/qualification_round_2022](https://github.com/HashCode-ICL-2022/qualification_round_2022) — not kept after benchmarking
+- [HasinduLanka/hashcode-2022](https://github.com/HasinduLanka/hashcode-2022) — not kept after benchmarking
+- [hcn1z1/hashcode](https://github.com/hcn1z1/hashcode) — not kept after benchmarking
+- [hexmod/hash-code-2022](https://github.com/hexmod/hash-code-2022) — not kept after benchmarking
+- [hsnthn/hashcode-2022](https://github.com/hsnthn/hashcode-2022) — not kept after benchmarking
+- [HuzaifaIrfan-DSA/hashcode-2022-qualification-round](https://github.com/HuzaifaIrfan-DSA/hashcode-2022-qualification-round) — not kept after benchmarking
+- [iak0/hashcode2022](https://github.com/iak0/hashcode2022) — not kept after benchmarking
+- [iamayushanand/hashcode2022](https://github.com/iamayushanand/hashcode2022) — not kept after benchmarking
+- [idow09/hashcode2022](https://github.com/idow09/hashcode2022) — not kept after benchmarking
+- [IgorSchittekat/GoogleHashcode2022](https://github.com/IgorSchittekat/GoogleHashcode2022) — not kept after benchmarking
+- [iheb-haddad/HashCode-2022](https://github.com/iheb-haddad/HashCode-2022) — not kept after benchmarking
+- [ImadABID/HashCode2022](https://github.com/ImadABID/HashCode2022) — not kept after benchmarking
+- [indjev99/Optimizational-Problems-Solutions](https://github.com/indjev99/Optimizational-Problems-Solutions) — not kept after benchmarking
+- [inkeko/HashCode2022](https://github.com/inkeko/HashCode2022) — not kept after benchmarking
+- [isaaclo97/HashCode2022](https://github.com/isaaclo97/HashCode2022) — not kept after benchmarking
+- [IumoInfinium/hashcode2022](https://github.com/IumoInfinium/hashcode2022) — not kept after benchmarking
+- [jaumes5/hashcode2022](https://github.com/jaumes5/hashcode2022) — not kept after benchmarking
+- [Javariati/Hashcode2k22](https://github.com/Javariati/Hashcode2k22) — not kept after benchmarking
+- [javgat/hashcode2022](https://github.com/javgat/hashcode2022) — not kept after benchmarking
+- [Javidjms/hashcode2022](https://github.com/Javidjms/hashcode2022) — not kept after benchmarking
+- [jcolladosp/hash-code-2022](https://github.com/jcolladosp/hash-code-2022) — not kept after benchmarking
+- [Jdawson03/GoogleHashCode2022](https://github.com/Jdawson03/GoogleHashCode2022) — not kept after benchmarking
+- [JDOsborne1/hashcode2022](https://github.com/JDOsborne1/hashcode2022) — not kept after benchmarking
+- [jjustin/hashcode2022](https://github.com/jjustin/hashcode2022) — not kept after benchmarking
+- [joffrey-bion/hashcode-2022-qualif](https://github.com/joffrey-bion/hashcode-2022-qualif) — not kept after benchmarking
+- [juansalmeronmoya/hashcode2022](https://github.com/juansalmeronmoya/hashcode2022) — not kept after benchmarking
+- [justsolomon/hashcode-2022](https://github.com/justsolomon/hashcode-2022) — not kept after benchmarking
+- [Kacper-Lis/Google-HashCodes](https://github.com/Kacper-Lis/Google-HashCodes) — not kept after benchmarking
+- [kanko-ghosh/hashcode2022](https://github.com/kanko-ghosh/hashcode2022) — not kept after benchmarking
+- [katie-hughes/hashcode2022](https://github.com/katie-hughes/hashcode2022) — not kept after benchmarking
+- [kayacanv/Google-Hash-Code-Qualification-Round-Codes](https://github.com/kayacanv/Google-Hash-Code-Qualification-Round-Codes) — not kept after benchmarking
+- [khalilghouddan/Google-Hashcode-2022-Mentorship-and-Teamwork](https://github.com/khalilghouddan/Google-Hashcode-2022-Mentorship-and-Teamwork) — not kept after benchmarking
+- [kindermoumoute/hashcode2022](https://github.com/kindermoumoute/hashcode2022) — not kept after benchmarking
+- [kirankuyate2157/hashcode2022](https://github.com/kirankuyate2157/hashcode2022) — not kept after benchmarking
+- [kisel-dv/hashcode2022](https://github.com/kisel-dv/hashcode2022) — not kept after benchmarking
+- [Kitarsh/hashcode2022](https://github.com/Kitarsh/hashcode2022) — not kept after benchmarking
+- [Knackie/hashcode-2022](https://github.com/Knackie/hashcode-2022) — not kept after benchmarking
+- [kobr4/g_hashcodes](https://github.com/kobr4/g_hashcodes) — not kept after benchmarking
+- [KristofHolecz/hash-code-2022-mentorship-and-teamwork-insights-reporter](https://github.com/KristofHolecz/hash-code-2022-mentorship-and-teamwork-insights-reporter) — not kept after benchmarking
+- [krmbzds/hashcode-2022](https://github.com/krmbzds/hashcode-2022) — not kept after benchmarking
+- [krunalmk/GoogleHashCode](https://github.com/krunalmk/GoogleHashCode) — not kept after benchmarking
+- [laurerunser/hashcode2022](https://github.com/laurerunser/hashcode2022) — not kept after benchmarking
+- [lewisc64/Hashcode2022](https://github.com/lewisc64/Hashcode2022) — not kept after benchmarking
+- [lynparbone/Hashcode_2022](https://github.com/lynparbone/Hashcode_2022) — not kept after benchmarking
+- [m-baj/mentorship-and-teamwork](https://github.com/m-baj/mentorship-and-teamwork) — not kept after benchmarking
+- [M3A-Team/hash-code-2022](https://github.com/M3A-Team/hash-code-2022) — not kept after benchmarking
+- [mahmoudjobeel1/Google-HashCode-2022-Solutions](https://github.com/mahmoudjobeel1/Google-HashCode-2022-Solutions) — not kept after benchmarking
+- [Manhalmaath/Hashcode2022](https://github.com/Manhalmaath/Hashcode2022) — not kept after benchmarking
+- [marc1404/google-hashcode-2022](https://github.com/marc1404/google-hashcode-2022) — not kept after benchmarking
+- [marcoboari/hashcode-marco-2022](https://github.com/marcoboari/hashcode-marco-2022) — not kept after benchmarking
+- [marianocrosetti/icpc-hashcode2022](https://github.com/marianocrosetti/icpc-hashcode2022) — not kept after benchmarking
+- [masterchief164/hashcode2022](https://github.com/masterchief164/hashcode2022) — not kept after benchmarking
+- [MaximeFre/HashCode2022](https://github.com/MaximeFre/HashCode2022) — not kept after benchmarking
+- [mayhim182/Hashcode-2022-my-solution-A-F](https://github.com/mayhim182/Hashcode-2022-my-solution-A-F) — not kept after benchmarking
+- [mcieno/HashCode](https://github.com/mcieno/HashCode) — not kept after benchmarking
+- [mhmd-azeez/google-hashcode-2022](https://github.com/mhmd-azeez/google-hashcode-2022) — not kept after benchmarking
+- [MIA-Deltat1995/HashCode-2022](https://github.com/MIA-Deltat1995/HashCode-2022) — not kept after benchmarking
+- [micaelafonso/hashcode2022](https://github.com/micaelafonso/hashcode2022) — not kept after benchmarking
+- [Mifour/hashcode_2022](https://github.com/Mifour/hashcode_2022) — not kept after benchmarking
+- [MihailoGrbic/Google-HashCode-2022](https://github.com/MihailoGrbic/Google-HashCode-2022) — not kept after benchmarking
+- [miksax/hashcode_2022_qualification](https://github.com/miksax/hashcode_2022_qualification) — not kept after benchmarking
+- [Mirran64/Hashcode-2022](https://github.com/Mirran64/Hashcode-2022) — not kept after benchmarking
+- [mkromkamp/google-hash-code-2022](https://github.com/mkromkamp/google-hash-code-2022) — not kept after benchmarking
+- [mmarouen/hascode](https://github.com/mmarouen/hascode) — not kept after benchmarking
+- [MrTooOldDriver/Hashcode-2022](https://github.com/MrTooOldDriver/Hashcode-2022) — not kept after benchmarking
+- [Mstiekema/TechKechs](https://github.com/Mstiekema/TechKechs) — not kept after benchmarking
+- [Mu-selim/Google-Hashcode-2022](https://github.com/Mu-selim/Google-Hashcode-2022) — not kept after benchmarking
+- [muety/hashcode-2022](https://github.com/muety/hashcode-2022) — not kept after benchmarking
+- [MuhammadSaadSiddique/HashCode2022](https://github.com/MuhammadSaadSiddique/HashCode2022) — not kept after benchmarking
+- [MuhammedHasan/hashcode-2022](https://github.com/MuhammedHasan/hashcode-2022) — not kept after benchmarking
+- [mullerpeter/hashcode2022](https://github.com/mullerpeter/hashcode2022) — not kept after benchmarking
+- [n-gutierrez/HashCode2022](https://github.com/n-gutierrez/HashCode2022) — not kept after benchmarking
+- [n-sc/hashcode2022](https://github.com/n-sc/hashcode2022) — not kept after benchmarking
+- [Nanored4498/HashCode2022](https://github.com/Nanored4498/HashCode2022) — not kept after benchmarking
+- [navasmdc/GoogleHashCode-22](https://github.com/navasmdc/GoogleHashCode-22) — not kept after benchmarking
+- [nderousseaux/hashcode-2022-qualification](https://github.com/nderousseaux/hashcode-2022-qualification) — not kept after benchmarking
+- [Nicolaus93/hashcode_2022](https://github.com/Nicolaus93/hashcode_2022) — not kept after benchmarking
+- [nihal5617/google-hashcode2022](https://github.com/nihal5617/google-hashcode2022) — not kept after benchmarking
+- [NikosGour/HashCode2022](https://github.com/NikosGour/HashCode2022) — not kept after benchmarking
+- [Nipun-Katariya/hashcode-2022-attempt](https://github.com/Nipun-Katariya/hashcode-2022-attempt) — not kept after benchmarking
+- [noharms/hashcode2022](https://github.com/noharms/hashcode2022) — not kept after benchmarking
+- [Noobgam/google-hashcode-2018-qualifier](https://github.com/Noobgam/google-hashcode-2018-qualifier) — not kept after benchmarking
+- [nvog1/hash_code_2022](https://github.com/nvog1/hash_code_2022) — not kept after benchmarking
+- [nzacha/HashCode](https://github.com/nzacha/HashCode) — not kept after benchmarking
+- [ogtayhuseynov0/hashcode2022](https://github.com/ogtayhuseynov0/hashcode2022) — not kept after benchmarking
+- [onshimiye/hashcode-2022](https://github.com/onshimiye/hashcode-2022) — not kept after benchmarking
+- [ootisg/HashCode2022Solution](https://github.com/ootisg/HashCode2022Solution) — not kept after benchmarking
+- [ootks/hashcode2022](https://github.com/ootks/hashcode2022) — not kept after benchmarking
+- [opiechow/hashcode2022](https://github.com/opiechow/hashcode2022) — not kept after benchmarking
+- [orsa-scholis/hashcode-2022](https://github.com/orsa-scholis/hashcode-2022) — not kept after benchmarking
+- [otikev/hashcode2022](https://github.com/otikev/hashcode2022) — not kept after benchmarking
+- [parvg555/Hashcode-2022](https://github.com/parvg555/Hashcode-2022) — not kept after benchmarking
+- [pblkt/hashcode2022](https://github.com/pblkt/hashcode2022) — not kept after benchmarking
+- [peirisabhi/hashcode_2022](https://github.com/peirisabhi/hashcode_2022) — not kept after benchmarking
+- [PelaezLink/HashCode2022](https://github.com/PelaezLink/HashCode2022) — not kept after benchmarking
+- [philipperbd/hashcode2022labs](https://github.com/philipperbd/hashcode2022labs) — not kept after benchmarking
+- [Phylu/hashcode2022](https://github.com/Phylu/hashcode2022) — not kept after benchmarking
+- [PicoJr/google-hashcode-score-2022](https://github.com/PicoJr/google-hashcode-score-2022) — not kept after benchmarking
+- [pizzahunter2000/Hashcode2022](https://github.com/pizzahunter2000/Hashcode2022) — not kept after benchmarking
+- [pradeeprajm01/GoogleHashcode-2022-Solution](https://github.com/pradeeprajm01/GoogleHashcode-2022-Solution) — not kept after benchmarking
+- [prague-pandas/hashcode-2022-qualification](https://github.com/prague-pandas/hashcode-2022-qualification) — not kept after benchmarking
+- [programmistik/HashCode2022](https://github.com/programmistik/HashCode2022) — not kept after benchmarking
+- [quangminhdinh/HashCodeQualification2022](https://github.com/quangminhdinh/HashCodeQualification2022) — not kept after benchmarking
+- [RideSVEL/hashCode2022](https://github.com/RideSVEL/hashCode2022) — not kept after benchmarking
+- [RobbeDP/hashcode-2022](https://github.com/RobbeDP/hashcode-2022) — not kept after benchmarking
+- [rohanailoni/HashCode-2022](https://github.com/rohanailoni/HashCode-2022) — not kept after benchmarking
+- [rotolonico/Hashcode2022](https://github.com/rotolonico/Hashcode2022) — not kept after benchmarking
+- [Ruchit-rt/hashcode](https://github.com/Ruchit-rt/hashcode) — not kept after benchmarking
+- [Ryan0v0/HashCode2022](https://github.com/Ryan0v0/HashCode2022) — not kept after benchmarking
+- [SaffatHasan/hashcode-2022](https://github.com/SaffatHasan/hashcode-2022) — not kept after benchmarking
+- [sagnik1511/hashcode_solutions](https://github.com/sagnik1511/hashcode_solutions) — not kept after benchmarking
+- [SainteCroquette/hashcode2022](https://github.com/SainteCroquette/hashcode2022) — not kept after benchmarking
+- [samihoucheimi/Google-HashCode2022](https://github.com/samihoucheimi/Google-HashCode2022) — not kept after benchmarking
+- [samuelebortolotti/google-hashcode-2022](https://github.com/samuelebortolotti/google-hashcode-2022) — not kept after benchmarking
+- [SanchitaMishra170676/Hashcode2022](https://github.com/SanchitaMishra170676/Hashcode2022) — not kept after benchmarking
+- [SaNDy4ortyFivE/Hashcode_2022_attempt](https://github.com/SaNDy4ortyFivE/Hashcode_2022_attempt) — not kept after benchmarking
+- [sbrodehl/hashcode2022](https://github.com/sbrodehl/hashcode2022) — not kept after benchmarking
+- [schweikart/hashcode-2022-qualification](https://github.com/schweikart/hashcode-2022-qualification) — not kept after benchmarking
+- [sebastienD/HashCode2022](https://github.com/sebastienD/HashCode2022) — not kept after benchmarking
+- [ShahilPatel-IITDh/HashCode2022](https://github.com/ShahilPatel-IITDh/HashCode2022) — not kept after benchmarking
+- [shefketbylykbashi/mentorship-teamwork-dataset](https://github.com/shefketbylykbashi/mentorship-teamwork-dataset) — not kept after benchmarking
+- [shemetz/Google_Hashcode_2022](https://github.com/shemetz/Google_Hashcode_2022) — not kept after benchmarking
+- [ShifaKhan33/Team-Manager](https://github.com/ShifaKhan33/Team-Manager) — not kept after benchmarking
+- [shrikant2001/Google-Hashcode-2022](https://github.com/shrikant2001/Google-Hashcode-2022) — not kept after benchmarking
+- [Shrirang97/HashCode2022](https://github.com/Shrirang97/HashCode2022) — not kept after benchmarking
+- [simbarras/hashcode22-EVREST](https://github.com/simbarras/hashcode22-EVREST) — not kept after benchmarking
+- [slybach/GHC22Qualification](https://github.com/slybach/GHC22Qualification) — not kept after benchmarking
+- [SmashKs/HashCode2022Qualification](https://github.com/SmashKs/HashCode2022Qualification) — not kept after benchmarking
+- [spes2357/2021-hashcode-practice](https://github.com/spes2357/2021-hashcode-practice) — not kept after benchmarking
+- [srikanth-iyengar/HashCoder2022](https://github.com/srikanth-iyengar/HashCoder2022) — not kept after benchmarking
+- [StefPler/hashcode_2022](https://github.com/StefPler/hashcode_2022) — not kept after benchmarking
+- [strdr4605/hashcode-2022](https://github.com/strdr4605/hashcode-2022) — not kept after benchmarking
+- [StripedBanana/google-hashcode-2022](https://github.com/StripedBanana/google-hashcode-2022) — not kept after benchmarking
+- [Superbasil3/google-hashcode-2021](https://github.com/Superbasil3/google-hashcode-2021) — not kept after benchmarking
+- [svenfinke/HashCode2022](https://github.com/svenfinke/HashCode2022) — not kept after benchmarking
+- [tallosim/hashcode-2022](https://github.com/tallosim/hashcode-2022) — not kept after benchmarking
+- [The-Crystal-Devs/Hashcode-2021](https://github.com/The-Crystal-Devs/Hashcode-2021) — not kept after benchmarking
+- [theamankumarsingh/hashcode-2022](https://github.com/theamankumarsingh/hashcode-2022) — not kept after benchmarking
+- [TheGuyWithoutH/HashCode2022](https://github.com/TheGuyWithoutH/HashCode2022) — not kept after benchmarking
+- [tibovanheule/hashcode_22](https://github.com/tibovanheule/hashcode_22) — not kept after benchmarking
+- [tokudai-vs/Hashcode-2022](https://github.com/tokudai-vs/Hashcode-2022) — not kept after benchmarking
+- [Tom-stack3/hashCode2022](https://github.com/Tom-stack3/hashCode2022) — not kept after benchmarking
+- [Traderain/HashCode2022](https://github.com/Traderain/HashCode2022) — not kept after benchmarking
+- [tweedegolf/hashcode2022](https://github.com/tweedegolf/hashcode2022) — not kept after benchmarking
+- [uek06/HashCode2022](https://github.com/uek06/HashCode2022) — not kept after benchmarking
+- [umang4846/Google-Hashcode-2022](https://github.com/umang4846/Google-Hashcode-2022) — not kept after benchmarking
+- [uran-lajci/mentorship-and-teamwork-validator](https://github.com/uran-lajci/mentorship-and-teamwork-validator) — not kept after benchmarking
+- [uran-lajci/mentorship-teamwork](https://github.com/uran-lajci/mentorship-teamwork)
 - [uran-lajci/MicroEvolve](https://github.com/uran-lajci/MicroEvolve)
-- [vancityAyush/HashCode2022](https://github.com/vancityAyush/HashCode2022)
-- [VehpuS/hashcode-2022-feb](https://github.com/VehpuS/hashcode-2022-feb)
-- [VigHub/HashCode-2022](https://github.com/VigHub/HashCode-2022)
-- [vikds/hashcode](https://github.com/vikds/hashcode)
-- [vixel-iiitd/Hashcode2022](https://github.com/vixel-iiitd/Hashcode2022)
-- [waltherjochen/google-hashcode-2022](https://github.com/waltherjochen/google-hashcode-2022)
-- [WillSkywalker/hashcode2022](https://github.com/WillSkywalker/hashcode2022)
-- [wonwick/Hash-Code-2022](https://github.com/wonwick/Hash-Code-2022)
-- [wuttem/hashcode2022](https://github.com/wuttem/hashcode2022)
-- [XavierDuthil/hashcode-2022](https://github.com/XavierDuthil/hashcode-2022)
-- [xoposhiy/hashcode2022](https://github.com/xoposhiy/hashcode2022)
-- [YAGNESSHETTY/Hashcode2022-ARRY](https://github.com/YAGNESSHETTY/Hashcode2022-ARRY)
-- [YahiaAshraf74/Mentorship-and-Teamwork-Hashcode-2022](https://github.com/YahiaAshraf74/Mentorship-and-Teamwork-Hashcode-2022)
-- [yaman-694/Hashcode2022](https://github.com/yaman-694/Hashcode2022)
-- [yasardeniz9/hashcode2022](https://github.com/yasardeniz9/hashcode2022)
-- [YusifAghalar/HashCode2022](https://github.com/YusifAghalar/HashCode2022)
-- [Zeethx/HashCode-2022](https://github.com/Zeethx/HashCode-2022)
+- [vancityAyush/HashCode2022](https://github.com/vancityAyush/HashCode2022) — not kept after benchmarking
+- [VehpuS/hashcode-2022-feb](https://github.com/VehpuS/hashcode-2022-feb) — not kept after benchmarking
+- [VigHub/HashCode-2022](https://github.com/VigHub/HashCode-2022) — not kept after benchmarking
+- [vikds/hashcode](https://github.com/vikds/hashcode) — not kept after benchmarking
+- [vixel-iiitd/Hashcode2022](https://github.com/vixel-iiitd/Hashcode2022) — not kept after benchmarking
+- [waltherjochen/google-hashcode-2022](https://github.com/waltherjochen/google-hashcode-2022) — not kept after benchmarking
+- [WillSkywalker/hashcode2022](https://github.com/WillSkywalker/hashcode2022) — not kept after benchmarking
+- [wonwick/Hash-Code-2022](https://github.com/wonwick/Hash-Code-2022) — not kept after benchmarking
+- [wuttem/hashcode2022](https://github.com/wuttem/hashcode2022) — not kept after benchmarking
+- [XavierDuthil/hashcode-2022](https://github.com/XavierDuthil/hashcode-2022) — not kept after benchmarking
+- [xoposhiy/hashcode2022](https://github.com/xoposhiy/hashcode2022) — not kept after benchmarking
+- [YAGNESSHETTY/Hashcode2022-ARRY](https://github.com/YAGNESSHETTY/Hashcode2022-ARRY) — not kept after benchmarking
+- [YahiaAshraf74/Mentorship-and-Teamwork-Hashcode-2022](https://github.com/YahiaAshraf74/Mentorship-and-Teamwork-Hashcode-2022) — not kept after benchmarking
+- [yaman-694/Hashcode2022](https://github.com/yaman-694/Hashcode2022) — not kept after benchmarking
+- [yasardeniz9/hashcode2022](https://github.com/yasardeniz9/hashcode2022) — not kept after benchmarking
+- [YusifAghalar/HashCode2022](https://github.com/YusifAghalar/HashCode2022) — not kept after benchmarking
+- [Zeethx/HashCode-2022](https://github.com/Zeethx/HashCode-2022) — not kept after benchmarking
 
 ### Found but not collected (3)
 

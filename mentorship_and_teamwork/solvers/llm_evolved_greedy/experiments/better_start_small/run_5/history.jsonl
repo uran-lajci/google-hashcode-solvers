@@ -1,0 +1,202 @@
+{"iter": 0, "event": "baseline", "score": 1032469}
+{"iter": 1, "event": "usage", "input": 31, "output": 2332, "cache_read": 0, "cache_write": 5315}
+{"iter": 1, "event": "accept", "score": 1032661, "best": 1032661, "blocks": [["\t\t\tfor(int test = 0; test < 50; ++test) {", "\t\t\tfor(int test = 0; test < 120; ++test) {"]]}
+{"iter": 2, "event": "usage", "input": 155, "output": 209, "cache_read": 5315, "cache_write": 0}
+{"iter": 2, "event": "reject", "score": 1032064, "best": 1032661, "blocks": [["\t\t\tfor(int test = 0; test < 120; ++test) {", "\t\t\tfor(int test = 0; test < 250; ++test) {"]]}
+{"iter": 3, "event": "usage", "input": 293, "output": 241, "cache_read": 5315, "cache_write": 0}
+{"iter": 3, "event": "reject", "score": 1008037, "best": 1032661, "blocks": [["\t\t\tfor(int test = 0; test < 120; ++test) {", "\t\t\tfor(int test = 0; test < 160; ++test) {"]]}
+{"iter": 4, "event": "usage", "input": 431, "output": 396, "cache_read": 5315, "cache_write": 0}
+{"iter": 4, "event": "reject", "score": 1032075, "best": 1032661, "blocks": [["\t\t\tfor(int test = 0; test < 120; ++test) {", "\t\t\tfor(int test = 0; test < 130; ++test) {"]]}
+{"iter": 5, "event": "usage", "input": 569, "output": 1059, "cache_read": 5315, "cache_write": 0}
+{"iter": 5, "event": "reject", "score": 1029761, "best": 1032661, "blocks": [["\t\tint bestP = -1, bestlvlup = -1, bestEnd = -1;", "\t\tint bestP = -1, bestlvlup = -1, bestEnd = -1, bestScoreGain = -1;"], ["\t\t\tif(lvlup > bestlvlup) {\n\n\n\t\t\t\tbestlvlup = lvlup;\n\t\t\t\tbestP = p;\n\t\t\t\tbestCS = move(cs2);\n\t\t\t\tbestEnd = beste;\n\t\t\t}", "\t\t\tint scoreGain = max(0, S[p] - max(0, beste-B[p]));\n\t\t\tif(lvlup > bestlvlup || (lvlup == bestlvlup && scoreGain > bestScoreGain)) {\n\n\n\t\t\t\tbestlvlup = lvlup;\n\t\t\t\tbestScoreGain = scoreGain;\n\t\t\t\tbestP = p;\n\t\t\t\tbestCS = move(cs2);\n\t\t\t\tbestEnd = beste;\n\t\t\t}"]]}
+{"iter": 6, "event": "usage", "input": 971, "output": 293, "cache_read": 5315, "cache_write": 0}
+{"iter": 6, "event": "accept", "score": 1032661, "best": 1032661, "blocks": [["\t\t\t\tif(oo > besto) {", "\t\t\t\tif(oo > besto || (oo == besto && mav+D[p] < beste)) {"]]}
+{"iter": 7, "event": "usage", "input": 1096, "output": 604, "cache_read": 5315, "cache_write": 0}
+{"iter": 7, "event": "accept", "score": 1032987, "best": 1032987, "blocks": [["\t\t\tif(lvlup > bestlvlup) {\n\n\n\t\t\t\tbestlvlup = lvlup;\n\t\t\t\tbestP = p;\n\t\t\t\tbestCS = move(cs2);\n\t\t\t\tbestEnd = beste;\n\t\t\t}", "\t\t\tif(lvlup > bestlvlup || (lvlup == bestlvlup && beste < bestEnd)) {\n\n\n\t\t\t\tbestlvlup = lvlup;\n\t\t\t\tbestP = p;\n\t\t\t\tbestCS = move(cs2);\n\t\t\t\tbestEnd = beste;\n\t\t\t}"]]}
+{"iter": 8, "event": "usage", "input": 1335, "output": 250, "cache_read": 5315, "cache_write": 0}
+{"iter": 8, "event": "reject", "score": 1009150, "best": 1032987, "blocks": [["\t\t\tfor(int test = 0; test < 120; ++test) {", "\t\t\tfor(int test = 0; test < 200; ++test) {"]]}
+{"iter": 9, "event": "usage", "input": 1473, "output": 397, "cache_read": 5315, "cache_write": 0}
+{"iter": 9, "event": "accept", "score": 1032987, "best": 1032987, "blocks": [["\t\t\tif(lvlup > bestlvlup || (lvlup == bestlvlup && beste < bestEnd)) {", "\t\t\tint scoreGain = max(0, S[p] - max(0, beste-B[p]));\n\t\t\tif(lvlup > bestlvlup || (lvlup == bestlvlup && beste < bestEnd) || (lvlup == bestlvlup && beste == bestEnd && scoreGain > bestScoreGain)) {\n\t\t\t\tbestScoreGain = scoreGain;"], ["\t\tint bestP = -1, bestlvlup = -1, bestEnd = -1;", "\t\tint bestP = -1, bestlvlup = -1, bestEnd = -1, bestScoreGain = -1;"]]}
+{"iter": 10, "event": "usage", "input": 1818, "output": 307, "cache_read": 5315, "cache_write": 0}
+{"iter": 10, "event": "reject", "score": 1032589, "best": 1032987, "blocks": [["\t\t\tfor(int test = 0; test < 120; ++test) {", "\t\t\tfor(int test = 0; test < 100; ++test) {"]]}
+{"iter": 11, "event": "usage", "input": 1956, "output": 226, "cache_read": 5315, "cache_write": 0}
+{"iter": 11, "event": "accept", "score": 1033268, "best": 1033268, "blocks": [["\t\t\tfor(int test = 0; test < 120; ++test) {", "\t\t\tfor(int test = 0; test < 115; ++test) {"]]}
+{"iter": 12, "event": "usage", "input": 2080, "output": 87, "cache_read": 5315, "cache_write": 0}
+{"iter": 12, "event": "reject", "score": 1032321, "best": 1033268, "blocks": [["\t\t\tfor(int test = 0; test < 115; ++test) {", "\t\t\tfor(int test = 0; test < 113; ++test) {"]]}
+{"iter": 13, "event": "usage", "input": 2218, "output": 548, "cache_read": 5315, "cache_write": 0}
+{"iter": 13, "event": "reject", "score": 1032782, "best": 1033268, "blocks": [["\t\t\tfor(int test = 0; test < 115; ++test) {", "\t\t\tfor(int test = 0; test < 117; ++test) {"]]}
+{"iter": 14, "event": "usage", "input": 2356, "output": 312, "cache_read": 5315, "cache_write": 0}
+{"iter": 14, "event": "reject", "score": 1032721, "best": 1033268, "blocks": [["\tmt19937 mt(42);", "\tmt19937 mt(12345);"]]}
+{"iter": 15, "event": "usage", "input": 2479, "output": 703, "cache_read": 5315, "cache_write": 0}
+{"iter": 15, "event": "accept", "score": 1033268, "best": 1033268, "blocks": [["\t\t\t\tfor(int i = 1; i < cs.size(); ++i) if(skill[cs[i]][req[p][i].first] > req[p][i].second)\n\t\t\t\t\tfor(int j = 0; j < i; ++j) if(skill[cs[j]][req[p][j].first] > req[p][j].second)\n\t\t\t\t\t\tif(skill[cs[i]][req[p][j].first] >= req[p][j].second-1 && skill[cs[j]][req[p][i].first] >= req[p][i].second-1) {\n\t\t\t\t\t\t\tswap(cs[i], cs[j]);\n\t\t\t\t\t\t\too += 2;\n\t\t\t\t\t\t}", "\t\t\t\tfor(int pass = 0; pass < 3; ++pass)\n\t\t\t\tfor(int i = 1; i < cs.size(); ++i) if(skill[cs[i]][req[p][i].first] > req[p][i].second)\n\t\t\t\t\tfor(int j = 0; j < i; ++j) if(skill[cs[j]][req[p][j].first] > req[p][j].second)\n\t\t\t\t\t\tif(skill[cs[i]][req[p][j].first] >= req[p][j].second-1 && skill[cs[j]][req[p][i].first] >= req[p][i].second-1) {\n\t\t\t\t\t\t\tswap(cs[i], cs[j]);\n\t\t\t\t\t\t\too += 2;\n\t\t\t\t\t\t}"]]}
+{"iter": 16, "event": "usage", "input": 2959, "output": 735, "cache_read": 5315, "cache_write": 0}
+{"iter": 16, "event": "reject", "score": 1009617, "best": 1033268, "blocks": [["\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), -skill[c][s], ts[c]); };", "\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), skill[c][s], ts[c]); };"]]}
+{"iter": 17, "event": "usage", "input": 3166, "output": 235, "cache_read": 5315, "cache_write": 0}
+{"iter": 17, "event": "reject", "score": 1009617, "best": 1033268, "blocks": [["\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), -skill[c][s], ts[c]); };", "\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), ts[c]-skill[c][s], ts[c]); };"]]}
+{"iter": 18, "event": "usage", "input": 3379, "output": 189, "cache_read": 5315, "cache_write": 0}
+{"iter": 18, "event": "reject", "score": 1032850, "best": 1033268, "blocks": [["\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), -skill[c][s], ts[c]); };", "\tconst auto ckey = [&](int c, int m, int s, int l) { return make_tuple(max(av[c], m), -skill[c][s], -ts[c]); };"]]}
+{"iter": 19, "event": "usage", "input": 3588, "output": 162, "cache_read": 5315, "cache_write": 0}
+{"iter": 19, "event": "reject", "score": 1032929, "best": 1033268, "blocks": [["\t\t\tfor(int test = 0; test < 115; ++test) {", "\t\t\tfor(int test = 0; test < 116; ++test) {"]]}
+{"iter": 20, "event": "usage", "input": 3726, "output": 265, "cache_read": 5315, "cache_write": 0}
+{"iter": 20, "event": "accept", "score": 1033268, "best": 1033268, "blocks": [["\t\t\t\tfor(int pass = 0; pass < 3; ++pass)", "\t\t\t\tfor(int pass = 0; pass < 5; ++pass)"]]}
+{"iter": 21, "event": "usage", "input": 3854, "output": 856, "cache_read": 5315, "cache_write": 0}
+{"iter": 21, "event": "reject", "score": 1033021, "best": 1033268, "blocks": [["\t\t\t\tif(oo > besto || (oo == besto && mav+D[p] < beste)) {", "\t\t\t\tint curlvl = 0;\n\t\t\t\tfor(int i = 0; i < (int)cs.size(); ++i) if(skill[cs[i]][req[p][i].first] <= req[p][i].second)\n\t\t\t\t\tcurlvl += 1 + skill[cs[i]][req[p][i].first];\n\t\t\t\tif(curlvl > besto || (curlvl == besto && mav+D[p] < beste)) {\n\t\t\t\t\too = curlvl;"]]}
+{"iter": 22, "event": "usage", "input": 4119, "output": 442, "cache_read": 5315, "cache_write": 0}
+{"iter": 22, "event": "reject", "score": 1006569, "best": 1033268, "blocks": [["\t\t\tint scoreGain = max(0, S[p] - max(0, beste-B[p]));\n\t\t\tif(lvlup > bestlvlup || (lvlup == bestlvlup && beste < bestEnd) || (lvlup == bestlvlup && beste == bestEnd && scoreGain > bestScoreGain)) {\n\t\t\t\tbestScoreGain = scoreGain;", "\t\t\tint scoreGain = max(0, S[p] - max(0, beste-B[p]));\n\t\t\tif(lvlup > bestlvlup || (lvlup == bestlvlup && scoreGain > bestScoreGain) || (lvlup == bestlvlup && scoreGain == bestScoreGain && beste < bestEnd)) {\n\t\t\t\tbestScoreGain = scoreGain;"]]}
+{"iter": 23, "event": "usage", "input": 4468, "output": 404, "cache_read": 5315, "cache_write": 0}
+{"iter": 23, "event": "accept", "score": 1033268, "best": 1033268, "blocks": [["\t\t\tint scoreGain = max(0, S[p] - max(0, beste-B[p]));\n\t\t\tif(lvlup > bestlvlup || (lvlup == bestlvlup && beste < bestEnd) || (lvlup == bestlvlup && beste == bestEnd && scoreGain > bestScoreGain)) {\n\t\t\t\tbestScoreGain = scoreGain;", "\t\t\tint scoreGain = max(0, S[p] - max(0, beste-B[p]));\n\t\t\tif(lvlup > bestlvlup || (lvlup == bestlvlup && beste < bestEnd) || (lvlup == bestlvlup && beste == bestEnd && D[p] < bestScoreGain)) {\n\t\t\t\tbestScoreGain = D[p];"]]}
+{"iter": 24, "event": "usage", "input": 4795, "output": 637, "cache_read": 5315, "cache_write": 0}
+{"iter": 24, "event": "reject", "score": 1033263, "best": 1033268, "blocks": [["\t\t\tfor(int test = 0; test < 115; ++test) {\n\n\t\t\t\tshuffle(ro.begin(), ro.end(), mt);", "\t\t\tfor(int test = 0; test < 115; ++test) {\n\n\t\t\t\tif(test == 0) sort(ro.begin(), ro.end(), [&](int a, int b){ return req[p][a].second > req[p][b].second; });\n\t\t\t\telse shuffle(ro.begin(), ro.end(), mt);"]]}
+{"iter": 25, "event": "usage", "input": 5033, "output": 194, "cache_read": 5315, "cache_write": 0}
+{"iter": 25, "event": "reject", "score": 1032473, "best": 1033268, "blocks": [["\t\t\tfor(int test = 0; test < 115; ++test) {", "\t\t\tfor(int test = 0; test < 114; ++test) {"]]}
+{"iter": 26, "event": "usage", "input": 5171, "output": 1642, "cache_read": 5315, "cache_write": 0}
+{"iter": 26, "event": "reject", "score": 1009464, "best": 1033268, "blocks": [["\t\t\tfor(int test = 0; test < 115; ++test) {", "\t\t\tfor(int test = 0; test < 110; ++test) {"]]}
+{"iter": 27, "event": "usage", "input": 5309, "output": 802, "cache_read": 5315, "cache_write": 0}
+{"iter": 27, "event": "reject", "score": 938806, "best": 1033268, "blocks": [["\t\t\tint lvlup = 0;\n\t\t\tfor(int i = 0; i < cs2.size(); ++i) if(skill[cs2[i]][req[p][i].first] <= req[p][i].second)\n\t\t\t\tlvlup += 1 + skill[cs2[i]][req[p][i].first];", "\t\t\tint lvlup = 0;\n\t\t\tfor(int i = 0; i < cs2.size(); ++i) if(skill[cs2[i]][req[p][i].first] <= req[p][i].second)\n\t\t\t\tlvlup += 2 + skill[cs2[i]][req[p][i].first];"]]}
+{"iter": 28, "event": "usage", "input": 5591, "output": 1697, "cache_read": 5315, "cache_write": 0}
+{"iter": 28, "event": "accept", "score": 1033268, "best": 1033268, "blocks": [["\t\t\tint scoreGain = max(0, S[p] - max(0, beste-B[p]));\n\t\t\tif(lvlup > bestlvlup || (lvlup == bestlvlup && beste < bestEnd) || (lvlup == bestlvlup && beste == bestEnd && D[p] < bestScoreGain)) {\n\t\t\t\tbestScoreGain = D[p];", "\t\t\tint scoreGain = max(0, S[p] - max(0, beste-B[p]));\n\t\t\tif(lvlup > bestlvlup || (lvlup == bestlvlup && beste < bestEnd) || (lvlup == bestlvlup && beste == bestEnd && B[p] < bestScoreGain)) {\n\t\t\t\tbestScoreGain = B[p];"]]}
+{"iter": 29, "event": "usage", "input": 5915, "output": 995, "cache_read": 5315, "cache_write": 0}
+{"iter": 29, "event": "accept", "score": 1033268, "best": 1033268, "blocks": [["\t\t\tint scoreGain = max(0, S[p] - max(0, beste-B[p]));\n\t\t\tif(lvlup > bestlvlup || (lvlup == bestlvlup && beste < bestEnd) || (lvlup == bestlvlup && beste == bestEnd && B[p] < bestScoreGain)) {\n\t\t\t\tbestScoreGain = B[p];", "\t\t\tint scoreGain = max(0, S[p] - max(0, beste-B[p]));\n\t\t\tif(lvlup > bestlvlup || (lvlup == bestlvlup && beste < bestEnd) || (lvlup == bestlvlup && beste == bestEnd && scoreGain > bestScoreGain)) {\n\t\t\t\tbestScoreGain = scoreGain;"]]}
+{"iter": 30, "event": "usage", "input": 6242, "output": 619, "cache_read": 5315, "cache_write": 0}
+{"iter": 30, "event": "accept", "score": 1033268, "best": 1033268, "blocks": [["\t\t\tint scoreGain = max(0, S[p] - max(0, beste-B[p]));\n\t\t\tif(lvlup > bestlvlup || (lvlup == bestlvlup && beste < bestEnd) || (lvlup == bestlvlup && beste == bestEnd && scoreGain > bestScoreGain)) {\n\t\t\t\tbestScoreGain = scoreGain;", "\t\t\tint scoreGain = max(0, S[p] - max(0, beste-B[p])) * 100000 + S[p];\n\t\t\tif(lvlup > bestlvlup || (lvlup == bestlvlup && beste < bestEnd) || (lvlup == bestlvlup && beste == bestEnd && scoreGain > bestScoreGain)) {\n\t\t\t\tbestScoreGain = scoreGain;"]]}
+{"iter": 31, "event": "usage", "input": 6582, "output": 1099, "cache_read": 5315, "cache_write": 0}
+{"iter": 31, "event": "reject", "score": 1032978, "best": 1033268, "blocks": [["\t\t\tfor(int test = 0; test < 115; ++test) {", "\t\t\tfor(int test = 0; test < 125; ++test) {"]]}
+{"iter": 32, "event": "usage", "input": 6720, "output": 399, "cache_read": 5315, "cache_write": 0}
+{"iter": 32, "event": "accept", "score": 1044172, "best": 1044172, "blocks": [["\t\t\tfor(int test = 0; test < 115; ++test) {", "\t\t\tfor(int test = 0; test < 118; ++test) {"]]}
+{"iter": 33, "event": "usage", "input": 6844, "output": 96, "cache_read": 5315, "cache_write": 0}
+{"iter": 33, "event": "reject", "score": 1033335, "best": 1044172, "blocks": [["\t\t\tfor(int test = 0; test < 118; ++test) {", "\t\t\tfor(int test = 0; test < 119; ++test) {"]]}
+{"iter": 34, "event": "usage", "input": 6982, "output": 163, "cache_read": 5315, "cache_write": 0}
+{"iter": 34, "event": "accept", "score": 1044731, "best": 1044731, "blocks": [["\tmt19937 mt(42);", "\tmt19937 mt(7);"]]}
+{"iter": 35, "event": "usage", "input": 7090, "output": 71, "cache_read": 5315, "cache_write": 0}
+{"iter": 35, "event": "reject", "score": 1033306, "best": 1044731, "blocks": [["\tmt19937 mt(7);", "\tmt19937 mt(3);"]]}
+{"iter": 36, "event": "usage", "input": 7212, "output": 78, "cache_read": 5315, "cache_write": 0}
+{"iter": 36, "event": "reject", "score": 1033306, "best": 1044731, "blocks": [["\tmt19937 mt(7);", "\tmt19937 mt(11);"]]}
+{"iter": 37, "event": "usage", "input": 7334, "output": 96, "cache_read": 5315, "cache_write": 0}
+{"iter": 37, "event": "reject", "score": 1032987, "best": 1044731, "blocks": [["\tmt19937 mt(7);", "\tmt19937 mt(77);"]]}
+{"iter": 38, "event": "usage", "input": 7456, "output": 110, "cache_read": 5315, "cache_write": 0}
+{"iter": 38, "event": "reject", "score": 1032979, "best": 1044731, "blocks": [["\tmt19937 mt(7);", "\tmt19937 mt(70);"]]}
+{"iter": 39, "event": "usage", "input": 7578, "output": 107, "cache_read": 5315, "cache_write": 0}
+{"iter": 39, "event": "reject", "score": 1033306, "best": 1044731, "blocks": [["\tmt19937 mt(7);", "\tmt19937 mt(700);"]]}
+{"iter": 40, "event": "usage", "input": 7700, "output": 193, "cache_read": 5315, "cache_write": 0}
+{"iter": 40, "event": "reject", "score": 1033281, "best": 1044731, "blocks": [["\t\t\tfor(int test = 0; test < 118; ++test) {", "\t\t\tfor(int test = 0; test < 117; ++test) {"]]}
+{"iter": 41, "event": "usage", "input": 7838, "output": 176, "cache_read": 5315, "cache_write": 0}
+{"iter": 41, "event": "reject", "score": 1044722, "best": 1044731, "blocks": [["\t\t\tfor(int test = 0; test < 118; ++test) {", "\t\t\tfor(int test = 0; test < 121; ++test) {"]]}
+{"iter": 42, "event": "usage", "input": 7976, "output": 252, "cache_read": 5315, "cache_write": 0}
+{"iter": 42, "event": "reject", "score": 1032979, "best": 1044731, "blocks": [["\t\t\tfor(int test = 0; test < 118; ++test) {", "\t\t\tfor(int test = 0; test < 122; ++test) {"]]}
+{"iter": 43, "event": "usage", "input": 8114, "output": 948, "cache_read": 5315, "cache_write": 0}
+{"iter": 43, "event": "reject", "score": 1033281, "best": 1044731, "blocks": [["\t\t\tfor(int test = 0; test < 118; ++test) {", "\t\t\tfor(int test = 0; test < 120; ++test) {"]]}
+{"iter": 44, "event": "usage", "input": 8252, "output": 728, "cache_read": 5315, "cache_write": 0}
+{"iter": 44, "event": "reject", "score": 1033263, "best": 1044731, "blocks": [["\t\t\tvector<int> ro(req[p].size());", "\t\t\tmt.seed(p*2654435761u + 7);\n\t\t\tvector<int> ro(req[p].size());"]]}
+{"iter": 45, "event": "usage", "input": 8401, "output": 843, "cache_read": 5315, "cache_write": 0}
+{"iter": 45, "event": "reject", "score": 1032987, "best": 1044731, "blocks": [["\tmt19937 mt(7);", "\tmt19937 mt(17);"]]}
+{"iter": 46, "event": "usage", "input": 8523, "output": 324, "cache_read": 5315, "cache_write": 0}
+{"iter": 46, "event": "reject", "score": 1044173, "best": 1044731, "blocks": [["\tmt19937 mt(7);", "\tmt19937 mt(123);"]]}
+{"iter": 47, "event": "usage", "input": 8645, "output": 243, "cache_read": 5315, "cache_write": 0}
+{"iter": 47, "event": "accept", "score": 1044731, "best": 1044731, "blocks": [["\t\t\t\tfor(int pass = 0; pass < 5; ++pass)", "\t\t\t\tfor(int pass = 0; pass < 8; ++pass)"]]}
+{"iter": 48, "event": "usage", "input": 8773, "output": 1554, "cache_read": 5315, "cache_write": 0}
+{"iter": 48, "event": "reject", "score": 1032211, "best": 1044731, "blocks": [["\t\t\t\tif(oo > besto || (oo == besto && mav+D[p] < beste)) {", "\t\t\t\tint ts_sum = 0;\n\t\t\t\tfor(int c : cs) ts_sum += ts[c];\n\t\t\t\tif(oo > besto || (oo == besto && mav+D[p] < beste) || (oo == besto && mav+D[p] == beste && ts_sum < besto_ts)) {\n\t\t\t\t\tbesto_ts = ts_sum;"], ["\t\t\tint beste = -1, besto = -1;", "\t\t\tint beste = -1, besto = -1, besto_ts = 1<<30;"]]}
+{"iter": 49, "event": "usage", "input": 9080, "output": 121, "cache_read": 5315, "cache_write": 0}
+{"iter": 49, "event": "accept", "score": 1044731, "best": 1044731, "blocks": [["\t\t\t\tfor(int pass = 0; pass < 8; ++pass)", "\t\t\t\tfor(int pass = 0; pass < 12; ++pass)"]]}
+{"iter": 50, "event": "usage", "input": 9208, "output": 260, "cache_read": 5315, "cache_write": 0}
+{"iter": 50, "event": "reject", "score": 1033082, "best": 1044731, "blocks": [["\t\t\tfor(int test = 0; test < 118; ++test) {", "\t\t\tfor(int test = 0; test < 124; ++test) {"]]}
+{"iter": 51, "event": "usage", "input": 9346, "output": 732, "cache_read": 5315, "cache_write": 0}
+{"iter": 51, "event": "accept", "score": 1044731, "best": 1044731, "blocks": [["\t\t\t\tfor(int pass = 0; pass < 12; ++pass)", "\t\t\t\tfor(int pass = 0; pass < 20; ++pass)"]]}
+{"iter": 52, "event": "usage", "input": 9474, "output": 770, "cache_read": 5315, "cache_write": 0}
+{"iter": 52, "event": "reject", "score": 1033352, "best": 1044731, "blocks": [["\tmt19937 mt(7);", "\tmt19937 mt(2);"]]}
+{"iter": 53, "event": "usage", "input": 9596, "output": 259, "cache_read": 5315, "cache_write": 0}
+{"iter": 53, "event": "reject", "score": 1009780, "best": 1044731, "blocks": [["\tmt19937 mt(7);", "\tmt19937 mt(5);"]]}
+{"iter": 54, "event": "usage", "input": 9718, "output": 939, "cache_read": 5315, "cache_write": 0}
+{"iter": 54, "event": "reject", "score": 1033263, "best": 1044731, "blocks": [["\t\t\tfor(int test = 0; test < 118; ++test) {\n\n\t\t\t\tshuffle(ro.begin(), ro.end(), mt);", "\t\t\tfor(int test = 0; test < 118; ++test) {\n\n\t\t\t\tif(test == 0) sort(ro.begin(), ro.end(), [&](int a, int b){ return req[p][a].second > req[p][b].second; });\n\t\t\t\telse if(test == 1) sort(ro.begin(), ro.end(), [&](int a, int b){ return req[p][a].second < req[p][b].second; });\n\t\t\t\telse shuffle(ro.begin(), ro.end(), mt);"]]}
+{"iter": 55, "event": "usage", "input": 10010, "output": 2166, "cache_read": 5315, "cache_write": 0}
+{"iter": 55, "event": "reject", "score": 1033263, "best": 1044731, "blocks": [["\tmt19937 mt(7);\n\tconst auto t0", "\tmt19937 mt(7);\n\tmt.discard(1);\n\tconst auto t0"]]}
+{"iter": 56, "event": "usage", "input": 10156, "output": 396, "cache_read": 5315, "cache_write": 0}
+{"iter": 56, "event": "reject", "score": 1033046, "best": 1044731, "blocks": [["\tmt19937 mt(7);", "\tmt19937 mt(71);"]]}
+{"iter": 57, "event": "usage", "input": 10278, "output": 1836, "cache_read": 5315, "cache_write": 0}
+{"iter": 57, "event": "accept", "score": 1044731, "best": 1044731, "blocks": [["\t\t\tint lvlup = 0;\n\t\t\tfor(int i = 0; i < cs2.size(); ++i) if(skill[cs2[i]][req[p][i].first] <= req[p][i].second)\n\t\t\t\tlvlup += 1 + skill[cs2[i]][req[p][i].first];", "\t\t\tint lvlup = 0;\n\t\t\tfor(int i = 0; i < cs2.size(); ++i) if(skill[cs2[i]][req[p][i].first] <= req[p][i].second)\n\t\t\t\tlvlup += 2 + 2*skill[cs2[i]][req[p][i].first];"]]}
+{"iter": 58, "event": "usage", "input": 10551, "output": 260, "cache_read": 5315, "cache_write": 0}
+{"iter": 58, "event": "reject", "score": 1007947, "best": 1044731, "blocks": [["\t\t\tint lvlup = 0;\n\t\t\tfor(int i = 0; i < cs2.size(); ++i) if(skill[cs2[i]][req[p][i].first] <= req[p][i].second)\n\t\t\t\tlvlup += 2 + 2*skill[cs2[i]][req[p][i].first];", "\t\t\tint lvlup = 0;\n\t\t\tfor(int i = 0; i < cs2.size(); ++i) if(skill[cs2[i]][req[p][i].first] <= req[p][i].second)\n\t\t\t\tlvlup += 3 + 2*skill[cs2[i]][req[p][i].first];"]]}
+{"iter": 59, "event": "usage", "input": 10841, "output": 329, "cache_read": 5315, "cache_write": 0}
+{"iter": 59, "event": "reject", "score": 1032151, "best": 1044731, "blocks": [["\t\t\tint lvlup = 0;\n\t\t\tfor(int i = 0; i < cs2.size(); ++i) if(skill[cs2[i]][req[p][i].first] <= req[p][i].second)\n\t\t\t\tlvlup += 2 + 2*skill[cs2[i]][req[p][i].first];", "\t\t\tint lvlup = 0;\n\t\t\tfor(int i = 0; i < cs2.size(); ++i) if(skill[cs2[i]][req[p][i].first] <= req[p][i].second)\n\t\t\t\tlvlup += 1 + 2*skill[cs2[i]][req[p][i].first];"]]}
+{"iter": 60, "event": "usage", "input": 11131, "output": 205, "cache_read": 5315, "cache_write": 0}
+{"iter": 60, "event": "reject", "score": 1044468, "best": 1044731, "blocks": [["\t\t\t\t\tif(skill[best][s] <= l0) ++oo;", "\t\t\t\t\tif(skill[best][s] <= l0) oo += 1 + skill[best][s];"]]}
+{"iter": 61, "event": "usage", "input": 11280, "output": 347, "cache_read": 5315, "cache_write": 0}
+{"iter": 61, "event": "reject", "score": 1032151, "best": 1044731, "blocks": [["\t\t\tint lvlup = 0;\n\t\t\tfor(int i = 0; i < cs2.size(); ++i) if(skill[cs2[i]][req[p][i].first] <= req[p][i].second)\n\t\t\t\tlvlup += 2 + 2*skill[cs2[i]][req[p][i].first];", "\t\t\tint lvlup = 0;\n\t\t\tfor(int i = 0; i < cs2.size(); ++i) if(skill[cs2[i]][req[p][i].first] <= req[p][i].second)\n\t\t\t\tlvlup += 2 + 3*skill[cs2[i]][req[p][i].first];"]]}
+{"iter": 62, "event": "usage", "input": 11570, "output": 470, "cache_read": 5315, "cache_write": 0}
+{"iter": 62, "event": "accept", "score": 1044807, "best": 1044807, "blocks": [["\t\t\tfor(int test = 0; test < 118; ++test) {", "\t\t\tfor(int test = 0; test < 130; ++test) {"]]}
+{"iter": 63, "event": "usage", "input": 11694, "output": 208, "cache_read": 5315, "cache_write": 0}
+{"iter": 63, "event": "apply_error", "detail": "block 2: SEARCH text matched 0 times in the current accepted solver (must match exactly once). First SEARCH line: '\\t\\t\\tfor(int test = 0; test < 130; ++test) {'", "blocks": [["\t\t\tfor(int test = 0; test < 130; ++test) {", "\t\t\tfor(int test = 0; test < 140; ++test) {"], ["\t\t\tfor(int test = 0; test < 130; ++test) {", "\t\t\tfor(int test = 0; test < 134; ++test) {"]]}
+{"iter": 64, "event": "usage", "input": 12020, "output": 95, "cache_read": 5315, "cache_write": 0}
+{"iter": 64, "event": "reject", "score": 1044164, "best": 1044807, "blocks": [["\t\t\tfor(int test = 0; test < 130; ++test) {", "\t\t\tfor(int test = 0; test < 134; ++test) {"]]}
+{"iter": 65, "event": "usage", "input": 12158, "output": 70, "cache_read": 5315, "cache_write": 0}
+{"iter": 65, "event": "reject", "score": 1032988, "best": 1044807, "blocks": [["\t\t\tfor(int test = 0; test < 130; ++test) {", "\t\t\tfor(int test = 0; test < 128; ++test) {"]]}
+{"iter": 66, "event": "usage", "input": 12296, "output": 70, "cache_read": 5315, "cache_write": 0}
+{"iter": 66, "event": "reject", "score": 1032987, "best": 1044807, "blocks": [["\t\t\tfor(int test = 0; test < 130; ++test) {", "\t\t\tfor(int test = 0; test < 132; ++test) {"]]}
+{"iter": 67, "event": "usage", "input": 12434, "output": 404, "cache_read": 5315, "cache_write": 0}
+{"iter": 67, "event": "reject", "score": 1033327, "best": 1044807, "blocks": [["\t\t\tfor(int test = 0; test < 130; ++test) {", "\t\t\tfor(int test = 0; test < 131; ++test) {"]]}
+{"iter": 68, "event": "usage", "input": 12572, "output": 985, "cache_read": 5315, "cache_write": 0}
+{"iter": 68, "event": "accept", "score": 1044807, "best": 1044807, "blocks": [["\t\t\t\tfor(int pass = 0; pass < 20; ++pass)", "\t\t\t\tfor(int pass = 0; pass < 40; ++pass)"]]}
+{"iter": 69, "event": "usage", "input": 12700, "output": 308, "cache_read": 5315, "cache_write": 0}
+{"iter": 69, "event": "reject", "score": 1033263, "best": 1044807, "blocks": [["\tmt19937 mt(7);", "\tmt19937 mt(13);"]]}
+{"iter": 70, "event": "usage", "input": 12822, "output": 1141, "cache_read": 5315, "cache_write": 0}
+{"iter": 70, "event": "reject", "score": 1032979, "best": 1044807, "blocks": [["\t\t\tfor(int test = 0; test < 130; ++test) {", "\t\t\tfor(int test = 0; test < 126; ++test) {"]]}
+{"iter": 71, "event": "usage", "input": 12960, "output": 428, "cache_read": 5315, "cache_write": 0}
+{"iter": 71, "event": "reject", "score": 1033613, "best": 1044807, "blocks": [["\tmt19937 mt(7);", "\tmt19937 mt(99);"]]}
+{"iter": 72, "event": "usage", "input": 13082, "output": 1118, "cache_read": 5315, "cache_write": 0}
+{"iter": 72, "event": "reject", "score": 1033041, "best": 1044807, "blocks": [["\t\t\tfor(int test = 0; test < 130; ++test) {", "\t\t\tfor(int test = 0; test < 129; ++test) {"]]}
+{"iter": 73, "event": "usage", "input": 13220, "output": 664, "cache_read": 5315, "cache_write": 0}
+{"iter": 73, "event": "accept", "score": 1044807, "best": 1044807, "blocks": [["\t\t\t\tfor(int pass = 0; pass < 40; ++pass)", "\t\t\t\tfor(int pass = 0; pass < 80; ++pass)"]]}
+{"iter": 74, "event": "usage", "input": 13348, "output": 249, "cache_read": 5315, "cache_write": 0}
+{"iter": 74, "event": "reject", "score": 1010066, "best": 1044807, "blocks": [["\t\t\tfor(int test = 0; test < 130; ++test) {", "\t\t\tfor(int test = 0; test < 150; ++test) {"]]}
+{"iter": 75, "event": "usage", "input": 13486, "output": 1762, "cache_read": 5315, "cache_write": 0}
+{"iter": 75, "event": "reject", "score": 1033306, "best": 1044807, "blocks": [["\tmt19937 mt(7);", "\tmt19937 mt(23);"]]}
+{"iter": 76, "event": "usage", "input": 13608, "output": 1681, "cache_read": 5315, "cache_write": 0}
+{"iter": 76, "event": "reject", "score": 1044375, "best": 1044807, "blocks": [["\t\t\t\tif(oo > besto || (oo == besto && mav+D[p] < beste)) {", "\t\t\t\tif(oo > besto || (oo == besto && mav+D[p] < beste)) {\n\t\t\t\t\tif(oo >= (int)req[p].size() && test >= 8) { besto = oo; beste = mav+D[p]; cs2 = cs; break; }"]]}
+{"iter": 77, "event": "usage", "input": 13819, "output": 745, "cache_read": 5315, "cache_write": 0}
+{"iter": 77, "event": "reject", "score": 1044714, "best": 1044807, "blocks": [["\t\t\tfor(int test = 0; test < 130; ++test) {", "\t\t\tfor(int test = 0; test < 137; ++test) {"]]}
+{"iter": 78, "event": "usage", "input": 13957, "output": 289, "cache_read": 5315, "cache_write": 0}
+{"iter": 78, "event": "reject", "score": 1033306, "best": 1044807, "blocks": [["\t\t\tfor(int test = 0; test < 130; ++test) {", "\t\t\tfor(int test = 0; test < 133; ++test) {"]]}
+{"iter": 79, "event": "usage", "input": 14095, "output": 1192, "cache_read": 5315, "cache_write": 0}
+{"iter": 79, "event": "reject", "score": 1033263, "best": 1044807, "blocks": [["\t\t\tfor(int test = 0; test < 130; ++test) {", "\t\t\tfor(int test = 0; test < 135; ++test) {"]]}
+{"iter": 80, "event": "usage", "input": 14233, "output": 1544, "cache_read": 5315, "cache_write": 0}
+{"iter": 80, "event": "reject", "score": 1044722, "best": 1044807, "blocks": [["\t\t\t\tfor(int pass = 0; pass < 80; ++pass)", "\t\t\t\tfor(int pass = 0; pass < 15; ++pass)"], ["\t\t\tfor(int test = 0; test < 130; ++test) {", "\t\t\tfor(int test = 0; test < 145; ++test) {"]]}
+{"iter": 81, "event": "usage", "input": 14444, "output": 843, "cache_read": 5315, "cache_write": 0}
+{"iter": 81, "event": "reject", "score": 1044341, "best": 1044807, "blocks": [["\t\t\tfor(int test = 0; test < 130; ++test) {", "\t\t\tfor(int test = 0; test < 138; ++test) {"]]}
+{"iter": 82, "event": "usage", "input": 14582, "output": 228, "cache_read": 5315, "cache_write": 0}
+{"iter": 82, "event": "accept", "score": 1044807, "best": 1044807, "blocks": [["\t\t\t\tfor(int pass = 0; pass < 80; ++pass)", "\t\t\t\tfor(int pass = 0; pass < 60; ++pass)"]]}
+{"iter": 83, "event": "usage", "input": 14710, "output": 857, "cache_read": 5315, "cache_write": 0}
+{"iter": 83, "event": "reject", "score": 1032988, "best": 1044807, "blocks": [["\tmt19937 mt(7);", "\tmt19937 mt(31);"]]}
+{"iter": 84, "event": "usage", "input": 14832, "output": 920, "cache_read": 5315, "cache_write": 0}
+{"iter": 84, "event": "accept", "score": 1044807, "best": 1044807, "blocks": [["\t\t\tint lvlup = 0;\n\t\t\tfor(int i = 0; i < cs2.size(); ++i) if(skill[cs2[i]][req[p][i].first] <= req[p][i].second)\n\t\t\t\tlvlup += 2 + 2*skill[cs2[i]][req[p][i].first];", "\t\t\tint lvlup = 0;\n\t\t\tfor(int i = 0; i < cs2.size(); ++i) if(skill[cs2[i]][req[p][i].first] <= req[p][i].second)\n\t\t\t\tlvlup += 4 + 4*skill[cs2[i]][req[p][i].first];"]]}
+{"iter": 85, "event": "usage", "input": 15108, "output": 440, "cache_read": 5315, "cache_write": 0}
+{"iter": 85, "event": "accept", "score": 1044807, "best": 1044807, "blocks": [["\t\t\tint lvlup = 0;\n\t\t\tfor(int i = 0; i < cs2.size(); ++i) if(skill[cs2[i]][req[p][i].first] <= req[p][i].second)\n\t\t\t\tlvlup += 4 + 4*skill[cs2[i]][req[p][i].first];", "\t\t\tint lvlup = 0;\n\t\t\tfor(int i = 0; i < cs2.size(); ++i) if(skill[cs2[i]][req[p][i].first] <= req[p][i].second)\n\t\t\t\tlvlup += 4 + 4*skill[cs2[i]][req[p][i].first];\n\t\t\tlvlup += (S[p] > 0);"]]}
+{"iter": 86, "event": "usage", "input": 15400, "output": 210, "cache_read": 5315, "cache_write": 0}
+{"iter": 86, "event": "reject", "score": 1044693, "best": 1044807, "blocks": [["\t\t\tlvlup += (S[p] > 0);", "\t\t\tlvlup += (S[p] > 0) + (B[p] >= beste);"]]}
+{"iter": 87, "event": "usage", "input": 15541, "output": 208, "cache_read": 5315, "cache_write": 0}
+{"iter": 87, "event": "accept", "score": 1044807, "best": 1044807, "blocks": [["\t\t\tlvlup += (S[p] > 0);", "\t\t\tlvlup += (S[p] > 0) + (skill.size() && false);"]]}
+{"iter": 88, "event": "usage", "input": 15667, "output": 1112, "cache_read": 5315, "cache_write": 0}
+{"iter": 88, "event": "reject", "score": 1033306, "best": 1044807, "blocks": [["\t\t\tfor(int test = 0; test < 130; ++test) {", "\t\t\tfor(int test = 0; test < 136; ++test) {"]]}
+{"iter": 89, "event": "usage", "input": 15805, "output": 986, "cache_read": 5315, "cache_write": 0}
+{"iter": 89, "event": "reject", "score": 1032979, "best": 1044807, "blocks": [["\t\t\tfor(int test = 0; test < 130; ++test) {", "\t\t\tfor(int test = 0; test < 142; ++test) {"]]}
+{"iter": 90, "event": "usage", "input": 15943, "output": 837, "cache_read": 5315, "cache_write": 0}
+{"iter": 90, "event": "reject", "score": 1032929, "best": 1044807, "blocks": [["\t\t\tfor(int test = 0; test < 130; ++test) {", "\t\t\tfor(int test = 0; test < 144; ++test) {"]]}
+{"iter": 91, "event": "usage", "input": 16081, "output": 203, "cache_read": 5315, "cache_write": 0}
+{"iter": 91, "event": "accept", "score": 1044807, "best": 1044807, "blocks": [["\t\t\t\tfor(int pass = 0; pass < 60; ++pass)", "\t\t\t\tfor(int pass = 0; pass < 100; ++pass)"]]}
+{"iter": 92, "event": "usage", "input": 16209, "output": 409, "cache_read": 5315, "cache_write": 0}
+{"iter": 92, "event": "reject", "score": 1033263, "best": 1044807, "blocks": [["\t\t\tfor(int test = 0; test < 130; ++test) {", "\t\t\tfor(int test = 0; test < 141; ++test) {"]]}
+{"iter": 93, "event": "usage", "input": 16347, "output": 463, "cache_read": 5315, "cache_write": 0}
+{"iter": 93, "event": "reject", "score": 1033266, "best": 1044807, "blocks": [["\t\t\tfor(int test = 0; test < 130; ++test) {", "\t\t\tfor(int test = 0; test < 139; ++test) {"]]}
+{"iter": 94, "event": "usage", "input": 16485, "output": 590, "cache_read": 5315, "cache_write": 0}
+{"iter": 94, "event": "accept", "score": 1044807, "best": 1044807, "blocks": [["\t\t\tfor(int test = 0; test < 130; ++test) {", "\t\t\tint testlim = 130 + (int)req[p].size();\n\t\t\tfor(int test = 0; test < testlim; ++test) {"]]}
+{"iter": 95, "event": "usage", "input": 16630, "output": 102, "cache_read": 5315, "cache_write": 0}
+{"iter": 95, "event": "reject", "score": 1032978, "best": 1044807, "blocks": [["\t\t\tint testlim = 130 + (int)req[p].size();", "\t\t\tint testlim = 130 + 5*(int)req[p].size();"]]}
+{"iter": 96, "event": "usage", "input": 16771, "output": 213, "cache_read": 5315, "cache_write": 0}
+{"iter": 96, "event": "apply_error", "detail": "block 2: SEARCH text matched 0 times in the current accepted solver (must match exactly once). First SEARCH line: '\\t\\t\\tint testlim = 130 + (int)req[p].size();'", "blocks": [["\t\t\tint testlim = 130 + (int)req[p].size();", "\t\t\tint testlim = 130 + 2*(int)req[p].size();"], ["\t\t\tint testlim = 130 + (int)req[p].size();", "\t\t\tint testlim = 130 + (int)req[p].size()/2;"]]}
+{"iter": 97, "event": "usage", "input": 17102, "output": 171, "cache_read": 5315, "cache_write": 0}
+{"iter": 97, "event": "reject", "score": 1033306, "best": 1044807, "blocks": [["\t\t\tint testlim = 130 + (int)req[p].size();", "\t\t\tint testlim = 130 + 3*(int)req[p].size();"]]}
+{"iter": 98, "event": "usage", "input": 17243, "output": 232, "cache_read": 5315, "cache_write": 0}
+{"iter": 98, "event": "reject", "score": 1033306, "best": 1044807, "blocks": [["\t\t\tint testlim = 130 + (int)req[p].size();", "\t\t\tint testlim = 132 + (int)req[p].size();"]]}
+{"iter": 99, "event": "usage", "input": 17381, "output": 362, "cache_read": 5315, "cache_write": 0}
+{"iter": 99, "event": "accept", "score": 1044807, "best": 1044807, "blocks": [["\t\t\tint testlim = 130 + (int)req[p].size();", "\t\t\tint testlim = 130 + (int)req[p].size() + (S[p]>0?0:5);"]]}
+{"iter": 100, "event": "usage", "input": 17518, "output": 498, "cache_read": 5315, "cache_write": 0}
+{"iter": 100, "event": "accept", "score": 1044807, "best": 1044807, "blocks": [["\t\t\t\tfor(int pass = 0; pass < 100; ++pass)", "\t\t\t\tfor(int pass = 0; pass < 200; ++pass)"]]}
+{"event": "totals", "provider": "anthropic", "model": "claude-opus-4-8", "input": 921138, "output": 57245, "cache_read": 526185, "cache_write": 5315, "cost_usd": 6.33312625}

@@ -61,6 +61,18 @@ Best score per instance for the problems benchmarked so far. *Open-source solver
 | `f_five_thousand` | 151,177,982 | not published |
 | **Total** | **314,181,920** (B–F) | **370,364,455** (all instances; No jokes about underpants) |
 
+### [Mentorship and Teamwork](mentorship_and_teamwork/) (Hash Code 2022, qualification round)
+
+| Instance | Best score of the open-source solvers | Best score in the competition |
+|---|---:|---:|
+| `a_an_example` | not benchmarked (example) | 33 |
+| `b_better_start_small` | 1,057,446 | 1,005,020 |
+| `c_collaboration` | 285,714 | 288,508 |
+| `d_dense_schedule` | 2,853,365 | 674,945 |
+| `e_exceptional_skills` | 1,656,494 | 1,650,488 |
+| `f_find_great_mentors` | 1,381,929 | 1,194,515 |
+| **Total** | **7,234,948** (B–F) | **4,220,236** (all instances; Make love, not war) |
+
 ### [Santa Tracker](santa_tracker/) (Hash Code 2022, final round)
 
 | Instance | Best score of the open-source solvers | Best score in the competition |

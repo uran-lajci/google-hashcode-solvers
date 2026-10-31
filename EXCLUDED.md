@@ -10,26 +10,45 @@ Repositories that were cloned for this collection but not added to any problem f
 | only template/boilerplate code, no solver | 38 |
 | no solver code (only reads and prints the input) | 32 |
 | no way to write a submission: nothing is ever written or printed | 27 |
+| not competitive: no mentoring, so contributors must already meet every required level | 25 |
 | no solver code (only reads the input) | 22 |
 | no way to write a submission: nothing but debug values is printed | 13 |
 | solves the Hash Code 2016 practice problem (painting), which is not one of the archived problems | 10 |
 | identical files at HEAD | 8 |
 | no way to write a submission: it only prints its own score | 6 |
 | solves the Hash Code 2015 test round (ham pizza), which is not one of the archived problems | 4 |
+| not competitive: no selection logic; it handles items in input order | 3 |
 | no solver code (the only source file is empty) | 3 |
 | unfinished: no solution output | 3 |
 | no way to write a submission: it only prints its own score or statistics | 3 |
 | no solver code (only reads the input; solve() is empty) | 3 |
+| not competitive: its stored outputs score 50% of the top score on the official judge, far below the 95% keep rule | 2 |
+| not competitive: its stored outputs score 65% of the top score on the official judge, far below the 95% keep rule | 2 |
+| not competitive: its stored outputs score 52% of the top score on the official judge, far below the 95% keep rule | 2 |
+| all of its code also appears in an older repository that contains more | 2 |
 | solves the Hash Code 2014 trial round (painting), which is not one of the archived problems | 2 |
 | unrelated: pizza-ordering website | 2 |
 | no solver code (only reads and prints the input) (only its book_scanning part; the rest of the repository is kept elsewhere) | 2 |
 | no solver code (an unfinished input parser) | 2 |
+| not competitive: its stored outputs score 75% of the top score on the official judge, far below the 95% keep rule | 1 |
+| not competitive: its stored outputs score 40% of the top score on the official judge, far below the 95% keep rule | 1 |
+| not a solver: a score calculator for submission files | 1 |
+| not competitive: its stored outputs score 44% of the top score on the official judge, far below the 95% keep rule | 1 |
+| not competitive: its stored outputs score 33% of the top score on the official judge, far below the 95% keep rule | 1 |
+| not competitive: its stored outputs score 56% of the top score on the official judge, far below the 95% keep rule | 1 |
+| not competitive: its stored outputs score 66% of the top score on the official judge, far below the 95% keep rule | 1 |
+| not competitive: its stored outputs score 60% of the top score on the official judge, far below the 95% keep rule | 1 |
+| no solver code: only reads and prints the input | 1 |
+| not a solver: a referee and insights reporter for submission files | 1 |
+| not competitive: its stored outputs score 37% of the top score on the official judge, far below the 95% keep rule | 1 |
+| not competitive: its stored outputs score 42% of the top score on the official judge, far below the 95% keep rule | 1 |
 | unrelated to Hash Code (Android geofencing app) | 1 |
 | no Hash Code solver (a textbook lateness-scheduling script plus a committed Python install) | 1 |
 | unfinished: a 144-character notebook stub with no solver | 1 |
 | not a Hash Code problem (a passenger seat-allocation exercise) | 1 |
 | no solver code (main() only sets up I/O and returns) | 1 |
 | no solver code (a notebook containing only an import) | 1 |
+| duplicate of mentorship_and_teamwork/HashCode-2022_Azzedde, which was removed: not competitive: no mentoring, so contributors must already meet every required level | 1 |
 | no solver code (a 102-byte stub) | 1 |
 | only template code (a .NET "Hello, World!" console project) | 1 |
 | no solver code (main.py only prints a number) | 1 |
@@ -60,7 +79,6 @@ Repositories that were cloned for this collection but not added to any problem f
 | not a solver (prints randomly chosen joke contributor names) | 1 |
 | no solver code (a 27-byte stub) | 1 |
 | no solver code (an 8-line input parser) | 1 |
-| all of its code also appears in an older repository that contains more | 1 |
 | unfinished: tiles routers and prints a count, but never connects them to the backbone or writes a submission (also excluded in an earlier batch) | 1 |
 | the Gradle scaffold only; main.kt is two lines (also excluded in an earlier batch) | 1 |
 | builds the dependency graph and prints the targets, but never produces a submission (also excluded in an earlier batch) | 1 |
@@ -160,6 +178,18 @@ Repositories that were cloned for this collection but not added to any problem f
 | no solver code (only reads and prints the input) (only its traffic_signaling part; the rest of the repository is kept elsewhere) | 1 |
 | no solver code (only reads the input; process() is empty) | 1 |
 | no way to write a submission: nothing is ever written or printed (only its traffic_signaling part; the rest of the repository is kept elsewhere) | 1 |
+| no solver code: only parses the input and prints debug values | 1 |
+| no solver code: only indexes the input | 1 |
+| not a solver: a validator that checks and scores submission files | 1 |
+| wrong problem: the only code is a One Pizza solver; it cannot produce a Mentorship and Teamwork submission | 1 |
+| not competitive: its stored outputs score 49% of the top score on the official judge, far below the 95% keep rule (only its mentorship_and_teamwork part; the rest of the repository is kept elsewhere) | 1 |
+| not competitive: its stored outputs score 57% of the top score on the official judge, far below the 95% keep rule | 1 |
+| not competitive: no mentoring, so contributors must already meet every required level (only its mentorship_and_teamwork part; the rest of the repository is kept elsewhere) | 1 |
+| not competitive: its stored outputs score 62% of the top score on the official judge, far below the 95% keep rule (only its mentorship_and_teamwork part; the rest of the repository is kept elsewhere) | 1 |
+| not competitive: its stored outputs score 76% of the top score on the official judge, far below the 95% keep rule (only its mentorship_and_teamwork part; the rest of the repository is kept elsewhere) | 1 |
+| not competitive: its stored outputs score 39% of the top score on the official judge, far below the 95% keep rule (only its mentorship_and_teamwork part; the rest of the repository is kept elsewhere) | 1 |
+| no solver code: a template; the task is a TODO | 1 |
+| not competitive: its stored outputs score 37% of the top score on the official judge, far below the 95% keep rule (only its mentorship_and_teamwork part; the rest of the repository is kept elsewhere) | 1 |
 
 | Repository | Commit | Reason |
 |---|---|---|
@@ -183,6 +213,7 @@ Repositories that were cloned for this collection but not added to any problem f
 | `Abhinandan-Purkait-hashcode2021` (source URL not recorded) | — | no solver code (README, PDF or data only) |
 | [abhiroopbasak/hashcode2021](https://github.com/abhiroopbasak/hashcode2021) | `3e19f2b` | no solver code (README, PDF or data only) |
 | [abhisingh2244/google-hashcode-2022](https://github.com/abhisingh2244/google-hashcode-2022) | `221d10e` | no solver code (README, PDF or data only) |
+| [abidwaqar/hashcode2022](https://github.com/abidwaqar/hashcode2022) | `7ee02e3` | not competitive: its stored outputs score 76% of the top score on the official judge, far below the 95% keep rule (only its mentorship_and_teamwork part; the rest of the repository is kept elsewhere) |
 | `ABoraie-hashcode_2022` (source URL not recorded) | — | empty repository (no commits) |
 | `AdeptusHashCodeMechanicus-HashCode2018` (source URL not recorded) | — | no solver code (README, PDF or data only) |
 | [adityasinghsisodiya28/stopwatch](https://github.com/adityasinghsisodiya28/stopwatch) | `ac14154` | duplicate of `Harika1828-stopwatch`: same source code (after normalising line endings and whitespace) |
@@ -201,10 +232,13 @@ Repositories that were cloned for this collection but not added to any problem f
 | [alexshade15/HashCode2018](https://github.com/alexshade15/HashCode2018) | `04b4166` | no solver code (README, PDF or data only) |
 | [alicompiler/HashCode2021](https://github.com/alicompiler/HashCode2021) | — | empty repository (no commits) |
 | [alvarocrego/Hashcode-Pizza](https://github.com/alvarocrego/Hashcode-Pizza) | `7daf2b2` | no solver code (the only source file is empty) |
+| [amanroy2001/HASHCODE2022](https://github.com/amanroy2001/HASHCODE2022) | `5242403` | duplicate of `amanroy2001-hashcode-2022`: all of its code also appears in an older repository that contains more |
+| [amartinruiz23/hashcode-2022](https://github.com/amartinruiz23/hashcode-2022) | `071b142` | not competitive: no mentoring, so contributors must already meet every required level |
 | [amartyadav/hashcode](https://github.com/amartyadav/hashcode) | `4bd7ede` | no solver code (README, PDF or data only) |
 | `AmauryLiet-HashCode2014` (source URL not recorded) | — | no solver code (README, PDF or data only) |
 | [amilhade/Hashcode2018](https://github.com/amilhade/Hashcode2018) | — | empty repository (no commits) |
 | [amnindersingh12/Hashcode-2022](https://github.com/amnindersingh12/Hashcode-2022) | `4cae52f` | no solver code (README, PDF or data only) |
+| [ananthsathvick/hashcode2022](https://github.com/ananthsathvick/hashcode2022) | `914d0b6` | not competitive: no mentoring, so contributors must already meet every required level |
 | [andrei-i-gavrila/hashcode2020](https://github.com/andrei-i-gavrila/hashcode2020) | `0960f10` | only a template (the solver returns a constant) |
 | [andrewstech/hashcode-2022](https://github.com/andrewstech/hashcode-2022) | `7a37efa` | not a solver (prints randomly chosen joke contributor names) |
 | [andreybavt/google-hashcode-2018](https://github.com/andreybavt/google-hashcode-2018) | — | empty repository (no commits) |
@@ -218,12 +252,16 @@ Repositories that were cloned for this collection but not added to any problem f
 | [arooshiverma/Google-Hashcode-2020](https://github.com/arooshiverma/Google-Hashcode-2020) | `c894fe9` | no solver code (README, PDF or data only) |
 | [ashishpatel26/Kaggle-dataset-download-colab](https://github.com/ashishpatel26/Kaggle-dataset-download-colab) | `1da736f` | duplicate of `YvMohsin-Kaggle-dataset-download-colab`: identical files at HEAD |
 | `Auleen-HashCode2021` (source URL not recorded) | — | no solver code (the only source file is empty) |
+| [aurensanx/hashcode2022](https://github.com/aurensanx/hashcode2022) | `3c8054d` | not competitive: its stored outputs score 40% of the top score on the official judge, far below the 95% keep rule |
 | [brancheroo/autodrive](https://github.com/brancheroo/autodrive) | `ea34285` | unrelated to Hash Code |
 | [philbort/awesome-self-driving-cars](https://github.com/philbort/awesome-self-driving-cars) | `152f976` | unrelated to Hash Code |
 | [tech-andgar/awesome-stars](https://github.com/tech-andgar/awesome-stars) | `54bb046` | unrelated to Hash Code |
+| [aydinsercan/GoogleHashCode2022](https://github.com/aydinsercan/GoogleHashCode2022) | `92bd3ab` | not competitive: its stored outputs score 39% of the top score on the official judge, far below the 95% keep rule (only its mentorship_and_teamwork part; the rest of the repository is kept elsewhere) |
+| [bacali95/google-hashcode-2022](https://github.com/bacali95/google-hashcode-2022) | `35c4b9e` | not competitive: no mentoring, so contributors must already meet every required level |
 | `BaleineW-hashCode2021` (source URL not recorded) | — | no solver code (README, PDF or data only) |
 | [barbarosbecet/hashcode2022](https://github.com/barbarosbecet/hashcode2022) | — | empty repository (no commits) |
 | `BeatWolf-hashcode-2019-qualif` (source URL not recorded) | — | empty repository (no commits) |
+| [beobuild/hashcode_2022](https://github.com/beobuild/hashcode_2022) | `e0cbf40` | not competitive: no selection logic; it handles items in input order |
 | `Bhavik-Makwana-HashCode2020` (source URL not recorded) | — | no solver code (README, PDF or data only) |
 | [rramatchandran/big-o-performance-java](https://github.com/rramatchandran/big-o-performance-java) | `a14f3a1` | unrelated to Hash Code |
 | [biharygergo/Hashcode2017](https://github.com/biharygergo/Hashcode2017) | `4956d93` | only template/boilerplate code, no solver |
@@ -233,10 +271,13 @@ Repositories that were cloned for this collection but not added to any problem f
 | [michelicious11/Book_scanning](https://github.com/michelicious11/Book_scanning) | `d7acaf2` | no solver code (main.py prints "hello world") |
 | [dogoyaro/books](https://github.com/dogoyaro/books) | — | empty repository (no commits) |
 | [Bouguedra-Adem/HashCode_2020](https://github.com/Bouguedra-Adem/HashCode_2020) | `76bea16` | no solver code (README, PDF or data only) |
+| [brkydnc/hashcode](https://github.com/brkydnc/hashcode) | `2c9aca9` | no solver code: only parses the input and prints debug values |
 | [cristi-iacob/brrc-hashcode-2020](https://github.com/cristi-iacob/brrc-hashcode-2020) | `fb33d3f` | only template/boilerplate code, no solver |
+| [bshishov/HashCode2022](https://github.com/bshishov/HashCode2022) | `32f2b2e` | not competitive: its stored outputs score 56% of the top score on the official judge, far below the 95% keep rule |
 | [baasu-group/buildlab_resources](https://github.com/baasu-group/buildlab_resources) | `eb31785` | unrelated to Hash Code |
 | [cannibal-kush/google-hashcode-2018](https://github.com/cannibal-kush/google-hashcode-2018) | `07064e6` | no solver code (a 27-byte stub) |
 | [ga-ups-data-science/capstone-datasets-shipping-logistics](https://github.com/ga-ups-data-science/capstone-datasets-shipping-logistics) | `f67bb63` | duplicate of `datasets-shipping-logistics`: identical files at HEAD |
+| [CaptainLuke/HashCode2022](https://github.com/CaptainLuke/HashCode2022) | `1a50db3` | not competitive: no mentoring, so contributors must already meet every required level |
 | [Level-Effect/Career-Resources](https://github.com/Level-Effect/Career-Resources) | `298c427` | unrelated to Hash Code |
 | [chadell/hashcode2017](https://github.com/chadell/hashcode2017) | — | empty repository (no commits) |
 | [Chadi14/GoogleHashCode2019](https://github.com/Chadi14/GoogleHashCode2019) | `a3cd40f` | no solver code (README, PDF or data only) |
@@ -263,6 +304,7 @@ Repositories that were cloned for this collection but not added to any problem f
 | [hongxueharriswang/czoi-toolkit](https://github.com/hongxueharriswang/czoi-toolkit) | `f0c6eb7` | unrelated to Hash Code |
 | [DahamNimnada/HashCode2022](https://github.com/DahamNimnada/HashCode2022) | — | empty repository (no commits) |
 | [dalogax/hashcode2018](https://github.com/dalogax/hashcode2018) | `b6a8648` | only template/boilerplate code, no solver |
+| [dalogax/hashcode2022](https://github.com/dalogax/hashcode2022) | `8f7b15e` | not competitive: no mentoring, so contributors must already meet every required level |
 | [DanneelsSophie/hashcode2018](https://github.com/DanneelsSophie/hashcode2018) | — | empty repository (no commits) |
 | [DarkHollow/hashcode-2019](https://github.com/DarkHollow/hashcode-2019) | `8ba1f9b` | only template/boilerplate code, no solver |
 | [DarkHollow/hashcode-pizza](https://github.com/DarkHollow/hashcode-pizza) | `7ab9602` | no solver code (README, PDF or data only) |
@@ -279,8 +321,10 @@ Repositories that were cloned for this collection but not added to any problem f
 | [Dna072/HashCode_2016](https://github.com/Dna072/HashCode_2016) | `0be25b5` | solves the Hash Code 2016 practice problem (painting), which is not one of the archived problems |
 | [dobl1/HashCode2017](https://github.com/dobl1/HashCode2017) | — | empty repository (no commits) |
 | [dorb4r/HashCode2019](https://github.com/dorb4r/HashCode2019) | — | empty repository (no commits) |
+| [DorHugi/hashCode2022](https://github.com/DorHugi/hashCode2022) | `49d945d` | not competitive: no mentoring, so contributors must already meet every required level |
 | [ntaneja1985/DotNetInterviewPreparation](https://github.com/ntaneja1985/DotNetInterviewPreparation) | `92e71f5` | unrelated to Hash Code |
 | [kravi1234/dsa](https://github.com/kravi1234/dsa) | `8c7f0be` | unrelated to Hash Code |
+| [dsilvahansen/google-hashcode-2022](https://github.com/dsilvahansen/google-hashcode-2022) | `d410160` | not competitive: its stored outputs score 65% of the top score on the official judge, far below the 95% keep rule |
 | [Edd-Joy/HashCode](https://github.com/Edd-Joy/HashCode) | `6c3e9e2` | no solver code (README, PDF or data only) |
 | [edilsonmanjate/edilsonmanjate](https://github.com/edilsonmanjate/edilsonmanjate) | `287a471` | unrelated to Hash Code |
 | [ekmbcd/hashcode-2022](https://github.com/ekmbcd/hashcode-2022) | — | empty repository (no commits) |
@@ -312,6 +356,8 @@ Repositories that were cloned for this collection but not added to any problem f
 | [Ermako27/Google--hashcode2018](https://github.com/Ermako27/Google--hashcode2018) | `7c5a4f9` | no solver code (README, PDF or data only) |
 | [loicmonney/google-hash-code-2017-pizza](https://github.com/loicmonney/google-hash-code-2017-pizza) | `1cfec38` | no solver code (README, PDF or data only) |
 | [oshadabasnayake/Google-Hash-Code-2019-NSBM-Team-Serendib](https://github.com/oshadabasnayake/Google-Hash-Code-2019-NSBM-Team-Serendib) | `6c8332c` | no solver code (Python tutorial snippets and an argument-printing C program) |
+| [Pramansagar/Google-Hash-Code-2022---Qualification-Round-Solution](https://github.com/Pramansagar/Google-Hash-Code-2022---Qualification-Round-Solution) | `af205d4` | duplicate of mentorship_and_teamwork/HashCode-2022_Azzedde, which was removed: not competitive: no mentoring, so contributors must already meet every required level |
+| [Elijahdanie/Google-Hash-code-Qualification-round-2022](https://github.com/Elijahdanie/Google-Hash-code-Qualification-round-2022) | `037a835` | not competitive: no mentoring, so contributors must already meet every required level |
 | [rkholoniuk/google-hashcode-2017](https://github.com/rkholoniuk/google-hashcode-2017) | `b051e8d` | no way to write a submission: nothing is ever written or printed |
 | [Tejpbit/google-hashcode-2018-final](https://github.com/Tejpbit/google-hashcode-2018-final) | `b8a19dc` | the Gradle scaffold only; main.kt is two lines (also excluded in an earlier batch) |
 | [jonasla/google-hashcode-2018-qualification](https://github.com/jonasla/google-hashcode-2018-qualification) | `9118aef` | no way to write a submission: it only prints its own score |
@@ -325,6 +371,7 @@ Repositories that were cloned for this collection but not added to any problem f
 | [NeerajHazarika/Google-Hashcode-2021](https://github.com/NeerajHazarika/Google-Hashcode-2021) | `61c4376` | no way to write a submission: nothing is ever written or printed |
 | [pierreavn/google-hashcode-archive](https://github.com/pierreavn/google-hashcode-archive) | `a156717` | the problem archive itself, not a solver |
 | [nik72619c/Google-HashCode-Qualifier](https://github.com/nik72619c/Google-HashCode-Qualifier) | `969ceba` | no way to write a submission: nothing is ever written or printed |
+| [PicoJr/google-hashcode-score-2022](https://github.com/PicoJr/google-hashcode-score-2022) | `7ff6aff` | not a solver: a score calculator for submission files |
 | [flaxcode/Google-hashcode-solutions](https://github.com/flaxcode/Google-hashcode-solutions) | `28f4370` | no solver code (README, PDF or data only) |
 | [tonghuikang/google-or-experiments](https://github.com/tonghuikang/google-or-experiments) | `f937c6a` | not a solver for a specific problem (Google OR-tools experiments before Hash Code 2020) |
 | [tahirramzan/Google-Summer-of-Code-2020](https://github.com/tahirramzan/Google-Summer-of-Code-2020) | `3f661fc` | unrelated to Hash Code |
@@ -357,9 +404,12 @@ Repositories that were cloned for this collection but not added to any problem f
 | [HackathonFu/Hackathon2017](https://github.com/HackathonFu/Hackathon2017) | `ee05f02` | no solver code (only reads and prints the input) |
 | [halfa/google-hashcode-2014](https://github.com/halfa/google-hashcode-2014) | `328bb0e` | solves the Hash Code 2014 trial round (painting), which is not one of the archived problems |
 | [hannes99/Hashcode-Pizza](https://github.com/hannes99/Hashcode-Pizza) | `b65aa9f` | no solver code (README, PDF or data only) |
+| [HappyKid117/hashcode-2022](https://github.com/HappyKid117/hashcode-2022) | `9ff46d1` | not competitive: no mentoring, so contributors must already meet every required level |
 | [Harika1828/stopwatch](https://github.com/Harika1828/stopwatch) | `2f091dd` | unrelated to Hash Code |
+| [harshit-paneri/HashCode-2022](https://github.com/harshit-paneri/HashCode-2022) | `3eab128` | not competitive: no selection logic; it handles items in input order |
 | [harshsinghvi/hashcode2021](https://github.com/harshsinghvi/hashcode2021) | `8d1f32a` | no solver code (hard-coded example data only) |
 | [Daniel-C-Dias/Hascode2019](https://github.com/Daniel-C-Dias/Hascode2019) | `8561928` | no way to write a submission: nothing is ever written or printed |
+| [KristofHolecz/hash-code-2022-mentorship-and-teamwork-insights-reporter](https://github.com/KristofHolecz/hash-code-2022-mentorship-and-teamwork-insights-reporter) | `f75d6e2` | not a solver: a referee and insights reporter for submission files |
 | [wonwick/Hash-Code-2022](https://github.com/wonwick/Hash-Code-2022) | `c0a85b3` | unfinished: combineState() returns an undefined value and nothing is written |
 | [notknowofdoing/hash-code-practice-2021](https://github.com/notknowofdoing/hash-code-practice-2021) | `e559f7c` | no solver code (README, PDF or data only) |
 | [GO3LIN/hash2022](https://github.com/GO3LIN/hash2022) | `6bb3db5` | no solver code (only reads the input) |
@@ -392,11 +442,16 @@ Repositories that were cloned for this collection but not added to any problem f
 | [khemichew/hashcode-2021](https://github.com/khemichew/hashcode-2021) | `7fb6990` | no solver code (only reads the input; process() is empty) |
 | [malachyb/hashcode-2021](https://github.com/malachyb/hashcode-2021) | `b2e8944` | no way to write a submission: nothing is ever written or printed |
 | [CipherCook/Hashcode-2022-0x138D5](https://github.com/CipherCook/Hashcode-2022-0x138D5) | `b042ee2` | no solver code (only reads and prints the input) (only its mentorship_and_teamwork part; the rest of the repository is kept elsewhere) |
+| [Nipun-Katariya/hashcode-2022-attempt](https://github.com/Nipun-Katariya/hashcode-2022-attempt) | `5ec0d2c` | not competitive: no mentoring, so contributors must already meet every required level |
 | [HasinduLanka/hashcode-2022-eval](https://github.com/HasinduLanka/hashcode-2022-eval) | `83fc56a` | no source code (only compiled binaries of an evaluator) |
 | [YasserMahdi/hashcode-2022-online-qualification-round](https://github.com/YasserMahdi/hashcode-2022-online-qualification-round) | — | empty repository (no commits) |
 | [agarwal-archit/hashcode-2022-qual](https://github.com/agarwal-archit/hashcode-2022-qual) | `74f2c68` | only template/boilerplate code, no solver |
+| [3domDev/hashcode-2022-qualifiers](https://github.com/3domDev/hashcode-2022-qualifiers) | `75bb4ab` | not competitive: its stored outputs score 65% of the top score on the official judge, far below the 95% keep rule |
+| [AlexisBonamyGreau/Hashcode-2022](https://github.com/AlexisBonamyGreau/Hashcode-2022) | `cd64234` | not competitive: no mentoring, so contributors must already meet every required level |
 | [anshumalivfx/hashcode-2022](https://github.com/anshumalivfx/hashcode-2022) | `dd30ec1` | no solver code (only reads the input) |
+| [Azzedde/HashCode-2022](https://github.com/Azzedde/HashCode-2022) | `97e9dd7` | not competitive: no mentoring, so contributors must already meet every required level |
 | [danielquinti/hashcode-2022](https://github.com/danielquinti/hashcode-2022) | `fc5164e` | no way to write a submission: nothing but debug values is printed (only its mentorship_and_teamwork part; the rest of the repository is kept elsewhere) |
+| [Babatunde13/hashcode-22](https://github.com/Babatunde13/hashcode-22) | `6114557` | not competitive: no mentoring, so contributors must already meet every required level |
 | [sharbata/HashCode-BurgerMeat](https://github.com/sharbata/HashCode-BurgerMeat) | `0bf06b3` | no solver code (README, PDF or data only) |
 | [paolorotolo/hashcode-devfest2019](https://github.com/paolorotolo/hashcode-devfest2019) | `98af3a9` | not a Google Hash Code problem (a "HashCode" contest at DevFest Levante 2019) |
 | [bharath93/hashcode-drone-delivery](https://github.com/bharath93/hashcode-drone-delivery) | `63fc314` | no solver code (input reader and a Drone class; nothing is written) |
@@ -404,6 +459,8 @@ Repositories that were cloned for this collection but not added to any problem f
 | [PeterBoesenberg/hashcode-drone-delivery](https://github.com/PeterBoesenberg/hashcode-drone-delivery) | `32a5b08` | no solver code (all source files are empty) |
 | [ppecheux/HashCode-Google-2019](https://github.com/ppecheux/HashCode-Google-2019) | `b4a850c` | no solver code (an input reader and a scoring function) |
 | [LibertyWritesCode/Hashcode-Javascript-Mentorship](https://github.com/LibertyWritesCode/Hashcode-Javascript-Mentorship) | `2ff75b7` | unrelated to Hash Code |
+| [marcoboari/hashcode-marco-2022](https://github.com/marcoboari/hashcode-marco-2022) | `f1f2829` | no solver code: only reads and prints the input |
+| [fatimafatimaprogrammer/HashCode-Maximize_Project_Assignments-](https://github.com/fatimafatimaprogrammer/HashCode-Maximize_Project_Assignments-) | `cc35e4e` | not competitive: no mentoring, so contributors must already meet every required level |
 | [Lekky71/hashcode-mentorship](https://github.com/Lekky71/hashcode-mentorship) | `9db197d` | unrelated to Hash Code |
 | [Boluwatiiife/Hashcode-Mentorship-Project](https://github.com/Boluwatiiife/Hashcode-Mentorship-Project) | `aef4285` | unrelated to Hash Code |
 | [decadevs/hashcode-pizza-slices-ola357](https://github.com/decadevs/hashcode-pizza-slices-ola357) | `7827182` | not a solver for this problem (a hard-coded coin-change exercise that reads no input) |
@@ -502,8 +559,10 @@ Repositories that were cloned for this collection but not added to any problem f
 | [Natavan-A/HashCode2021](https://github.com/Natavan-A/HashCode2021) | `7cb7e2a` | no solver code (only reads the input) |
 | [twyunting/HashCode2021](https://github.com/twyunting/HashCode2021) | `fd5fb66` | no way to write a submission: nothing but debug values is printed (only its traffic_signaling part; the rest of the repository is kept elsewhere) |
 | [wackyjoker/HashCode2021](https://github.com/wackyjoker/HashCode2021) | `602b2ec` | no solver code (only reads and prints the input) (only its traffic_signaling part; the rest of the repository is kept elsewhere) |
+| [Achyut-Krishna/HashCode2022-1](https://github.com/Achyut-Krishna/HashCode2022-1) | `2eb1053` | wrong problem: the only code is a One Pizza solver; it cannot produce a Mentorship and Teamwork submission |
 | [AmitPandey2312/Hashcode2022.io](https://github.com/AmitPandey2312/Hashcode2022.io) | `7039bc2` | no solver code (README, PDF or data only) |
 | [ahmaide/HashCode2022](https://github.com/ahmaide/HashCode2022) | `33eee09` | no way to write a submission: nothing is ever written or printed |
+| [AngrySaltyFish24/Hashcode2022](https://github.com/AngrySaltyFish24/Hashcode2022) | `2ff387c` | not competitive: no mentoring, so contributors must already meet every required level |
 | [Cuijpie/hashcode2022](https://github.com/Cuijpie/hashcode2022) | `b091d57` | no solver code (only reads and prints the input) |
 | [Dante-Masciotra/HashCode2022](https://github.com/Dante-Masciotra/HashCode2022) | `86cd144` | no solver code (only reads the input) |
 | [DarshalShetty/Hashcode2022](https://github.com/DarshalShetty/Hashcode2022) | `6e5d3d5` | unfinished: best_match() returns an empty list and nothing is written |
@@ -548,16 +607,20 @@ Repositories that were cloned for this collection but not added to any problem f
 | [HassanZafar-2021/AskGemini](https://github.com/HassanZafar-2021/AskGemini) | `5f34c24` | unrelated to Hash Code |
 | [OnePageCRM/hc-2017-practice](https://github.com/OnePageCRM/hc-2017-practice) | `bc11733` | no way to write a submission: nothing is ever written or printed |
 | [gattiroberto1985/hc2019](https://github.com/gattiroberto1985/hc2019) | `229a77d` | no solver code (README, PDF or data only) |
+| [hcn1z1/hashcode](https://github.com/hcn1z1/hashcode) | `214bed1` | not competitive: no mentoring, so contributors must already meet every required level |
 | [DollarAkshay/Hexagonal-Lock-Screen](https://github.com/DollarAkshay/Hexagonal-Lock-Screen) | `783a7d5` | unrelated to Google Hash Code (an app from a different "HashCode" hackathon in 2014) |
 | [Hextar/hashcode2016](https://github.com/Hextar/hashcode2016) | `75dbddc` | no solver code (README, PDF or data only) |
 | [ozanhalis/Hi](https://github.com/ozanhalis/Hi) | — | empty repository (no commits) |
 | [karonchengo/HPE7-A05-Practice-Test-Questions-Aruba-Certified-Data-Center-Professional-Exam](https://github.com/karonchengo/HPE7-A05-Practice-Test-Questions-Aruba-Certified-Data-Center-Professional-Exam) | `9b2112f` | unrelated to Hash Code |
 | [Hrushi199/Vehicle-Simulation](https://github.com/Hrushi199/Vehicle-Simulation) | `318517f` | unrelated to Hash Code |
+| [hsnthn/hashcode-2022](https://github.com/hsnthn/hashcode-2022) | `b47e663` | no solver code: a template; the task is a TODO |
 | [HugoBA/hashcode2016](https://github.com/HugoBA/hashcode2016) | — | empty repository (no commits) |
+| [iak0/hashcode2022](https://github.com/iak0/hashcode2022) | `1334949` | not competitive: its stored outputs score 52% of the top score on the official judge, far below the 95% keep rule |
 | [eamachadoo/Iart1](https://github.com/eamachadoo/Iart1) | `53cb674` | no solver code (README, PDF or data only) |
 | [idyczko/HashCode2020](https://github.com/idyczko/HashCode2020) | — | empty repository (no commits) |
 | [ilkunviktor/hashcode2018](https://github.com/ilkunviktor/hashcode2018) | `aa2f6fe` | only template/boilerplate code, no solver |
 | [ImnotBarbarossa/hashcode2019](https://github.com/ImnotBarbarossa/hashcode2019) | `a7b825e` | no solver code (README, PDF or data only) |
+| [inkeko/HashCode2022](https://github.com/inkeko/HashCode2022) | `7e9df87` | not competitive: its stored outputs score 60% of the top score on the official judge, far below the 95% keep rule |
 | [Pallibhaskararao/INNOVATION_HUB](https://github.com/Pallibhaskararao/INNOVATION_HUB) | `ef6746c` | unrelated to Hash Code |
 | [intr/hashcode2021](https://github.com/intr/hashcode2021) | `6061ce9` | no solver code (README, PDF or data only) |
 | [iskandermae/HashCode2021](https://github.com/iskandermae/HashCode2021) | — | empty repository (no commits) |
@@ -571,8 +634,10 @@ Repositories that were cloned for this collection but not added to any problem f
 | [jannikpeters/HashCode2017](https://github.com/jannikpeters/HashCode2017) | `bae4776` | no solver code (README, PDF or data only) |
 | [TalviFox/Jarki-Kettu-Core](https://github.com/TalviFox/Jarki-Kettu-Core) | `b542c04` | unrelated to Hash Code |
 | [jaumes5/hashcode-2020](https://github.com/jaumes5/hashcode-2020) | `e8f7e49` | only stub files (85 bytes of code in total); the same author's fuller jaumes5/hashcode2020 is collected under book_scanning |
+| [jaumes5/hashcode2022](https://github.com/jaumes5/hashcode2022) | `c13e8af` | not competitive: no mentoring, so contributors must already meet every required level |
 | [VIJAYKRISHNAAIQA/Java_String_Methods_2025](https://github.com/VIJAYKRISHNAAIQA/Java_String_Methods_2025) | `732540e` | unrelated to Hash Code |
 | [YuriiJavaDev/JavaLearning](https://github.com/YuriiJavaDev/JavaLearning) | `2c467df` | unrelated to Hash Code |
+| [Javidjms/hashcode2022](https://github.com/Javidjms/hashcode2022) | `0621dc6` | not competitive: its stored outputs score 49% of the top score on the official judge, far below the 95% keep rule (only its mentorship_and_teamwork part; the rest of the repository is kept elsewhere) |
 | [jbuvry/HashCode2020](https://github.com/jbuvry/HashCode2020) | `bdf9463` | only template/boilerplate code, no solver |
 | [jdposada595/hashcode2021](https://github.com/jdposada595/hashcode2021) | `5bced74` | no solver code (README, PDF or data only) |
 | [JenJen972/Google-HashCode-2020](https://github.com/JenJen972/Google-HashCode-2020) | `4cc35af` | no solver code (README, PDF or data only) |
@@ -584,6 +649,7 @@ Repositories that were cloned for this collection but not added to any problem f
 | [joewoess/HashCode2018](https://github.com/joewoess/HashCode2018) | `01441d4` | only template/boilerplate code, no solver |
 | [jrexmo/Hashcode-2020](https://github.com/jrexmo/Hashcode-2020) | `c3b8f7c` | no solver code (README, PDF or data only) |
 | [jrief/hashcode-2020](https://github.com/jrief/hashcode-2020) | — | empty repository (no commits) |
+| [juansalmeronmoya/hashcode2022](https://github.com/juansalmeronmoya/hashcode2022) | `b6bdb1f` | not competitive: its stored outputs score 75% of the top score on the official judge, far below the 95% keep rule |
 | [juheyne/hashcode2020qualification](https://github.com/juheyne/hashcode2020qualification) | `a910b94` | no solver code (README, PDF or data only) |
 | [JusticarProgramming/HashCode2018](https://github.com/JusticarProgramming/HashCode2018) | `81f97b8` | no solver code (only an empty submodule link) |
 | [sioc1981/JyBosseEncore](https://github.com/sioc1981/JyBosseEncore) | `421f874` | no solver code (README, PDF or data only) |
@@ -597,6 +663,7 @@ Repositories that were cloned for this collection but not added to any problem f
 | [ziko55453/KomputerSer](https://github.com/ziko55453/KomputerSer) | `69e1cd9` | unrelated to Hash Code |
 | [PubInv/krake](https://github.com/PubInv/krake) | `f3e3762` | unrelated to Hash Code |
 | [krishan001/google-hashcode-2020](https://github.com/krishan001/google-hashcode-2020) | — | empty repository (no commits) |
+| [krunalmk/GoogleHashCode](https://github.com/krunalmk/GoogleHashCode) | `6803993` | no solver code: only indexes the input |
 | [kshikha818/pizza-problem](https://github.com/kshikha818/pizza-problem) | `14fe921` | no solver code (README, PDF or data only) |
 | [kushaljamadagni/Hashcode-2019](https://github.com/kushaljamadagni/Hashcode-2019) | `e26ae3c` | unrelated to Google Hash Code (a Tkinter metro-route app from a different "Hashcode" event) |
 | [lakatpeti/Hashcode](https://github.com/lakatpeti/Hashcode) | `92e5d8e` | only template/boilerplate code, no solver |
@@ -605,6 +672,7 @@ Repositories that were cloned for this collection but not added to any problem f
 | [simantaturja/Learn-Java-Spring](https://github.com/simantaturja/Learn-Java-Spring) | `9e70926` | unrelated to Hash Code |
 | [nehanavrange/LearningJava](https://github.com/nehanavrange/LearningJava) | `9a460cc` | unrelated to Hash Code |
 | [Lefnui/HashCode2015](https://github.com/Lefnui/HashCode2015) | `76c5f1e` | no solver code (an empty main()) |
+| [lewisc64/Hashcode2022](https://github.com/lewisc64/Hashcode2022) | `6f76e47` | not competitive: its stored outputs score 50% of the top score on the official judge, far below the 95% keep rule |
 | [Light-Beam-2017/Self-driving-rides](https://github.com/Light-Beam-2017/Self-driving-rides) | `6e3722d` | no solver code (README, PDF or data only) |
 | [limpidorg/hashcode-one-pizza](https://github.com/limpidorg/hashcode-one-pizza) | `cc22f47` | no solver code (README, PDF or data only) |
 | [Linguisto/hashcode2022](https://github.com/Linguisto/hashcode2022) | `5c4b4fd` | only template/boilerplate code, no solver |
@@ -623,11 +691,14 @@ Repositories that were cloned for this collection but not added to any problem f
 | [Maya72/HashCode2019](https://github.com/Maya72/HashCode2019) | `ce37f62` | only template/boilerplate code, no solver |
 | [Mayanktan/Vehicle_Simulation](https://github.com/Mayanktan/Vehicle_Simulation) | `19bbbe3` | unrelated to Hash Code |
 | [medsedki/HashCode2018](https://github.com/medsedki/HashCode2018) | — | empty repository (no commits) |
+| [YahiaAshraf74/Mentorship-and-Teamwork-Hashcode-2022](https://github.com/YahiaAshraf74/Mentorship-and-Teamwork-Hashcode-2022) | `53b67c3` | not competitive: no mentoring, so contributors must already meet every required level |
+| [uran-lajci/mentorship-and-teamwork-validator](https://github.com/uran-lajci/mentorship-and-teamwork-validator) | `736b555` | not a solver: a validator that checks and scores submission files |
 | [mianmalifef6rud/rotolonicow](https://github.com/mianmalifef6rud/rotolonicow) | `3e424a8` | no solver code (README, PDF or data only) |
 | [mihalikv/hashcode2019](https://github.com/mihalikv/hashcode2019) | — | empty repository (no commits) |
 | [mikeyokeeffe/hashcode2020](https://github.com/mikeyokeeffe/hashcode2020) | `1537836` | no solver code (README, PDF or data only) |
 | [vrajashkr/MIL-HashCode2019](https://github.com/vrajashkr/MIL-HashCode2019) | `622bd22` | no solver code (a helper script for splitting ideas) |
 | [MillissaESi/BookScanning](https://github.com/MillissaESi/BookScanning) | — | empty repository (no commits) |
+| [Mirran64/Hashcode-2022](https://github.com/Mirran64/Hashcode-2022) | `834ae1e` | not competitive: its stored outputs score 52% of the top score on the official judge, far below the 95% keep rule |
 | [mishana/HashCode2020](https://github.com/mishana/HashCode2020) | `17245db` | no solver code (README, PDF or data only) |
 | [BoualemAsmaa/Module_1_Challenge](https://github.com/BoualemAsmaa/Module_1_Challenge) | `2df0297` | unrelated to Hash Code |
 | [montardon/hashcode2015](https://github.com/montardon/hashcode2015) | `7ae3cb4` | no solver code (README, PDF or data only) |
@@ -636,7 +707,9 @@ Repositories that were cloned for this collection but not added to any problem f
 | [MouMazumder/evenMorePizza](https://github.com/MouMazumder/evenMorePizza) | `e64f0aa` | no solver code (README, PDF or data only) |
 | [mridism/hashcode21](https://github.com/mridism/hashcode21) | `0643d98` | unfinished: no solution output |
 | [msylla01/hashcode2019](https://github.com/msylla01/hashcode2019) | — | empty repository (no commits) |
+| [Mu-selim/Google-Hashcode-2022](https://github.com/Mu-selim/Google-Hashcode-2022) | `9cf6440` | not competitive: its stored outputs score 57% of the top score on the official judge, far below the 95% keep rule |
 | [MuhammadMagdy98/Hashcode-2018](https://github.com/MuhammadMagdy98/Hashcode-2018) | `9927522` | no solver code (main.cpp is empty) |
+| [MuhammadSaadSiddique/HashCode2022](https://github.com/MuhammadSaadSiddique/HashCode2022) | `2fe5162` | not competitive: its stored outputs score 50% of the top score on the official judge, far below the 95% keep rule |
 | [pswitchy/Multimodal-Image-Retriever](https://github.com/pswitchy/Multimodal-Image-Retriever) | `448d99e` | unrelated to Hash Code |
 | [My-Coding-Competitions/Google-HashCode-2021](https://github.com/My-Coding-Competitions/Google-HashCode-2021) | `f2298fe` | no Traffic Signaling solver: the 2021 folder holds the team's 2020 book-scanning code with only the input list changed (the 2020 repo is collected under book_scanning) |
 | [cyrildewit/my-github-stars](https://github.com/cyrildewit/my-github-stars) | `6f19fbb` | unrelated to Hash Code |
@@ -650,6 +723,7 @@ Repositories that were cloned for this collection but not added to any problem f
 | [Namejess/GoogleHashCode2019](https://github.com/Namejess/GoogleHashCode2019) | `2f43b7b` | no solver code (README, PDF or data only) |
 | [nareshribabu/Nareshri-Pizza-Shop](https://github.com/nareshribabu/Nareshri-Pizza-Shop) | `fe16267` | unrelated to Hash Code |
 | [NarimaneHennouni/Hashcode2022](https://github.com/NarimaneHennouni/Hashcode2022) | — | empty repository (no commits) |
+| [nderousseaux/hashcode-2022-qualification](https://github.com/nderousseaux/hashcode-2022-qualification) | `614c00a` | not competitive: its stored outputs score 33% of the top score on the official judge, far below the 95% keep rule |
 | [TheSlimm/Netapsys-hashcode-2017](https://github.com/TheSlimm/Netapsys-hashcode-2017) | `13ab9aa` | only template/boilerplate code, no solver |
 | [arkantrust/network_architect](https://github.com/arkantrust/network_architect) | `ba9403e` | university course project (network design game), not a Hash Code solver |
 | [jaityron/new-pac-wiki](https://github.com/jaityron/new-pac-wiki) | `4cdd572` | unrelated to Hash Code |
@@ -658,6 +732,7 @@ Repositories that were cloned for this collection but not added to any problem f
 | [nicobarray/hashcode2016](https://github.com/nicobarray/hashcode2016) | `786d436` | no solver code (README, PDF or data only) |
 | [nicolas-legroux/HashCode2015-TestRound](https://github.com/nicolas-legroux/HashCode2015-TestRound) | `ed98653` | solves the Hash Code 2015 test round (ham pizza), which is not one of the archived problems |
 | [niewiemek/google-hashcode-2017](https://github.com/niewiemek/google-hashcode-2017) | `f543a42` | only template/boilerplate code, no solver |
+| [nihal5617/google-hashcode2022](https://github.com/nihal5617/google-hashcode2022) | `63287fc` | not competitive: its stored outputs score 37% of the top score on the official judge, far below the 95% keep rule |
 | [NijatHamid/Hashcode-2019](https://github.com/NijatHamid/Hashcode-2019) | `8d7720b` | duplicate of `ogtayhuseynov0-hashcode2019`: identical files at HEAD |
 | [KolaAdetola/Nile_GDSC_Entry_repo](https://github.com/KolaAdetola/Nile_GDSC_Entry_repo) | `aa7a0b6` | unrelated to Hash Code |
 | [ninagzn/hashcode](https://github.com/ninagzn/hashcode) | `f1ac762` | no solver code (README, PDF or data only) |
@@ -674,10 +749,12 @@ Repositories that were cloned for this collection but not added to any problem f
 | [ozanuslan/hashcode2020](https://github.com/ozanuslan/hashcode2020) | `8b6ae4d` | no solver code (README, PDF or data only) |
 | [szlaci83/paint](https://github.com/szlaci83/paint) | `b95bf1f` | solves the Hash Code 2016 practice problem (painting), which is not one of the archived problems |
 | [ParsiRamu/Namaste-React](https://github.com/ParsiRamu/Namaste-React) | `282ab82` | unrelated to Hash Code |
+| [parvg555/Hashcode-2022](https://github.com/parvg555/Hashcode-2022) | `d85c7cc` | not competitive: its stored outputs score 42% of the top score on the official judge, far below the 95% keep rule |
 | [patatezarbie/HashcodePizza](https://github.com/patatezarbie/HashcodePizza) | `dba591d` | no solver code (README, PDF or data only) |
 | [PaulBastide/hashcode2020](https://github.com/PaulBastide/hashcode2020) | — | empty repository (no commits) |
 | [PawelMahooana/Hashcode-2019](https://github.com/PawelMahooana/Hashcode-2019) | `edd0c79` | no solver code (README, PDF or data only) |
 | [PedroMiguelFMoreira/Hashcode2016](https://github.com/PedroMiguelFMoreira/Hashcode2016) | `ba3c797` | only code for the Hash Code 2016 practice problem (painting), which is not one of the archived problems |
+| [PelaezLink/HashCode2022](https://github.com/PelaezLink/HashCode2022) | `a3aa3cd` | not competitive: no mentoring, so contributors must already meet every required level |
 | [PencilSoft/Hashcode2016](https://github.com/PencilSoft/Hashcode2016) | — | empty repository (no commits) |
 | [sparuthi/performingrobots](https://github.com/sparuthi/performingrobots) | `fa73171` | unrelated to Hash Code |
 | [pes-innovation-lab/hashcode2021](https://github.com/pes-innovation-lab/hashcode2021) | `4071a5a` | unrelated to solving (a website for a Hash Code 2021 hub event) |
@@ -702,6 +779,7 @@ Repositories that were cloned for this collection but not added to any problem f
 | [prashantdhavale01/namaste-react](https://github.com/prashantdhavale01/namaste-react) | `11274d4` | unrelated to Hash Code |
 | [AugustNing/princeton-food](https://github.com/AugustNing/princeton-food) | `1649ec8` | unrelated to Hash Code |
 | [sakshivshetty/Product-Pitch](https://github.com/sakshivshetty/Product-Pitch) | `1711598` | unrelated to Hash Code |
+| [programmistik/HashCode2022](https://github.com/programmistik/HashCode2022) | `52f9802` | not competitive: its stored outputs score 44% of the top score on the official judge, far below the 95% keep rule |
 | [agruD07/ProjectShare](https://github.com/agruD07/ProjectShare) | `63507dc` | unrelated to Hash Code |
 | [Sammmy1911/PruebaRepaso](https://github.com/Sammmy1911/PruebaRepaso) | `a76a8d3` | unrelated to Hash Code |
 | [krock07/PS_interviewPrep](https://github.com/krock07/PS_interviewPrep) | `0869050` | unrelated to Hash Code |
@@ -721,6 +799,7 @@ Repositories that were cloned for this collection but not added to any problem f
 | [Rivendell-FQ/Hashcode2020](https://github.com/Rivendell-FQ/Hashcode2020) | `eed9aeb` | no solver code (the only file is empty) |
 | [Riyana6/hashcode-2019-pizza](https://github.com/Riyana6/hashcode-2019-pizza) | `5c78bfc` | no solver code (only reads the input) |
 | [Rogerio111/Rogerio](https://github.com/Rogerio111/Rogerio) | — | empty repository (no commits) |
+| [rohanailoni/HashCode-2022](https://github.com/rohanailoni/HashCode-2022) | `4cd7a86` | not competitive: its stored outputs score 37% of the top score on the official judge, far below the 95% keep rule (only its mentorship_and_teamwork part; the rest of the repository is kept elsewhere) |
 | [romocesar/Google_Hash_Code_2019](https://github.com/romocesar/Google_Hash_Code_2019) | `6dd3cd5` | no solver code (README, PDF or data only) |
 | [Roxside/Hashcode2022](https://github.com/Roxside/Hashcode2022) | `56e259c` | no source code (only compiled .class files) |
 | [rubanskiy/HashCode2019](https://github.com/rubanskiy/HashCode2019) | — | empty repository (no commits) |
@@ -730,7 +809,9 @@ Repositories that were cloned for this collection but not added to any problem f
 | [kalviumcommunity/S86-126-Nexus-Building_Smart_Mobile_Experiences_with_Flutter_Firebase-LeafLine](https://github.com/kalviumcommunity/S86-126-Nexus-Building_Smart_Mobile_Experiences_with_Flutter_Firebase-LeafLine) | `c4af5ff` | unrelated to Hash Code |
 | [sachinsoumya/Namaste-React](https://github.com/sachinsoumya/Namaste-React) | `8496a8a` | unrelated to Hash Code |
 | [sagi/hashcode](https://github.com/sagi/hashcode) | `51d5d49` | only template/boilerplate code, no solver |
+| [sagnik1511/hashcode_solutions](https://github.com/sagnik1511/hashcode_solutions) | `acdf29d` | not competitive: no mentoring, so contributors must already meet every required level |
 | [sahil1801/namaste-react](https://github.com/sahil1801/namaste-react) | `fbeeeba` | unrelated to Hash Code |
+| [SainteCroquette/hashcode2022](https://github.com/SainteCroquette/hashcode2022) | `14d33c5` | not competitive: its stored outputs score 66% of the top score on the official judge, far below the 95% keep rule |
 | [Samarth0409/Google-Hashcode-2022](https://github.com/Samarth0409/Google-Hashcode-2022) | `53a9414` | no solver code (README, PDF or data only) |
 | [Samotij/hashcode2017](https://github.com/Samotij/hashcode2017) | `f9408e4` | no solver code (README, PDF or data only) |
 | [sanduninduwara/hashcode2022](https://github.com/sanduninduwara/hashcode2022) | `3361a87` | only template/boilerplate code, no solver |
@@ -752,6 +833,7 @@ Repositories that were cloned for this collection but not added to any problem f
 | [SharonXal/HC2020](https://github.com/SharonXal/HC2020) | — | empty repository (no commits) |
 | [shemsd621/HashCode2022](https://github.com/shemsd621/HashCode2022) | `6338baa` | only template/boilerplate code, no solver |
 | [shiburaj/fjs-codes](https://github.com/shiburaj/fjs-codes) | `d243275` | unrelated to Hash Code |
+| [shrikant2001/Google-Hashcode-2022](https://github.com/shrikant2001/Google-Hashcode-2022) | `e3b9ea5` | not competitive: no mentoring, so contributors must already meet every required level |
 | [Shruthi1707/HashCode2020](https://github.com/Shruthi1707/HashCode2020) | `64b7e0d` | unrelated to Google Hash Code (a Tkinter link launcher) |
 | [ShubhDoshi/HashCode-2021](https://github.com/ShubhDoshi/HashCode-2021) | `70d1041` | no solver code (README, PDF or data only) |
 | [sihu/hashcode2020](https://github.com/sihu/hashcode2020) | — | empty repository (no commits) |
@@ -771,6 +853,8 @@ Repositories that were cloned for this collection but not added to any problem f
 | [Sshashank0743/hashcode2021](https://github.com/Sshashank0743/hashcode2021) | `8b4b57b` | no solver code (README, PDF or data only) |
 | [sparshsinha567/Step_class](https://github.com/sparshsinha567/Step_class) | `5f804e6` | unrelated to Hash Code |
 | [MONISH-M-S/Step_semester_3](https://github.com/MONISH-M-S/Step_semester_3) | `4842e92` | unrelated to Hash Code |
+| [strdr4605/hashcode-2022](https://github.com/strdr4605/hashcode-2022) | `bd055a6` | not competitive: no selection logic; it handles items in input order |
+| [StripedBanana/google-hashcode-2022](https://github.com/StripedBanana/google-hashcode-2022) | `efceebf` | not competitive: no mentoring, so contributors must already meet every required level |
 | [StVolodymyr/hashcode2017](https://github.com/StVolodymyr/hashcode2017) | — | empty repository (no commits) |
 | [Subhrajyoti-Dutta/HashCode2022](https://github.com/Subhrajyoti-Dutta/HashCode2022) | — | empty repository (no commits) |
 | [Sullebarger/HashCode2021-PRACTICE](https://github.com/Sullebarger/HashCode2021-PRACTICE) | — | empty repository (no commits) |
@@ -791,6 +875,7 @@ Repositories that were cloned for this collection but not added to any problem f
 | [bmosigisi/team-ngeuss](https://github.com/bmosigisi/team-ngeuss) | `5f68dde` | solves the Hash Code 2016 practice problem (painting), which is not one of the archived problems |
 | [WojciechO/TeamTurboHashcode2018](https://github.com/WojciechO/TeamTurboHashcode2018) | `19782f0` | no way to write a submission: write_output() is empty |
 | [TechHoruser/hashcode-2019](https://github.com/TechHoruser/hashcode-2019) | `cd9cca5` | only template/boilerplate code, no solver |
+| [Mstiekema/TechKechs](https://github.com/Mstiekema/TechKechs) | `31d353c` | not competitive: no mentoring, so contributors must already meet every required level |
 | [TemirlanKalim/hashcode2020](https://github.com/TemirlanKalim/hashcode2020) | `2c6735c` | no solver code (the only source file is empty) |
 | [opoplmm/test1](https://github.com/opoplmm/test1) | — | empty repository (no commits) |
 | [ajsantiagom10/TestProblem](https://github.com/ajsantiagom10/TestProblem) | `5eb4d36` | no solver code (a 10-byte stub) |
@@ -807,6 +892,7 @@ Repositories that were cloned for this collection but not added to any problem f
 | [TM11153431/HashCode2019](https://github.com/TM11153431/HashCode2019) | `1b9d472` | no solver code (README, PDF or data only) |
 | [SeanRiggs/TMNT-Theme-Site](https://github.com/SeanRiggs/TMNT-Theme-Site) | `0dcbe62` | unrelated to Hash Code |
 | [tnachtergaele/hashcode-2018-practice](https://github.com/tnachtergaele/hashcode-2018-practice) | `8b5c146` | only template/boilerplate code, no solver |
+| [tokudai-vs/Hashcode-2022](https://github.com/tokudai-vs/Hashcode-2022) | `077bf67` | not competitive: no mentoring, so contributors must already meet every required level |
 | [TomTimTam/HashCode2018](https://github.com/TomTimTam/HashCode2018) | — | empty repository (no commits) |
 | [CodingShanty/TrafficSignaling](https://github.com/CodingShanty/TrafficSignaling) | `15aa05d` | no solver code (an unfinished input parser) |
 | [TrungDinhT/hashcode2017](https://github.com/TrungDinhT/hashcode2017) | `abb3af1` | no solver code (README, PDF or data only) |
@@ -822,6 +908,7 @@ Repositories that were cloned for this collection but not added to any problem f
 | [Slaytech/Vector_Hashcode2016](https://github.com/Slaytech/Vector_Hashcode2016) | `4392879` | no solver code (README, PDF or data only) |
 | [newrelic/video-agent-android](https://github.com/newrelic/video-agent-android) | `ca7754f` | unrelated to Hash Code |
 | [niharika2k00/videohub-video-steaming-platform](https://github.com/niharika2k00/videohub-video-steaming-platform) | `ae1899e` | unrelated to Hash Code |
+| [VigHub/HashCode-2022](https://github.com/VigHub/HashCode-2022) | `426c43c` | not competitive: no mentoring, so contributors must already meet every required level (only its mentorship_and_teamwork part; the rest of the repository is kept elsewhere) |
 | [ViktorClaesson/HashCode2019](https://github.com/ViktorClaesson/HashCode2019) | `ec59bf6` | no solver code (README, PDF or data only) |
 | [vinzdef/hashcode2019](https://github.com/vinzdef/hashcode2019) | `c6dce03` | no solver code (README, PDF or data only) |
 | [vladan-jovicic/HashCodePractice2016](https://github.com/vladan-jovicic/HashCodePractice2016) | `f09d139` | solves the Hash Code 2016 practice problem (painting), which is not one of the archived problems |
@@ -837,10 +924,13 @@ Repositories that were cloned for this collection but not added to any problem f
 | [wmahad/hashcode2016](https://github.com/wmahad/hashcode2016) | `88df634` | no solver code (README, PDF or data only) |
 | [xantux/google-hashcode-2018](https://github.com/xantux/google-hashcode-2018) | — | empty repository (no commits) |
 | [xargil/hashcode2020](https://github.com/xargil/hashcode2020) | — | empty repository (no commits) |
+| [XavierDuthil/hashcode-2022](https://github.com/XavierDuthil/hashcode-2022) | `b1f3035` | not competitive: its stored outputs score 62% of the top score on the official judge, far below the 95% keep rule (only its mentorship_and_teamwork part; the rest of the repository is kept elsewhere) |
+| [yaman-694/Hashcode2022](https://github.com/yaman-694/Hashcode2022) | `1e83ebf` | not competitive: no mentoring, so contributors must already meet every required level |
 | [yaseminkiraz/google-hashcode-2020](https://github.com/yaseminkiraz/google-hashcode-2020) | `affc610` | no solver code (README, PDF or data only) |
 | [yevhene/hashcode2020-practice](https://github.com/yevhene/hashcode2020-practice) | `7a584ae` | no solver code (README, PDF or data only) |
 | [Yoganishanth/Hashcode-2022](https://github.com/Yoganishanth/Hashcode-2022) | — | empty repository (no commits) |
 | [YUETANG2/AskGemini](https://github.com/YUETANG2/AskGemini) | `5f34c24` | duplicate of `HassanZafar-2021-AskGemini`: identical files at HEAD |
 | [YvMohsin/Kaggle-dataset-download-colab](https://github.com/YvMohsin/Kaggle-dataset-download-colab) | `1da736f` | unrelated to Hash Code |
+| [Zeethx/HashCode-2022](https://github.com/Zeethx/HashCode-2022) | `f352e6a` | not competitive: no mentoring, so contributors must already meet every required level |
 | [zengzh6hang/rotolonicow](https://github.com/zengzh6hang/rotolonicow) | — | empty repository (no commits) |
 | [zoro666/Google_Hashcode](https://github.com/zoro666/Google_Hashcode) | `602d630` | no solver code (README, PDF or data only) |

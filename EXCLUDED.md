@@ -22,6 +22,7 @@ Repositories that were cloned for this collection but not added to any problem f
 | unfinished: no solution output | 3 |
 | no way to write a submission: it only prints its own score or statistics | 3 |
 | no solver code (only reads the input; solve() is empty) | 3 |
+| not competitive: its stored outputs score 75% of the top score on the official judge, far below the 95% keep rule | 2 |
 | not competitive: its stored outputs score 50% of the top score on the official judge, far below the 95% keep rule | 2 |
 | not competitive: its stored outputs score 65% of the top score on the official judge, far below the 95% keep rule | 2 |
 | not competitive: its stored outputs score 52% of the top score on the official judge, far below the 95% keep rule | 2 |
@@ -30,7 +31,6 @@ Repositories that were cloned for this collection but not added to any problem f
 | unrelated: pizza-ordering website | 2 |
 | no solver code (only reads and prints the input) (only its book_scanning part; the rest of the repository is kept elsewhere) | 2 |
 | no solver code (an unfinished input parser) | 2 |
-| not competitive: its stored outputs score 75% of the top score on the official judge, far below the 95% keep rule | 1 |
 | not competitive: its stored outputs score 40% of the top score on the official judge, far below the 95% keep rule | 1 |
 | not a solver: a score calculator for submission files | 1 |
 | not competitive: its stored outputs score 44% of the top score on the official judge, far below the 95% keep rule | 1 |
@@ -178,9 +178,12 @@ Repositories that were cloned for this collection but not added to any problem f
 | no solver code (only reads and prints the input) (only its traffic_signaling part; the rest of the repository is kept elsewhere) | 1 |
 | no solver code (only reads the input; process() is empty) | 1 |
 | no way to write a submission: nothing is ever written or printed (only its traffic_signaling part; the rest of the repository is kept elsewhere) | 1 |
+| no solver code: reads the input and hardcodes the example answer; nothing is written | 1 |
+| not a solver: a checker that reads an input and a submission and computes the score | 1 |
 | no solver code: only parses the input and prints debug values | 1 |
 | no solver code: only indexes the input | 1 |
 | not a solver: a validator that checks and scores submission files | 1 |
+| no solver code: only reads the input and prints the servers | 1 |
 | wrong problem: the only code is a One Pizza solver; it cannot produce a Mentorship and Teamwork submission | 1 |
 | not competitive: its stored outputs score 49% of the top score on the official judge, far below the 95% keep rule (only its mentorship_and_teamwork part; the rest of the repository is kept elsewhere) | 1 |
 | not competitive: its stored outputs score 57% of the top score on the official judge, far below the 95% keep rule | 1 |
@@ -188,6 +191,7 @@ Repositories that were cloned for this collection but not added to any problem f
 | not competitive: its stored outputs score 62% of the top score on the official judge, far below the 95% keep rule (only its mentorship_and_teamwork part; the rest of the repository is kept elsewhere) | 1 |
 | not competitive: its stored outputs score 76% of the top score on the official judge, far below the 95% keep rule (only its mentorship_and_teamwork part; the rest of the repository is kept elsewhere) | 1 |
 | not competitive: its stored outputs score 39% of the top score on the official judge, far below the 95% keep rule (only its mentorship_and_teamwork part; the rest of the repository is kept elsewhere) | 1 |
+| wrong problem: the code reads and solves Loon, not Optimize a Data Center | 1 |
 | no solver code: a template; the task is a TODO | 1 |
 | not competitive: its stored outputs score 37% of the top score on the official judge, far below the 95% keep rule (only its mentorship_and_teamwork part; the rest of the repository is kept elsewhere) | 1 |
 
@@ -267,6 +271,7 @@ Repositories that were cloned for this collection but not added to any problem f
 | [biharygergo/Hashcode2017](https://github.com/biharygergo/Hashcode2017) | `4956d93` | only template/boilerplate code, no solver |
 | `BingyuZhou-HashCode2021` (source URL not recorded) | — | no solver code (README, PDF or data only) |
 | [Bnanyingi/Hashcode2021](https://github.com/Bnanyingi/Hashcode2021) | `2716b7d` | unfinished: a 144-character notebook stub with no solver |
+| [BohdanOsadchyi/hashcode-2015](https://github.com/BohdanOsadchyi/hashcode-2015) | `3c2ba88` | no solver code: reads the input and hardcodes the example answer; nothing is written |
 | [skshamagarwal/Book-Scanning](https://github.com/skshamagarwal/Book-Scanning) | `9091071` | no way to write a submission: it only prints its own score or statistics |
 | [michelicious11/Book_scanning](https://github.com/michelicious11/Book_scanning) | `d7acaf2` | no solver code (main.py prints "hello world") |
 | [dogoyaro/books](https://github.com/dogoyaro/books) | — | empty repository (no commits) |
@@ -370,6 +375,7 @@ Repositories that were cloned for this collection but not added to any problem f
 | [doyinsolamiolaoye/Google-Hashcode-2021](https://github.com/doyinsolamiolaoye/Google-Hashcode-2021) | `701cee3` | no solver code (solve() returns an undefined variable) |
 | [NeerajHazarika/Google-Hashcode-2021](https://github.com/NeerajHazarika/Google-Hashcode-2021) | `61c4376` | no way to write a submission: nothing is ever written or printed |
 | [pierreavn/google-hashcode-archive](https://github.com/pierreavn/google-hashcode-archive) | `a156717` | the problem archive itself, not a solver |
+| [SnoopieWeb3/google-hashcode-data-center-optimization](https://github.com/SnoopieWeb3/google-hashcode-data-center-optimization) | `d406af1` | not competitive: its stored outputs score 75% of the top score on the official judge, far below the 95% keep rule |
 | [nik72619c/Google-HashCode-Qualifier](https://github.com/nik72619c/Google-HashCode-Qualifier) | `969ceba` | no way to write a submission: nothing is ever written or printed |
 | [PicoJr/google-hashcode-score-2022](https://github.com/PicoJr/google-hashcode-score-2022) | `7ff6aff` | not a solver: a score calculator for submission files |
 | [flaxcode/Google-hashcode-solutions](https://github.com/flaxcode/Google-hashcode-solutions) | `28f4370` | no solver code (README, PDF or data only) |
@@ -469,6 +475,7 @@ Repositories that were cloned for this collection but not added to any problem f
 | [xiao-hui-ux/HashCode-qualification-round-questions](https://github.com/xiao-hui-ux/HashCode-qualification-round-questions) | `136ea62` | no solver code (README, PDF or data only) |
 | [NotHawthorne/hashcode-sample](https://github.com/NotHawthorne/hashcode-sample) | `c52aaaf` | no solver code (a struct header and an uncompilable compare sketch) |
 | [rguiu/hashcode2014trial](https://github.com/rguiu/hashcode2014trial) | `7d94ac9` | solves the Hash Code 2014 trial round (painting), which is not one of the archived problems |
+| [jorpilo/HashCode2015-Checker](https://github.com/jorpilo/HashCode2015-Checker) | `40d1415` | not a solver: a checker that reads an input and a submission and computes the score |
 | [S-Alvanides/HashCode2016-GDGNE](https://github.com/S-Alvanides/HashCode2016-GDGNE) | `23f90b2` | no solver code (README, PDF or data only) |
 | [alessiobrozzi/HashCode2016](https://github.com/alessiobrozzi/HashCode2016) | `38966ef` | no solver code (Planner.java holds only comments) |
 | [benito1er/hashcode2016](https://github.com/benito1er/hashcode2016) | `908d3e2` | unfinished: only reads the input; nothing is written |
@@ -575,6 +582,7 @@ Repositories that were cloned for this collection but not added to any problem f
 | [nkakarla712/HashCode204Solution](https://github.com/nkakarla712/HashCode204Solution) | — | empty repository (no commits) |
 | [IKJYOT-53/Hashcode22-Mentorship-And-TeamWork](https://github.com/IKJYOT-53/Hashcode22-Mentorship-And-TeamWork) | `7300d1c` | no solver code (README, PDF or data only) |
 | [wl-seclin-hashcode/hashcode3](https://github.com/wl-seclin-hashcode/hashcode3) | `95cf413` | solves the Hash Code 2015 test round (ham pizza), which is not one of the archived problems |
+| [kuzmichevdima/hashcode_2015_qual](https://github.com/kuzmichevdima/hashcode_2015_qual) | `8fdccd9` | wrong problem: the code reads and solves Loon, not Optimize a Data Center |
 | [estevE11/hashcode_2016_quali](https://github.com/estevE11/hashcode_2016_quali) | `ca6061d` | no solver code (only reads the input; get_commands() is empty) |
 | [kelvinchumbe/Hashcode_2017_Qualification_Round](https://github.com/kelvinchumbe/Hashcode_2017_Qualification_Round) | `bfae6d6` | no solver code (only reads and prints the input) |
 | [rciorba/hashcode_2017](https://github.com/rciorba/hashcode_2017) | `47f2ab3` | no solver code (only reads and prints the input) |
@@ -851,6 +859,7 @@ Repositories that were cloned for this collection but not added to any problem f
 | [Akshat-Vashisht/spring-microservices-poc](https://github.com/Akshat-Vashisht/spring-microservices-poc) | `7cf960c` | unrelated: video-streaming microservices demo |
 | [mokhtar6847/Springboot-mobile-redis](https://github.com/mokhtar6847/Springboot-mobile-redis) | `18d7adc` | unrelated to Hash Code |
 | [Sshashank0743/hashcode2021](https://github.com/Sshashank0743/hashcode2021) | `8b4b57b` | no solver code (README, PDF or data only) |
+| [stefangmarx/Hashcode2015](https://github.com/stefangmarx/Hashcode2015) | `4e8f8e2` | no solver code: only reads the input and prints the servers |
 | [sparshsinha567/Step_class](https://github.com/sparshsinha567/Step_class) | `5f804e6` | unrelated to Hash Code |
 | [MONISH-M-S/Step_semester_3](https://github.com/MONISH-M-S/Step_semester_3) | `4842e92` | unrelated to Hash Code |
 | [strdr4605/hashcode-2022](https://github.com/strdr4605/hashcode-2022) | `bd055a6` | not competitive: no selection logic; it handles items in input order |

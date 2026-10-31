@@ -5,7 +5,7 @@ Number of solvers collected and kept for each problem, in contest order. A `-` m
 | Problem | Collected | Kept |
 |---|---:|---:|
 | [Street View Routing](street_view_routing/) (2014, final) | 18 | 2 |
-| [Optimize a Data Center](optimize_a_data_center/) (2015, qualification) | 59 | - |
+| [Optimize a Data Center](optimize_a_data_center/) (2015, qualification) | 54 | 4 |
 | [Loon](loon/) (2015, final) | 28 | - |
 | [Delivery](delivery/) (2016, qualification) | 162 | - |
 | [Satellites](satellites/) (2016, final) | 15 | - |
@@ -26,4 +26,4 @@ Number of solvers collected and kept for each problem, in contest order. A `-` m
 | [Mentorship and Teamwork](mentorship_and_teamwork/) (2022, qualification) | 196 | 2 |
 | [Santa Tracker](santa_tracker/) (2022, final) | 8 | 2 |
 
-Collected counts are repositories. They leave out repositories found not to be solvers and exact duplicates, which are listed in [EXCLUDED.md](EXCLUDED.md) and in each problem's README. For Software Engineering at Scale, the 4 kept solvers come from 3 of the 6 repositories, because `Loicyeu` provides two of them. For Compiling Google, the 3 kept solvers come from 2 of the 12 repositories, because `LarsAstrom` provides two of them. For Street View Routing, one of the 2 kept solvers is a single program with four modes. For City Plan, the 2 kept solvers both come from `mihai-bontea`, 1 of the 13 repositories.
+Collected counts are repositories. They leave out repositories found not to be solvers and exact duplicates, which are listed in [EXCLUDED.md](EXCLUDED.md) and in each problem's README. For Software Engineering at Scale, the 4 kept solvers come from 3 of the 6 repositories, because `Loicyeu` provides two of them. For Compiling Google, the 3 kept solvers come from 2 of the 12 repositories, because `LarsAstrom` provides two of them. For Street View Routing, one of the 2 kept solvers is a single program with four modes. For City Plan, the 2 kept solvers both come from `mihai-bontea`, 1 of the 13 repositories. For Optimize a Data Center, 3 more repositories stay in the folder because they need a license ([LICENSED_SOLVERS.md](LICENSED_SOLVERS.md)).

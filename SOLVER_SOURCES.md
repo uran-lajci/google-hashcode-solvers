@@ -2,7 +2,7 @@
 
 Links to every solver repository found for each problem, before any solver was analyzed or removed. Problems are in contest order. A repository that covers several problems appears under each of them.
 
-*Collected* repositories were imported into the problem folder. Only Street View Routing, City Plan, Compiling Google, Assembling Smartphones, Software Engineering at Scale, Mentorship and Teamwork and Santa Tracker have been through selection so far, so they are the only problems with repositories marked *not kept*. *Found but not collected* lists duplicates of a collected solver and repositories with no usable solver that the problem's README attributes to that problem. Repositories that were rejected without being attributed to a problem are in [EXCLUDED.md](EXCLUDED.md).
+*Collected* repositories were imported into the problem folder. Only Street View Routing, Optimize a Data Center, City Plan, Compiling Google, Assembling Smartphones, Software Engineering at Scale, Mentorship and Teamwork and Santa Tracker have been through selection so far, so they are the only problems with repositories marked *not kept*. *Found but not collected* lists duplicates of a collected solver and repositories with no usable solver that the problem's README attributes to that problem. Repositories that were rejected without being attributed to a problem are in [EXCLUDED.md](EXCLUDED.md).
 
 | Problem | Contest | Collected | Found but not collected |
 |---|---|---:|---:|
@@ -60,66 +60,66 @@ Links to every solver repository found for each problem, before any solver was a
 
 ### Collected (60)
 
-- [a14n/hashcode2015](https://github.com/a14n/hashcode2015)
-- [abderraza8k/hashcode](https://github.com/abderraza8k/hashcode)
-- [af83/hashcode-2015](https://github.com/af83/hashcode-2015)
-- [Antoinephi/hashcode2015](https://github.com/Antoinephi/hashcode2015)
-- [antonio-ramadas/DataCenter](https://github.com/antonio-ramadas/DataCenter)
-- [Awen23/Hashcode-Practice](https://github.com/Awen23/Hashcode-Practice)
-- [bearojas/RP-Optimize-a-data-center](https://github.com/bearojas/RP-Optimize-a-data-center)
-- [BohdanOsadchyi/hashcode-2015](https://github.com/BohdanOsadchyi/hashcode-2015)
-- [brochape/HashCode2015](https://github.com/brochape/HashCode2015)
-- [cedricbastin/HashCode2015](https://github.com/cedricbastin/HashCode2015)
-- [ChickenWingsHashCode/hashcode2015](https://github.com/ChickenWingsHashCode/hashcode2015)
-- [cmercier/hashcode](https://github.com/cmercier/hashcode)
-- [cptanalatriste/data-center-optimization](https://github.com/cptanalatriste/data-center-optimization)
-- [Dewep/HashCode2015-qualificationround](https://github.com/Dewep/HashCode2015-qualificationround)
-- [Diegoriggle77/hashcode2017](https://github.com/Diegoriggle77/hashcode2017)
-- [EduRibeiro00/hashcode-training](https://github.com/EduRibeiro00/hashcode-training)
-- [erichoco/colonel](https://github.com/erichoco/colonel)
-- [evilz-agent/evilz-agent-Hashcode2014](https://github.com/evilz-agent/evilz-agent-Hashcode2014)
-- [evilz-agent/Hashcode2015](https://github.com/evilz-agent/Hashcode2015)
+- [a14n/hashcode2015](https://github.com/a14n/hashcode2015) — not kept after benchmarking
+- [abderraza8k/hashcode](https://github.com/abderraza8k/hashcode) — not kept after benchmarking
+- [af83/hashcode-2015](https://github.com/af83/hashcode-2015) — not kept after benchmarking
+- [Antoinephi/hashcode2015](https://github.com/Antoinephi/hashcode2015) — not kept after benchmarking
+- [antonio-ramadas/DataCenter](https://github.com/antonio-ramadas/DataCenter) — not kept after benchmarking
+- [Awen23/Hashcode-Practice](https://github.com/Awen23/Hashcode-Practice) — not kept after benchmarking
+- [bearojas/RP-Optimize-a-data-center](https://github.com/bearojas/RP-Optimize-a-data-center) — not kept after benchmarking
+- [BohdanOsadchyi/hashcode-2015](https://github.com/BohdanOsadchyi/hashcode-2015) — not kept after benchmarking
+- [brochape/HashCode2015](https://github.com/brochape/HashCode2015) — not kept after benchmarking
+- [cedricbastin/HashCode2015](https://github.com/cedricbastin/HashCode2015) — not kept after benchmarking
+- [ChickenWingsHashCode/hashcode2015](https://github.com/ChickenWingsHashCode/hashcode2015) — not kept after benchmarking
+- [cmercier/hashcode](https://github.com/cmercier/hashcode) — not kept after benchmarking
+- [cptanalatriste/data-center-optimization](https://github.com/cptanalatriste/data-center-optimization) — not kept after benchmarking
+- [Dewep/HashCode2015-qualificationround](https://github.com/Dewep/HashCode2015-qualificationround) — not kept after benchmarking
+- [Diegoriggle77/hashcode2017](https://github.com/Diegoriggle77/hashcode2017) — not kept after benchmarking
+- [EduRibeiro00/hashcode-training](https://github.com/EduRibeiro00/hashcode-training) — not kept after benchmarking
+- [erichoco/colonel](https://github.com/erichoco/colonel) — not kept after benchmarking
+- [evilz-agent/evilz-agent-Hashcode2014](https://github.com/evilz-agent/evilz-agent-Hashcode2014) — not kept after benchmarking
+- [evilz-agent/Hashcode2015](https://github.com/evilz-agent/Hashcode2015) — not kept after benchmarking
 - [exo404/OptimizeDatacenter_Hashcode2015](https://github.com/exo404/OptimizeDatacenter_Hashcode2015)
-- [flashcode/google-hashcode-2015](https://github.com/flashcode/google-hashcode-2015)
-- [Gophing-Around/qualification-round-2015](https://github.com/Gophing-Around/qualification-round-2015)
-- [Groscheri/hashcode-2015](https://github.com/Groscheri/hashcode-2015)
-- [guilbill/hashcode2015](https://github.com/guilbill/hashcode2015)
-- [HackathonFu/Hackathon2017](https://github.com/HackathonFu/Hackathon2017)
-- [houghstc/hashcode2015](https://github.com/houghstc/hashcode2015)
-- [hugopetiot/hashcode2014](https://github.com/hugopetiot/hashcode2014)
-- [islam-aymann/google-hash-code-optimize-a-data-center](https://github.com/islam-aymann/google-hash-code-optimize-a-data-center)
-- [jdmichaud/hashcode2015.1](https://github.com/jdmichaud/hashcode2015.1)
-- [jmrCalvo/Optimize-a-Data-Center](https://github.com/jmrCalvo/Optimize-a-Data-Center)
-- [joelklint/hashcode-2015](https://github.com/joelklint/hashcode-2015)
-- [JohannGameDev/FU-Hashcode2016Training](https://github.com/JohannGameDev/FU-Hashcode2016Training)
-- [jorpilo/HashCode2015-Checker](https://github.com/jorpilo/HashCode2015-Checker)
+- [flashcode/google-hashcode-2015](https://github.com/flashcode/google-hashcode-2015) — not kept after benchmarking
+- [Gophing-Around/qualification-round-2015](https://github.com/Gophing-Around/qualification-round-2015) — not kept after benchmarking
+- [Groscheri/hashcode-2015](https://github.com/Groscheri/hashcode-2015) — not kept after benchmarking
+- [guilbill/hashcode2015](https://github.com/guilbill/hashcode2015) — not kept after benchmarking
+- [HackathonFu/Hackathon2017](https://github.com/HackathonFu/Hackathon2017) — not kept after benchmarking
+- [houghstc/hashcode2015](https://github.com/houghstc/hashcode2015) — not kept after benchmarking
+- [hugopetiot/hashcode2014](https://github.com/hugopetiot/hashcode2014) — not kept after benchmarking
+- [islam-aymann/google-hash-code-optimize-a-data-center](https://github.com/islam-aymann/google-hash-code-optimize-a-data-center) — not kept after benchmarking
+- [jdmichaud/hashcode2015.1](https://github.com/jdmichaud/hashcode2015.1) — not kept after benchmarking
+- [jmrCalvo/Optimize-a-Data-Center](https://github.com/jmrCalvo/Optimize-a-Data-Center) — not kept after benchmarking
+- [joelklint/hashcode-2015](https://github.com/joelklint/hashcode-2015) — not kept after benchmarking
+- [JohannGameDev/FU-Hashcode2016Training](https://github.com/JohannGameDev/FU-Hashcode2016Training) — not kept after benchmarking
+- [jorpilo/HashCode2015-Checker](https://github.com/jorpilo/HashCode2015-Checker) — not kept after benchmarking
 - [jp172/google-hash-code-solutions](https://github.com/jp172/google-hash-code-solutions)
 - [kobr4/g_hashcodes](https://github.com/kobr4/g_hashcodes)
-- [kuzmichevdima/hashcode_2015_qual](https://github.com/kuzmichevdima/hashcode_2015_qual)
-- [Lefteris008/GoogleHashCodePast](https://github.com/Lefteris008/GoogleHashCodePast)
-- [mattias-lundell/hashcode-2015-qualification](https://github.com/mattias-lundell/hashcode-2015-qualification)
-- [mmarouen/hascode](https://github.com/mmarouen/hascode)
-- [mtrellet/HashCode2015](https://github.com/mtrellet/HashCode2015)
+- [kuzmichevdima/hashcode_2015_qual](https://github.com/kuzmichevdima/hashcode_2015_qual) — not kept after benchmarking
+- [Lefteris008/GoogleHashCodePast](https://github.com/Lefteris008/GoogleHashCodePast) — not kept after benchmarking
+- [mattias-lundell/hashcode-2015-qualification](https://github.com/mattias-lundell/hashcode-2015-qualification) — not kept after benchmarking
+- [mmarouen/hascode](https://github.com/mmarouen/hascode) — not kept after benchmarking
+- [mtrellet/HashCode2015](https://github.com/mtrellet/HashCode2015) — not kept after benchmarking
 - [nicolas-legroux/HashCode2015-QualificationRound](https://github.com/nicolas-legroux/HashCode2015-QualificationRound)
-- [nicomev/hashcode2015](https://github.com/nicomev/hashcode2015)
-- [nsvir/hashcode](https://github.com/nsvir/hashcode)
+- [nicomev/hashcode2015](https://github.com/nicomev/hashcode2015) — not kept after benchmarking
+- [nsvir/hashcode](https://github.com/nsvir/hashcode) — not kept after benchmarking
 - [phlalx/hashcode-2015](https://github.com/phlalx/hashcode-2015)
-- [PierreLvx/hashcode-2015](https://github.com/PierreLvx/hashcode-2015)
-- [Richard-Degenne/Hashcode-15](https://github.com/Richard-Degenne/Hashcode-15)
-- [rpicout/Optimize-a-Data-Center](https://github.com/rpicout/Optimize-a-Data-Center)
-- [Sanket-HP/Optimize_a_data_center_Google_Hash-Code_2015](https://github.com/Sanket-HP/Optimize_a_data_center_Google_Hash-Code_2015)
-- [sebysr/google-hashcode-2015](https://github.com/sebysr/google-hashcode-2015)
-- [SnoopieWeb3/google-hashcode-data-center-optimization](https://github.com/SnoopieWeb3/google-hashcode-data-center-optimization)
-- [stefangmarx/Hashcode2015](https://github.com/stefangmarx/Hashcode2015)
+- [PierreLvx/hashcode-2015](https://github.com/PierreLvx/hashcode-2015) — not kept after benchmarking
+- [Richard-Degenne/Hashcode-15](https://github.com/Richard-Degenne/Hashcode-15) — not kept after benchmarking
+- [rpicout/Optimize-a-Data-Center](https://github.com/rpicout/Optimize-a-Data-Center) — not kept after benchmarking
+- [Sanket-HP/Optimize_a_data_center_Google_Hash-Code_2015](https://github.com/Sanket-HP/Optimize_a_data_center_Google_Hash-Code_2015) — not kept after benchmarking
+- [sebysr/google-hashcode-2015](https://github.com/sebysr/google-hashcode-2015) — not kept after benchmarking
+- [SnoopieWeb3/google-hashcode-data-center-optimization](https://github.com/SnoopieWeb3/google-hashcode-data-center-optimization) — not kept after benchmarking
+- [stefangmarx/Hashcode2015](https://github.com/stefangmarx/Hashcode2015) — not kept after benchmarking
 - [stoman/HashCode2017Warmup](https://github.com/stoman/HashCode2017Warmup)
-- [trampfox/hashcode-datacenter-2015](https://github.com/trampfox/hashcode-datacenter-2015)
-- [valenca/hashcode16](https://github.com/valenca/hashcode16)
-- [vbarthel-fr/hashcodeparis-2015](https://github.com/vbarthel-fr/hashcodeparis-2015)
-- [vikingeff/hashcode](https://github.com/vikingeff/hashcode)
+- [trampfox/hashcode-datacenter-2015](https://github.com/trampfox/hashcode-datacenter-2015) — not kept after benchmarking
+- [valenca/hashcode16](https://github.com/valenca/hashcode16) — not kept after benchmarking
+- [vbarthel-fr/hashcodeparis-2015](https://github.com/vbarthel-fr/hashcodeparis-2015) — not kept after benchmarking
+- [vikingeff/hashcode](https://github.com/vikingeff/hashcode) — not kept after benchmarking
 - [vilelabruno/hashcodeDataCenterOptmization](https://github.com/vilelabruno/hashcodeDataCenterOptmization)
-- [WhiteShadowHashCode2015/HashCode2015](https://github.com/WhiteShadowHashCode2015/HashCode2015)
-- [ydubernet/HashCode_2015](https://github.com/ydubernet/HashCode_2015)
-- [zorun/hashcode2015](https://github.com/zorun/hashcode2015)
+- [WhiteShadowHashCode2015/HashCode2015](https://github.com/WhiteShadowHashCode2015/HashCode2015) — not kept after benchmarking
+- [ydubernet/HashCode_2015](https://github.com/ydubernet/HashCode_2015) — not kept after benchmarking
+- [zorun/hashcode2015](https://github.com/zorun/hashcode2015) — not kept after benchmarking
 
 ## Loon
 

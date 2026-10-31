@@ -13,6 +13,12 @@ Best score per instance for the problems benchmarked so far. *Open-source solver
 |---|---:|---:|
 | `hashcode_2014_final_round` | 1,930,138 | 1,923,588 |
 
+### [Optimize a Data Center](optimize_a_data_center/) (Hash Code 2015, qualification round)
+
+| Instance | Best score of the open-source solvers | Best score in the competition |
+|---|---:|---:|
+| `hashcode_2015_qualification_round` | 400 | 407 |
+
 ### [City Plan](city_plan/) (Hash Code 2018, final round)
 
 | Instance | Best score of the open-source solvers | Best score in the competition |

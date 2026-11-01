@@ -2,7 +2,7 @@
 
 Links to every solver repository found for each problem, before any solver was analyzed or removed. Problems are in contest order. A repository that covers several problems appears under each of them.
 
-*Collected* repositories were imported into the problem folder. Only Street View Routing, Optimize a Data Center, Loon, Satellites, City Plan, Compiling Google, Assembling Smartphones, Software Engineering at Scale, Mentorship and Teamwork and Santa Tracker have been through selection so far, so they are the only problems with repositories marked *not kept*. *Found but not collected* lists duplicates of a collected solver and repositories with no usable solver that the problem's README attributes to that problem. Repositories that were rejected without being attributed to a problem are in [EXCLUDED.md](EXCLUDED.md).
+*Collected* repositories were imported into the problem folder. Only Street View Routing, Optimize a Data Center, Loon, Satellites, Router Placement, City Plan, Compiling Google, Assembling Smartphones, Software Engineering at Scale, Mentorship and Teamwork and Santa Tracker have been through selection so far, so they are the only problems with repositories marked *not kept*. *Found but not collected* lists duplicates of a collected solver and repositories with no usable solver that the problem's README attributes to that problem. Repositories that were rejected without being attributed to a problem are in [EXCLUDED.md](EXCLUDED.md).
 
 | Problem | Contest | Collected | Found but not collected |
 |---|---|---:|---:|
@@ -1163,31 +1163,31 @@ Links to every solver repository found for each problem, before any solver was a
 
 ### Collected (25)
 
-- [03xyhrytsiv/router_placement_hashcode2017](https://github.com/03xyhrytsiv/router_placement_hashcode2017)
+- [03xyhrytsiv/router_placement_hashcode2017](https://github.com/03xyhrytsiv/router_placement_hashcode2017) — not kept after benchmarking
 - [AlexeyZhuravlev/hashcode-finals-2017](https://github.com/AlexeyZhuravlev/hashcode-finals-2017)
 - [amadoukane96/Google-HashCode-2017](https://github.com/amadoukane96/Google-HashCode-2017)
-- [AntoineMrj/google-hashcode-2017](https://github.com/AntoineMrj/google-hashcode-2017)
+- [AntoineMrj/google-hashcode-2017](https://github.com/AntoineMrj/google-hashcode-2017) — not kept after benchmarking
 - [antonin-arquey/polyhash2017](https://github.com/antonin-arquey/polyhash2017)
-- [DanieleMaisto/hashcode2018](https://github.com/DanieleMaisto/hashcode2018)
-- [HuzaifaIrfan-DSA/hashcode-2022-practice-round](https://github.com/HuzaifaIrfan-DSA/hashcode-2022-practice-round)
-- [Hyperion2023/Router_Placement](https://github.com/Hyperion2023/Router_Placement)
-- [lefreud/hashcode-2017](https://github.com/lefreud/hashcode-2017)
+- [DanieleMaisto/hashcode2018](https://github.com/DanieleMaisto/hashcode2018) — not kept after benchmarking
+- [HuzaifaIrfan-DSA/hashcode-2022-practice-round](https://github.com/HuzaifaIrfan-DSA/hashcode-2022-practice-round) — not kept after benchmarking
+- [Hyperion2023/Router_Placement](https://github.com/Hyperion2023/Router_Placement) — not kept after benchmarking
+- [lefreud/hashcode-2017](https://github.com/lefreud/hashcode-2017) — not kept after benchmarking
 - [Matsoy/hashcode2017-finalRound](https://github.com/Matsoy/hashcode2017-finalRound)
 - [matteojug/hashcode17_finals](https://github.com/matteojug/hashcode17_finals)
 - [mihai-bontea/Google-Hash-Code-2017-Final-Round](https://github.com/mihai-bontea/Google-Hash-Code-2017-Final-Round)
-- [Nicolas-Ding/HashCodeFinals](https://github.com/Nicolas-Ding/HashCodeFinals)
+- [Nicolas-Ding/HashCodeFinals](https://github.com/Nicolas-Ding/HashCodeFinals) — not kept after benchmarking
 - [ottins/hashcode2017-finalround](https://github.com/ottins/hashcode2017-finalround)
-- [PetarV-/HashCode2017Finals](https://github.com/PetarV-/HashCode2017Finals)
-- [plietar/hashcode](https://github.com/plietar/hashcode)
-- [PoddukinVladimir/RouterPlacement](https://github.com/PoddukinVladimir/RouterPlacement)
-- [racoelhosilva/IA_routerPlacement](https://github.com/racoelhosilva/IA_routerPlacement)
-- [ricardoyang00/AI-Google-router-placement-optimization](https://github.com/ricardoyang00/AI-Google-router-placement-optimization)
+- [PetarV-/HashCode2017Finals](https://github.com/PetarV-/HashCode2017Finals) — not kept after benchmarking
+- [plietar/hashcode](https://github.com/plietar/hashcode) — not kept after benchmarking
+- [PoddukinVladimir/RouterPlacement](https://github.com/PoddukinVladimir/RouterPlacement) — not kept after benchmarking
+- [racoelhosilva/IA_routerPlacement](https://github.com/racoelhosilva/IA_routerPlacement) — not kept after benchmarking
+- [ricardoyang00/AI-Google-router-placement-optimization](https://github.com/ricardoyang00/AI-Google-router-placement-optimization) — not kept after benchmarking
 - [SebBerlioux/PolyHash](https://github.com/SebBerlioux/PolyHash)
 - [SimylinK/Google-HashCode-2017](https://github.com/SimylinK/Google-HashCode-2017)
-- [stoman/HashCode2017Finals](https://github.com/stoman/HashCode2017Finals)
-- [svalera99/RouterPlacement](https://github.com/svalera99/RouterPlacement)
-- [tardisman5197/hash-code-2017](https://github.com/tardisman5197/hash-code-2017)
-- [tasosxak/Router-Placement](https://github.com/tasosxak/Router-Placement)
+- [stoman/HashCode2017Finals](https://github.com/stoman/HashCode2017Finals) — not kept after benchmarking
+- [svalera99/RouterPlacement](https://github.com/svalera99/RouterPlacement) — not kept after benchmarking
+- [tardisman5197/hash-code-2017](https://github.com/tardisman5197/hash-code-2017) — not kept after benchmarking
+- [tasosxak/Router-Placement](https://github.com/tasosxak/Router-Placement) — not kept after benchmarking
 
 ### Found but not collected (7)
 

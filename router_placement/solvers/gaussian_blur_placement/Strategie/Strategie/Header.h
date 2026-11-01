@@ -1,0 +1,17 @@
+#pragma once
+#include <iostream>
+#include <sstream>
+#include <fstream>
+#include <string>
+#include <exception>
+#include <vector>
+#include <algorithm>
+#include <random>
+#include <ctime>
+#include <cmath>
+#include <cstdio>
+#include <numeric>
+#include <cassert>
+#include <stdint.h>
+#include <time.h>
+#include <omp.h>

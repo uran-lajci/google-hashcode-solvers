@@ -11,7 +11,7 @@ Number of solvers collected and kept for each problem, in contest order. A `-` m
 | [Satellites](satellites/) (2016, final) | 15 | 2 |
 | [Pizza](pizza/) (2017, practice) | 326 | - |
 | [Streaming Videos](streaming_videos/) (2017, qualification) | 363 | - |
-| [Router Placement](router_placement/) (2017, final) | 25 | - |
+| [Router Placement](router_placement/) (2017, final) | 25 | 9 |
 | [Self-driving Rides](self_driving_rides/) (2018, qualification) | 526 | - |
 | [City Plan](city_plan/) (2018, final) | 13 | 2 |
 | [Photo Slideshow](photo_slideshow/) (2019, qualification) | 539 | - |

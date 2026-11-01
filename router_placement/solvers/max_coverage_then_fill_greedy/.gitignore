@@ -1,0 +1,18 @@
+# Visual Studio #
+#################
+x64
+Debug
+googleHashCode2017.VC.db
+googleHashCode2017.VC.VC.db
+googleHashCode2017.sln
+googleHashCode2017.VC.VC.opendb
+.vs/
+*.sln.docstates
+
+# Output
+outputFile.out
+
+# CLion
+cmake-build-debug/
+.idea/
+CMakeLists.txt

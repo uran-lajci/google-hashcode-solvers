@@ -35,6 +35,16 @@ Best score per instance for the problems benchmarked so far. *Open-source solver
 | `overlap` | 32,857 | not published |
 | **Total** | **248,302** | **1,017,218** |
 
+### [Router Placement](router_placement/) (Hash Code 2017, final round)
+
+| Instance | Best score of the open-source solvers | Best score in the competition |
+|---|---:|---:|
+| `charleston_road` | 21,962,533 | not published |
+| `rue_de_londres` | 58,301,019 | not published |
+| `opera` | 171,942,099 | not published |
+| `lets_go_higher` | 290,201,347 | not published |
+| **Total** | **542,406,998** | **548,065,447** |
+
 ### [City Plan](city_plan/) (Hash Code 2018, final round)
 
 | Instance | Best score of the open-source solvers | Best score in the competition |

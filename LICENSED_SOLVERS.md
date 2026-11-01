@@ -32,7 +32,7 @@ Only the licensed program is skipped. The other programs are benchmarked as usua
 |---|---|---|---|---|---:|
 | Optimize a Data Center | [`OptimizeDatacenter_Hashcode2015_exo404`](optimize_a_data_center/OptimizeDatacenter_Hashcode2015_exo404/) | Gurobi | `test/ottima.py` | `eurGreedy.py` | — |
 | Pizza | [`hashcode_pizza_2018_yoann-dufresne`](pizza/hashcode_pizza_2018_yoann-dufresne/) | Gurobi | `solver_gurobi.py` | `solver_hill_climbing.py`, `solver_random.py` | — |
-| Router Placement | [`hashcode17_finals_matteojug`](router_placement/hashcode17_finals_matteojug/) | CPLEX | `cplex/test.cpp` | `main.cpp` | 99.3% |
+| Router Placement | [`scored_greedy_with_mst_backbone`](router_placement/solvers/scored_greedy_with_mst_backbone/) (`hashcode17_finals_matteojug`) | CPLEX | `cplex/test.cpp` | `main.cpp` | 99.3% |
 | Self-driving Rides | [`hashCodeQualif_bitqr`](self_driving_rides/hashCodeQualif_bitqr/) | CPLEX | `ExactModel.java` | `Main.java` | — |
 | Photo Slideshow | [`RP_HashCode_2019_lucasschott`](photo_slideshow/RP_HashCode_2019_lucasschott/) | Gurobi | `Ilp.cpp` | `Annealing.cpp`, `Greedy.cpp`, `Stoch_descent.cpp` | — |
 | More Pizza | [`PLI_vs_GA-Hashcode2020_giuseppe-maglione`](more_pizza/PLI_vs_GA-Hashcode2020_giuseppe-maglione/) | Gurobi | `pli_solution.py` | `genetic_solution.py` | — |

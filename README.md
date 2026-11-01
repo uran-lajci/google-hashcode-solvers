@@ -19,6 +19,12 @@ Best score per instance for the problems benchmarked so far. *Open-source solver
 |---|---:|---:|
 | `hashcode_2015_qualification_round` | 400 | 407 |
 
+### [Loon](loon/) (Hash Code 2015, final round)
+
+| Instance | Best score of the open-source solvers | Best score in the competition |
+|---|---:|---:|
+| `hashcode_2015_final_round` | 683,482 | 700,913 |
+
 ### [City Plan](city_plan/) (Hash Code 2018, final round)
 
 | Instance | Best score of the open-source solvers | Best score in the competition |

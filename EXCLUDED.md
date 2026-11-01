@@ -39,8 +39,10 @@ Repositories that were cloned for this collection but not added to any problem f
 | not competitive: its stored outputs score 66% of the top score on the official judge, far below the 95% keep rule | 1 |
 | not competitive: its stored outputs score 60% of the top score on the official judge, far below the 95% keep rule | 1 |
 | no solver code: only reads and prints the input | 1 |
+| not competitive: its stored outputs score 22% of the top score on the official judge, far below the 95% keep rule | 1 |
 | not a solver: a referee and insights reporter for submission files | 1 |
 | not competitive: its stored outputs score 37% of the top score on the official judge, far below the 95% keep rule | 1 |
+| not competitive: its stored outputs score 27% of the top score on the official judge, far below the 95% keep rule | 1 |
 | not competitive: its stored outputs score 42% of the top score on the official judge, far below the 95% keep rule | 1 |
 | unrelated to Hash Code (Android geofencing app) | 1 |
 | no Hash Code solver (a textbook lateness-scheduling script plus a committed Python install) | 1 |
@@ -179,8 +181,10 @@ Repositories that were cloned for this collection but not added to any problem f
 | no solver code (only reads the input; process() is empty) | 1 |
 | no way to write a submission: nothing is ever written or printed (only its traffic_signaling part; the rest of the repository is kept elsewhere) | 1 |
 | no solver code: reads the input and hardcodes the example answer; nothing is written | 1 |
+| no way to write a submission: it only prints its own score (only its loon part; the rest of the repository is kept elsewhere) | 1 |
 | not a solver: a checker that reads an input and a submission and computes the score | 1 |
 | no solver code: only parses the input and prints debug values | 1 |
+| no solver code: main only parses the input | 1 |
 | no solver code: only indexes the input | 1 |
 | not a solver: a validator that checks and scores submission files | 1 |
 | no solver code: only reads the input and prints the servers | 1 |
@@ -190,6 +194,7 @@ Repositories that were cloned for this collection but not added to any problem f
 | not competitive: no mentoring, so contributors must already meet every required level (only its mentorship_and_teamwork part; the rest of the repository is kept elsewhere) | 1 |
 | not competitive: its stored outputs score 62% of the top score on the official judge, far below the 95% keep rule (only its mentorship_and_teamwork part; the rest of the repository is kept elsewhere) | 1 |
 | not competitive: its stored outputs score 76% of the top score on the official judge, far below the 95% keep rule (only its mentorship_and_teamwork part; the rest of the repository is kept elsewhere) | 1 |
+| not competitive: its stored outputs score 26% of the top score on the official judge, far below the 95% keep rule (only its loon part; the rest of the repository is kept elsewhere) | 1 |
 | not competitive: its stored outputs score 39% of the top score on the official judge, far below the 95% keep rule (only its mentorship_and_teamwork part; the rest of the repository is kept elsewhere) | 1 |
 | wrong problem: the code reads and solves Loon, not Optimize a Data Center | 1 |
 | no solver code: a template; the task is a TODO | 1 |
@@ -226,6 +231,7 @@ Repositories that were cloned for this collection but not added to any problem f
 | [edipurmail/adsbygoogles](https://github.com/edipurmail/adsbygoogles) | `fb7101c` | unrelated to Hash Code |
 | `Advanced-Routing-Switching` (source URL not recorded) | — | unrelated to Hash Code |
 | [aniketnk/advert-free-radio](https://github.com/aniketnk/advert-free-radio) | `16f48eb` | unrelated to Hash Code |
+| [af83/hashcode-2015](https://github.com/af83/hashcode-2015) | `9ab176d` | not competitive: its stored outputs score 26% of the top score on the official judge, far below the 95% keep rule (only its loon part; the rest of the repository is kept elsewhere) |
 | [TahirPervez/ai-case-study](https://github.com/TahirPervez/ai-case-study) | `0eef595` | unrelated to Hash Code |
 | `Aitorsw-Hashcode_2017` (source URL not recorded) | — | no solver code (README, PDF or data only) |
 | `AkhilYeddu-namaste-react` (source URL not recorded) | — | unrelated to Hash Code |
@@ -323,6 +329,7 @@ Repositories that were cloned for this collection but not added to any problem f
 | [abhishekgarg18/DesignSystem](https://github.com/abhishekgarg18/DesignSystem) | `c377e68` | unrelated to Hash Code |
 | [devendrakushwah/Google-HashCode-2019](https://github.com/devendrakushwah/Google-HashCode-2019) | `d80959a` | no solver code (README, PDF or data only) |
 | [Dewep/HashCode2015-testround](https://github.com/Dewep/HashCode2015-testround) | `a001013` | solves the Hash Code 2015 test round (ham pizza), which is not one of the archived problems |
+| [Diegoriggle77/hashcode2017](https://github.com/Diegoriggle77/hashcode2017) | `c228379` | no way to write a submission: it only prints its own score (only its loon part; the rest of the repository is kept elsewhere) |
 | [Dna072/HashCode_2016](https://github.com/Dna072/HashCode_2016) | `0be25b5` | solves the Hash Code 2016 practice problem (painting), which is not one of the archived problems |
 | [dobl1/HashCode2017](https://github.com/dobl1/HashCode2017) | — | empty repository (no commits) |
 | [dorb4r/HashCode2019](https://github.com/dorb4r/HashCode2019) | — | empty repository (no commits) |
@@ -464,6 +471,7 @@ Repositories that were cloned for this collection but not added to any problem f
 | [DavidDarlingKhepryOrg/hashcode-drone-delivery](https://github.com/DavidDarlingKhepryOrg/hashcode-drone-delivery) | `202a15b` | no solver code (only reads and prints the input) |
 | [PeterBoesenberg/hashcode-drone-delivery](https://github.com/PeterBoesenberg/hashcode-drone-delivery) | `32a5b08` | no solver code (all source files are empty) |
 | [ppecheux/HashCode-Google-2019](https://github.com/ppecheux/HashCode-Google-2019) | `b4a850c` | no solver code (an input reader and a scoring function) |
+| [MatthieuLemoine/hashcode-java](https://github.com/MatthieuLemoine/hashcode-java) | `d0d9bc5` | no solver code: main only parses the input |
 | [LibertyWritesCode/Hashcode-Javascript-Mentorship](https://github.com/LibertyWritesCode/Hashcode-Javascript-Mentorship) | `2ff75b7` | unrelated to Hash Code |
 | [marcoboari/hashcode-marco-2022](https://github.com/marcoboari/hashcode-marco-2022) | `f1f2829` | no solver code: only reads and prints the input |
 | [fatimafatimaprogrammer/HashCode-Maximize_Project_Assignments-](https://github.com/fatimafatimaprogrammer/HashCode-Maximize_Project_Assignments-) | `cc35e4e` | not competitive: no mentoring, so contributors must already meet every required level |
@@ -476,6 +484,7 @@ Repositories that were cloned for this collection but not added to any problem f
 | [NotHawthorne/hashcode-sample](https://github.com/NotHawthorne/hashcode-sample) | `c52aaaf` | no solver code (a struct header and an uncompilable compare sketch) |
 | [rguiu/hashcode2014trial](https://github.com/rguiu/hashcode2014trial) | `7d94ac9` | solves the Hash Code 2014 trial round (painting), which is not one of the archived problems |
 | [jorpilo/HashCode2015-Checker](https://github.com/jorpilo/HashCode2015-Checker) | `40d1415` | not a solver: a checker that reads an input and a submission and computes the score |
+| [Dewep/HashCode2015-finalround-extended](https://github.com/Dewep/HashCode2015-finalround-extended) | `8384fad` | not competitive: its stored outputs score 27% of the top score on the official judge, far below the 95% keep rule |
 | [S-Alvanides/HashCode2016-GDGNE](https://github.com/S-Alvanides/HashCode2016-GDGNE) | `23f90b2` | no solver code (README, PDF or data only) |
 | [alessiobrozzi/HashCode2016](https://github.com/alessiobrozzi/HashCode2016) | `38966ef` | no solver code (Planner.java holds only comments) |
 | [benito1er/hashcode2016](https://github.com/benito1er/hashcode2016) | `908d3e2` | unfinished: only reads the input; nothing is written |
@@ -860,6 +869,7 @@ Repositories that were cloned for this collection but not added to any problem f
 | [mokhtar6847/Springboot-mobile-redis](https://github.com/mokhtar6847/Springboot-mobile-redis) | `18d7adc` | unrelated to Hash Code |
 | [Sshashank0743/hashcode2021](https://github.com/Sshashank0743/hashcode2021) | `8b4b57b` | no solver code (README, PDF or data only) |
 | [stefangmarx/Hashcode2015](https://github.com/stefangmarx/Hashcode2015) | `4e8f8e2` | no solver code: only reads the input and prints the servers |
+| [stefanhengl/loon](https://github.com/stefanhengl/loon) | `0f0e78b` | not competitive: its stored outputs score 22% of the top score on the official judge, far below the 95% keep rule |
 | [sparshsinha567/Step_class](https://github.com/sparshsinha567/Step_class) | `5f804e6` | unrelated to Hash Code |
 | [MONISH-M-S/Step_semester_3](https://github.com/MONISH-M-S/Step_semester_3) | `4842e92` | unrelated to Hash Code |
 | [strdr4605/hashcode-2022](https://github.com/strdr4605/hashcode-2022) | `bd055a6` | not competitive: no selection logic; it handles items in input order |

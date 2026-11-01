@@ -2,7 +2,7 @@
 
 Links to every solver repository found for each problem, before any solver was analyzed or removed. Problems are in contest order. A repository that covers several problems appears under each of them.
 
-*Collected* repositories were imported into the problem folder. Only Street View Routing, Optimize a Data Center, City Plan, Compiling Google, Assembling Smartphones, Software Engineering at Scale, Mentorship and Teamwork and Santa Tracker have been through selection so far, so they are the only problems with repositories marked *not kept*. *Found but not collected* lists duplicates of a collected solver and repositories with no usable solver that the problem's README attributes to that problem. Repositories that were rejected without being attributed to a problem are in [EXCLUDED.md](EXCLUDED.md).
+*Collected* repositories were imported into the problem folder. Only Street View Routing, Optimize a Data Center, Loon, City Plan, Compiling Google, Assembling Smartphones, Software Engineering at Scale, Mentorship and Teamwork and Santa Tracker have been through selection so far, so they are the only problems with repositories marked *not kept*. *Found but not collected* lists duplicates of a collected solver and repositories with no usable solver that the problem's README attributes to that problem. Repositories that were rejected without being attributed to a problem are in [EXCLUDED.md](EXCLUDED.md).
 
 | Problem | Contest | Collected | Found but not collected |
 |---|---|---:|---:|
@@ -128,34 +128,34 @@ Links to every solver repository found for each problem, before any solver was a
 ### Collected (29)
 
 - [af83/hashcode-2015](https://github.com/af83/hashcode-2015)
-- [coralietosten/polyhash-24](https://github.com/coralietosten/polyhash-24) — also: [gitlab.univ-nantes.fr/E224508F/polyhash-24](https://gitlab.univ-nantes.fr/E224508F/polyhash-24)
-- [daymanka/Polyhash](https://github.com/daymanka/Polyhash) — also: [gitlab.univ-nantes.fr/E24B135Q/polyhash2024](https://gitlab.univ-nantes.fr/E24B135Q/polyhash2024)
-- [dd0/hashcode-loon](https://github.com/dd0/hashcode-loon)
-- [demmerichs/Loon](https://github.com/demmerichs/Loon)
-- [Dewep/HashCode2015-finalround](https://github.com/Dewep/HashCode2015-finalround)
+- [coralietosten/polyhash-24](https://github.com/coralietosten/polyhash-24) — also: [gitlab.univ-nantes.fr/E224508F/polyhash-24](https://gitlab.univ-nantes.fr/E224508F/polyhash-24) — not kept after benchmarking
+- [daymanka/Polyhash](https://github.com/daymanka/Polyhash) — also: [gitlab.univ-nantes.fr/E24B135Q/polyhash2024](https://gitlab.univ-nantes.fr/E24B135Q/polyhash2024) — not kept after benchmarking
+- [dd0/hashcode-loon](https://github.com/dd0/hashcode-loon) — not kept after benchmarking
+- [demmerichs/Loon](https://github.com/demmerichs/Loon) — not kept after benchmarking
+- [Dewep/HashCode2015-finalround](https://github.com/Dewep/HashCode2015-finalround) — not kept after benchmarking
 - [Dewep/HashCode2015-finalround-extended](https://github.com/Dewep/HashCode2015-finalround-extended)
 - [Diegoriggle77/hashcode2017](https://github.com/Diegoriggle77/hashcode2017)
-- [evilz-agent/Hashcode2015](https://github.com/evilz-agent/Hashcode2015)
-- [Flag-Systemes/LoonBalloons](https://github.com/Flag-Systemes/LoonBalloons)
-- [flashcode/google-hashcode-2015](https://github.com/flashcode/google-hashcode-2015)
-- [GabrielPlayeur/polyhash](https://github.com/GabrielPlayeur/polyhash) — also: [gitlab.univ-nantes.fr/E225805Q/polyhash2024](https://gitlab.univ-nantes.fr/E225805Q/polyhash2024)
-- [IIXIVII/polyhash2024](https://github.com/IIXIVII/polyhash2024) — also: [gitlab.univ-nantes.fr/E226772R/polyhash2024](https://gitlab.univ-nantes.fr/E226772R/polyhash2024)
-- [marioyc/hashcode-2015](https://github.com/marioyc/hashcode-2015)
+- [evilz-agent/Hashcode2015](https://github.com/evilz-agent/Hashcode2015) — not kept after benchmarking
+- [Flag-Systemes/LoonBalloons](https://github.com/Flag-Systemes/LoonBalloons) — not kept after benchmarking
+- [flashcode/google-hashcode-2015](https://github.com/flashcode/google-hashcode-2015) — not kept after benchmarking
+- [GabrielPlayeur/polyhash](https://github.com/GabrielPlayeur/polyhash) — also: [gitlab.univ-nantes.fr/E225805Q/polyhash2024](https://gitlab.univ-nantes.fr/E225805Q/polyhash2024) — not kept after benchmarking
+- [IIXIVII/polyhash2024](https://github.com/IIXIVII/polyhash2024) — also: [gitlab.univ-nantes.fr/E226772R/polyhash2024](https://gitlab.univ-nantes.fr/E226772R/polyhash2024) — not kept after benchmarking
+- [marioyc/hashcode-2015](https://github.com/marioyc/hashcode-2015) — not kept after benchmarking
 - [MatthieuLemoine/hashcode-java](https://github.com/MatthieuLemoine/hashcode-java)
-- [mattias-lundell/hashcode-2015-loons](https://github.com/mattias-lundell/hashcode-2015-loons)
-- [maxday/google-hashcode2015-sigmaBoys](https://github.com/maxday/google-hashcode2015-sigmaBoys)
+- [mattias-lundell/hashcode-2015-loons](https://github.com/mattias-lundell/hashcode-2015-loons) — not kept after benchmarking
+- [maxday/google-hashcode2015-sigmaBoys](https://github.com/maxday/google-hashcode2015-sigmaBoys) — not kept after benchmarking
 - [ne0r0mancer/hashcode2016](https://github.com/ne0r0mancer/hashcode2016)
-- [nicolas-legroux/HashCode2015-FinalRound](https://github.com/nicolas-legroux/HashCode2015-FinalRound)
-- [nicomev/hashcode2015](https://github.com/nicomev/hashcode2015)
-- [phlalx/hashcode-2015](https://github.com/phlalx/hashcode-2015)
-- [sofiia-tesliuk/Loon_HashCode_2015](https://github.com/sofiia-tesliuk/Loon_HashCode_2015)
+- [nicolas-legroux/HashCode2015-FinalRound](https://github.com/nicolas-legroux/HashCode2015-FinalRound) — not kept after benchmarking
+- [nicomev/hashcode2015](https://github.com/nicomev/hashcode2015) — not kept after benchmarking
+- [phlalx/hashcode-2015](https://github.com/phlalx/hashcode-2015) — not kept after benchmarking
+- [sofiia-tesliuk/Loon_HashCode_2015](https://github.com/sofiia-tesliuk/Loon_HashCode_2015) — not kept after benchmarking
 - [stefanhengl/loon](https://github.com/stefanhengl/loon)
-- [stoman/HashCode2017Warmup](https://github.com/stoman/HashCode2017Warmup)
-- [tristandefay44-collab/Polyhash-project](https://github.com/tristandefay44-collab/Polyhash-project) — also: [gitlab.univ-nantes.fr/E221209U/polyhash2024](https://gitlab.univ-nantes.fr/E221209U/polyhash2024)
-- [valenca/hashcode16](https://github.com/valenca/hashcode16)
-- [valentinsulzer/Hashcode2015](https://github.com/valentinsulzer/Hashcode2015)
+- [stoman/HashCode2017Warmup](https://github.com/stoman/HashCode2017Warmup) — not kept after benchmarking
+- [tristandefay44-collab/Polyhash-project](https://github.com/tristandefay44-collab/Polyhash-project) — also: [gitlab.univ-nantes.fr/E221209U/polyhash2024](https://gitlab.univ-nantes.fr/E221209U/polyhash2024) — not kept after benchmarking
+- [valenca/hashcode16](https://github.com/valenca/hashcode16) — not kept after benchmarking
+- [valentinsulzer/Hashcode2015](https://github.com/valentinsulzer/Hashcode2015) — not kept after benchmarking
 - [yoann-dufresne/loon](https://github.com/yoann-dufresne/loon)
-- [zorun/hashcode2015](https://github.com/zorun/hashcode2015)
+- [zorun/hashcode2015](https://github.com/zorun/hashcode2015) — not kept after benchmarking
 
 ### Found but not collected (4)
 

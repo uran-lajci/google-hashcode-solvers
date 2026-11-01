@@ -1,0 +1,41 @@
+using System;
+using System.Collections.Generic;
+using System.Diagnostics;
+using System.IO;
+
+namespace Hashcode.Qualif
+{
+    class MainClass
+    {
+        public static void Main(string[] args)
+        {
+            var inputs = new[] { "./././" + Environment.GetEnvironmentVariable("HC_INST") + ".in" };
+            var scores = new[] {0, 0, 0, 0};
+
+            //while (true)
+            {
+                for (int i = 0; i < inputs.Length; i++)
+                {
+                    var fileName = inputs[i];
+                    var input = Parser.Parse(fileName);
+
+                    var sw = Stopwatch.StartNew();
+                    var solution = args[0] == "gui" ? SolverGui.Solve(input) : SolverRaph.Solve(input);
+                    Console.WriteLine(fileName.Substring(6, 7) + "\t" + solution.Score + "\t" + (sw.ElapsedMilliseconds/1000.0).ToString("0.00") + "s");
+
+                    //write output file if better than before
+                    if (solution.Score > scores[i])
+                    {
+                        scores[i] = solution.Score;
+                        var outputFile = Path.GetFileNameWithoutExtension(fileName) + "-" + solution.Score + ".out";
+                        using (var writer = new StreamWriter(outputFile))
+                        {
+                            writer.Write(solution);
+                        }
+                        Console.WriteLine("[dumped]");
+                    }
+                }
+            }
+        }
+    }
+}

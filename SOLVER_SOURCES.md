@@ -2,7 +2,7 @@
 
 Links to every solver repository found for each problem, before any solver was analyzed or removed. Problems are in contest order. A repository that covers several problems appears under each of them.
 
-*Collected* repositories were imported into the problem folder. Only Street View Routing, Optimize a Data Center, Loon, City Plan, Compiling Google, Assembling Smartphones, Software Engineering at Scale, Mentorship and Teamwork and Santa Tracker have been through selection so far, so they are the only problems with repositories marked *not kept*. *Found but not collected* lists duplicates of a collected solver and repositories with no usable solver that the problem's README attributes to that problem. Repositories that were rejected without being attributed to a problem are in [EXCLUDED.md](EXCLUDED.md).
+*Collected* repositories were imported into the problem folder. Only Street View Routing, Optimize a Data Center, Loon, Satellites, City Plan, Compiling Google, Assembling Smartphones, Software Engineering at Scale, Mentorship and Teamwork and Santa Tracker have been through selection so far, so they are the only problems with repositories marked *not kept*. *Found but not collected* lists duplicates of a collected solver and repositories with no usable solver that the problem's README attributes to that problem. Repositories that were rejected without being attributed to a problem are in [EXCLUDED.md](EXCLUDED.md).
 
 | Problem | Contest | Collected | Found but not collected |
 |---|---|---:|---:|
@@ -368,21 +368,21 @@ Links to every solver repository found for each problem, before any solver was a
 ### Collected (16)
 
 - [aliphen/hashCode2016](https://github.com/aliphen/hashCode2016)
-- [amadoukane96/Google-HashCode-2016](https://github.com/amadoukane96/Google-HashCode-2016)
-- [Diegoriggle77/hashcode2017](https://github.com/Diegoriggle77/hashcode2017)
-- [drublackberry/hashcode-2017-prep](https://github.com/drublackberry/hashcode-2017-prep)
-- [ifsmirnov/hashcode2016](https://github.com/ifsmirnov/hashcode2016)
-- [joffrey-bion/hashcode-2016-final](https://github.com/joffrey-bion/hashcode-2016-final)
-- [KreshnikRamadani/Thesis-Code](https://github.com/KreshnikRamadani/Thesis-Code)
-- [malhotraa/hashcode-satellites](https://github.com/malhotraa/hashcode-satellites)
-- [marioyc/hashcode2016](https://github.com/marioyc/hashcode2016)
+- [amadoukane96/Google-HashCode-2016](https://github.com/amadoukane96/Google-HashCode-2016) — not kept after benchmarking
+- [Diegoriggle77/hashcode2017](https://github.com/Diegoriggle77/hashcode2017) — not kept after benchmarking
+- [drublackberry/hashcode-2017-prep](https://github.com/drublackberry/hashcode-2017-prep) — not kept after benchmarking
+- [ifsmirnov/hashcode2016](https://github.com/ifsmirnov/hashcode2016) — not kept after benchmarking
+- [joffrey-bion/hashcode-2016-final](https://github.com/joffrey-bion/hashcode-2016-final) — not kept after benchmarking
+- [KreshnikRamadani/Thesis-Code](https://github.com/KreshnikRamadani/Thesis-Code) — not kept after benchmarking
+- [malhotraa/hashcode-satellites](https://github.com/malhotraa/hashcode-satellites) — not kept after benchmarking
+- [marioyc/hashcode2016](https://github.com/marioyc/hashcode2016) — not kept after benchmarking
 - [nicolas-gaillard/SatellitePlusPlus](https://github.com/nicolas-gaillard/SatellitePlusPlus)
-- [nquinquenel/polyhash-2016](https://github.com/nquinquenel/polyhash-2016)
+- [nquinquenel/polyhash-2016](https://github.com/nquinquenel/polyhash-2016) — not kept after benchmarking
 - [percenuage/hashcode](https://github.com/percenuage/hashcode)
-- [SimylinK/-Google-Hash-Code-2016-](https://github.com/SimylinK/-Google-Hash-Code-2016-)
-- [stoman/HashCode2017Warmup](https://github.com/stoman/HashCode2017Warmup)
-- [TechHoruser/hashcode-2016-final-round](https://github.com/TechHoruser/hashcode-2016-final-round)
-- [Togodumnus/google_hashcode_2016](https://github.com/Togodumnus/google_hashcode_2016)
+- [SimylinK/-Google-Hash-Code-2016-](https://github.com/SimylinK/-Google-Hash-Code-2016-) — not kept after benchmarking
+- [stoman/HashCode2017Warmup](https://github.com/stoman/HashCode2017Warmup) — not kept after benchmarking
+- [TechHoruser/hashcode-2016-final-round](https://github.com/TechHoruser/hashcode-2016-final-round) — not kept after benchmarking
+- [Togodumnus/google_hashcode_2016](https://github.com/Togodumnus/google_hashcode_2016) — not kept after benchmarking
 
 ### Found but not collected (1)
 

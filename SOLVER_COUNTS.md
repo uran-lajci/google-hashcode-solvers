@@ -8,7 +8,7 @@ Number of solvers collected and kept for each problem, in contest order. A `-` m
 | [Optimize a Data Center](optimize_a_data_center/) (2015, qualification) | 54 | 4 |
 | [Loon](loon/) (2015, final) | 23 | 1 |
 | [Delivery](delivery/) (2016, qualification) | 162 | - |
-| [Satellites](satellites/) (2016, final) | 15 | - |
+| [Satellites](satellites/) (2016, final) | 15 | 2 |
 | [Pizza](pizza/) (2017, practice) | 326 | - |
 | [Streaming Videos](streaming_videos/) (2017, qualification) | 363 | - |
 | [Router Placement](router_placement/) (2017, final) | 25 | - |

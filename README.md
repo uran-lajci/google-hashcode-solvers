@@ -35,6 +35,15 @@ Best score per instance for the problems benchmarked so far. *Open-source solver
 | `overlap` | 32,857 | not published |
 | **Total** | **248,302** | **1,017,218** |
 
+### [Pizza](pizza/) (Hash Code 2017, practice round)
+
+| Instance | Best score of the open-source solvers | Best score in the competition |
+|---|---:|---:|
+| `small` | 42 | no scoreboard |
+| `medium` | 49,998 | no scoreboard |
+| `big` | 909,569 | no scoreboard |
+| **Total** | **959,609** | **no scoreboard** |
+
 ### [Router Placement](router_placement/) (Hash Code 2017, final round)
 
 | Instance | Best score of the open-source solvers | Best score in the competition |

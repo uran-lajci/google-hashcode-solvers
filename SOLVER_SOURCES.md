@@ -2,7 +2,7 @@
 
 Links to every solver repository found for each problem, before any solver was analyzed or removed. Problems are in contest order. A repository that covers several problems appears under each of them.
 
-*Collected* repositories were imported into the problem folder. Only Street View Routing, Optimize a Data Center, Loon, Satellites, Router Placement, City Plan, Compiling Google, Assembling Smartphones, Software Engineering at Scale, Mentorship and Teamwork and Santa Tracker have been through selection so far, so they are the only problems with repositories marked *not kept*. *Found but not collected* lists duplicates of a collected solver and repositories with no usable solver that the problem's README attributes to that problem. Repositories that were rejected without being attributed to a problem are in [EXCLUDED.md](EXCLUDED.md).
+*Collected* repositories were imported into the problem folder. Only Street View Routing, Optimize a Data Center, Loon, Satellites, Pizza, Router Placement, City Plan, Compiling Google, Assembling Smartphones, Software Engineering at Scale, Mentorship and Teamwork and Santa Tracker have been through selection so far, so they are the only problems with repositories marked *not kept*. *Found but not collected* lists duplicates of a collected solver and repositories with no usable solver that the problem's README attributes to that problem. Repositories that were rejected without being attributed to a problem are in [EXCLUDED.md](EXCLUDED.md).
 
 | Problem | Contest | Collected | Found but not collected |
 |---|---|---:|---:|
@@ -394,368 +394,368 @@ Links to every solver repository found for each problem, before any solver was a
 
 ### Collected (362)
 
-- [1okey/hashcode-2019-pizza](https://github.com/1okey/hashcode-2019-pizza)
-- [abaft/PizzaHashCode2018BruteforceSolution](https://github.com/abaft/PizzaHashCode2018BruteforceSolution)
+- [1okey/hashcode-2019-pizza](https://github.com/1okey/hashcode-2019-pizza) — not kept after benchmarking
+- [abaft/PizzaHashCode2018BruteforceSolution](https://github.com/abaft/PizzaHashCode2018BruteforceSolution) — not kept after benchmarking
 - [abeforgit/hashcode](https://github.com/abeforgit/hashcode)
-- [AcoffeePlease/Pizza_Problem](https://github.com/AcoffeePlease/Pizza_Problem)
-- [adamjin/Pizza](https://github.com/adamjin/Pizza)
-- [AdrianMrn/Google-HashCode-2017-preparation](https://github.com/AdrianMrn/Google-HashCode-2017-preparation)
-- [adwitiya/hashcode_pizza](https://github.com/adwitiya/hashcode_pizza)
+- [AcoffeePlease/Pizza_Problem](https://github.com/AcoffeePlease/Pizza_Problem) — not kept after benchmarking
+- [adamjin/Pizza](https://github.com/adamjin/Pizza) — not kept after benchmarking
+- [AdrianMrn/Google-HashCode-2017-preparation](https://github.com/AdrianMrn/Google-HashCode-2017-preparation) — not kept after benchmarking
+- [adwitiya/hashcode_pizza](https://github.com/adwitiya/hashcode_pizza) — not kept after benchmarking
 - [agoscinski/HashCode2018PizzaProblem](https://github.com/agoscinski/HashCode2018PizzaProblem)
 - [aiborn/pizza-problem](https://github.com/aiborn/pizza-problem)
-- [akpenou/hashcode_train](https://github.com/akpenou/hashcode_train)
+- [akpenou/hashcode_train](https://github.com/akpenou/hashcode_train) — not kept after benchmarking
 - [AlaaShehab/HashCode_Pizza](https://github.com/AlaaShehab/HashCode_Pizza)
-- [AleksandrChernyavenko/google-hash-code-2018-test](https://github.com/AleksandrChernyavenko/google-hash-code-2018-test)
-- [alesolano/hashcode-pizza](https://github.com/alesolano/hashcode-pizza)
-- [alessandro1105/google-hashcode-pizza-problem](https://github.com/alessandro1105/google-hashcode-pizza-problem)
+- [AleksandrChernyavenko/google-hash-code-2018-test](https://github.com/AleksandrChernyavenko/google-hash-code-2018-test) — not kept after benchmarking
+- [alesolano/hashcode-pizza](https://github.com/alesolano/hashcode-pizza) — not kept after benchmarking
+- [alessandro1105/google-hashcode-pizza-problem](https://github.com/alessandro1105/google-hashcode-pizza-problem) — not kept after benchmarking
 - [AlexandrDobrovolskiy/PizzaHashCode](https://github.com/AlexandrDobrovolskiy/PizzaHashCode)
-- [Alexandru-Dascalu/Google-Hash-Code-Pizza-Problem-2017](https://github.com/Alexandru-Dascalu/Google-Hash-Code-Pizza-Problem-2017)
-- [AlexBlandin/Google-Hash](https://github.com/AlexBlandin/Google-Hash)
-- [alexdoloz/Pizza](https://github.com/alexdoloz/Pizza)
-- [AlexVndnblcke/hash_code_pizza](https://github.com/AlexVndnblcke/hash_code_pizza)
-- [alreadytaikeune/hashcode2017](https://github.com/alreadytaikeune/hashcode2017)
-- [anass05/googlehashcode-pizza-problem](https://github.com/anass05/googlehashcode-pizza-problem)
-- [Anastasiya-Zhyrkevich/hashcode2019training](https://github.com/Anastasiya-Zhyrkevich/hashcode2019training)
-- [AnatoliiStepaniuk/google_hashcode_pizza_2019](https://github.com/AnatoliiStepaniuk/google_hashcode_pizza_2019)
+- [Alexandru-Dascalu/Google-Hash-Code-Pizza-Problem-2017](https://github.com/Alexandru-Dascalu/Google-Hash-Code-Pizza-Problem-2017) — not kept after benchmarking
+- [AlexBlandin/Google-Hash](https://github.com/AlexBlandin/Google-Hash) — not kept after benchmarking
+- [alexdoloz/Pizza](https://github.com/alexdoloz/Pizza) — not kept after benchmarking
+- [AlexVndnblcke/hash_code_pizza](https://github.com/AlexVndnblcke/hash_code_pizza) — not kept after benchmarking
+- [alreadytaikeune/hashcode2017](https://github.com/alreadytaikeune/hashcode2017) — not kept after benchmarking
+- [anass05/googlehashcode-pizza-problem](https://github.com/anass05/googlehashcode-pizza-problem) — not kept after benchmarking
+- [Anastasiya-Zhyrkevich/hashcode2019training](https://github.com/Anastasiya-Zhyrkevich/hashcode2019training) — not kept after benchmarking
+- [AnatoliiStepaniuk/google_hashcode_pizza_2019](https://github.com/AnatoliiStepaniuk/google_hashcode_pizza_2019) — not kept after benchmarking
 - [andreabazerla/pizza](https://github.com/andreabazerla/pizza)
-- [AndreFCruz/google-hashcode](https://github.com/AndreFCruz/google-hashcode)
-- [andresescobarcotan/HashcodePizza](https://github.com/andresescobarcotan/HashcodePizza)
-- [anisayari/Google_Pizza_Hash_Code](https://github.com/anisayari/Google_Pizza_Hash_Code)
-- [anstadnik/Google_hashcode_2019](https://github.com/anstadnik/Google_hashcode_2019)
+- [AndreFCruz/google-hashcode](https://github.com/AndreFCruz/google-hashcode) — not kept after benchmarking
+- [andresescobarcotan/HashcodePizza](https://github.com/andresescobarcotan/HashcodePizza) — not kept after benchmarking
+- [anisayari/Google_Pizza_Hash_Code](https://github.com/anisayari/Google_Pizza_Hash_Code) — not kept after benchmarking
+- [anstadnik/Google_hashcode_2019](https://github.com/anstadnik/Google_hashcode_2019) — not kept after benchmarking
 - [arnaudcoj/tp5_act](https://github.com/arnaudcoj/tp5_act)
-- [arora-aditya/HashCode](https://github.com/arora-aditya/HashCode)
-- [arturo-source/google-hashcode-pizza](https://github.com/arturo-source/google-hashcode-pizza)
-- [AselKitulagoda/GoogleHashcode2019](https://github.com/AselKitulagoda/GoogleHashcode2019)
+- [arora-aditya/HashCode](https://github.com/arora-aditya/HashCode) — not kept after benchmarking
+- [arturo-source/google-hashcode-pizza](https://github.com/arturo-source/google-hashcode-pizza) — not kept after benchmarking
+- [AselKitulagoda/GoogleHashcode2019](https://github.com/AselKitulagoda/GoogleHashcode2019) — not kept after benchmarking
 - [atalhassan/PizzaHashCode](https://github.com/atalhassan/PizzaHashCode)
 - [atHashCode/pizza](https://github.com/atHashCode/pizza)
-- [augerm/google-code-hash-pizza](https://github.com/augerm/google-code-hash-pizza)
-- [aurensanx/hashCode2020](https://github.com/aurensanx/hashCode2020)
-- [aurensanx/pelicans-pizza](https://github.com/aurensanx/pelicans-pizza)
-- [baluteam/HashCode2017_Pizza_NetBeans](https://github.com/baluteam/HashCode2017_Pizza_NetBeans)
-- [bartoszmodelski/HashCode-Training-Problem](https://github.com/bartoszmodelski/HashCode-Training-Problem)
-- [bboron86/ghc-pizza-problem](https://github.com/bboron86/ghc-pizza-problem)
-- [bbrincat/pizza](https://github.com/bbrincat/pizza)
-- [Belterius/PizzaHashCode](https://github.com/Belterius/PizzaHashCode)
+- [augerm/google-code-hash-pizza](https://github.com/augerm/google-code-hash-pizza) — not kept after benchmarking
+- [aurensanx/hashCode2020](https://github.com/aurensanx/hashCode2020) — not kept after benchmarking
+- [aurensanx/pelicans-pizza](https://github.com/aurensanx/pelicans-pizza) — not kept after benchmarking
+- [baluteam/HashCode2017_Pizza_NetBeans](https://github.com/baluteam/HashCode2017_Pizza_NetBeans) — not kept after benchmarking
+- [bartoszmodelski/HashCode-Training-Problem](https://github.com/bartoszmodelski/HashCode-Training-Problem) — not kept after benchmarking
+- [bboron86/ghc-pizza-problem](https://github.com/bboron86/ghc-pizza-problem) — not kept after benchmarking
+- [bbrincat/pizza](https://github.com/bbrincat/pizza) — not kept after benchmarking
+- [Belterius/PizzaHashCode](https://github.com/Belterius/PizzaHashCode) — not kept after benchmarking
 - [Bmantl/HashCode2017](https://github.com/Bmantl/HashCode2017)
-- [boyski33/HashCodePizza](https://github.com/boyski33/HashCodePizza)
-- [brkn/Hashcode-2018](https://github.com/brkn/Hashcode-2018)
-- [Brostafa/HashCodePizza](https://github.com/Brostafa/HashCodePizza)
-- [bshishov/HashCode2019](https://github.com/bshishov/HashCode2019)
-- [CaptainKali/hashcode_google_2019](https://github.com/CaptainKali/hashcode_google_2019)
-- [carderne/hashcode-pizza](https://github.com/carderne/hashcode-pizza)
+- [boyski33/HashCodePizza](https://github.com/boyski33/HashCodePizza) — not kept after benchmarking
+- [brkn/Hashcode-2018](https://github.com/brkn/Hashcode-2018) — not kept after benchmarking
+- [Brostafa/HashCodePizza](https://github.com/Brostafa/HashCodePizza) — not kept after benchmarking
+- [bshishov/HashCode2019](https://github.com/bshishov/HashCode2019) — not kept after benchmarking
+- [CaptainKali/hashcode_google_2019](https://github.com/CaptainKali/hashcode_google_2019) — not kept after benchmarking
+- [carderne/hashcode-pizza](https://github.com/carderne/hashcode-pizza) — not kept after benchmarking
 - [Casana/HashCode](https://github.com/Casana/HashCode)
-- [cesartl/hashcode-pizza](https://github.com/cesartl/hashcode-pizza)
-- [chameleonTK/hashcode-2019](https://github.com/chameleonTK/hashcode-2019)
-- [chaszzt/hashcode-pizza](https://github.com/chaszzt/hashcode-pizza)
+- [cesartl/hashcode-pizza](https://github.com/cesartl/hashcode-pizza) — not kept after benchmarking
+- [chameleonTK/hashcode-2019](https://github.com/chameleonTK/hashcode-2019) — not kept after benchmarking
+- [chaszzt/hashcode-pizza](https://github.com/chaszzt/hashcode-pizza) — not kept after benchmarking
 - [ChenWentai/hashcode](https://github.com/ChenWentai/hashcode)
 - [chitly/HashCode2019](https://github.com/chitly/HashCode2019)
-- [ChrisBertrand/HashCode2017Pizza](https://github.com/ChrisBertrand/HashCode2017Pizza)
-- [claudiosousa/hashcode2018-pizza](https://github.com/claudiosousa/hashcode2018-pizza)
+- [ChrisBertrand/HashCode2017Pizza](https://github.com/ChrisBertrand/HashCode2017Pizza) — not kept after benchmarking
+- [claudiosousa/hashcode2018-pizza](https://github.com/claudiosousa/hashcode2018-pizza) — not kept after benchmarking
 - [ClementChouteau/Hashcode-2018-entrainement](https://github.com/ClementChouteau/Hashcode-2018-entrainement)
-- [clemkoa/hashcode-2017](https://github.com/clemkoa/hashcode-2017)
+- [clemkoa/hashcode-2017](https://github.com/clemkoa/hashcode-2017) — not kept after benchmarking
 - [clemkoa/hashcode-2018](https://github.com/clemkoa/hashcode-2018)
-- [clemsage/HashCode2019](https://github.com/clemsage/HashCode2019)
+- [clemsage/HashCode2019](https://github.com/clemsage/HashCode2019) — not kept after benchmarking
 - [CloudCoders/Hashcode-Training](https://github.com/CloudCoders/Hashcode-Training)
-- [cmplx-xyttmt/hashcode-pizza-problem](https://github.com/cmplx-xyttmt/hashcode-pizza-problem)
-- [CoffeeVector/HashCode2019PracticeProblem](https://github.com/CoffeeVector/HashCode2019PracticeProblem)
+- [cmplx-xyttmt/hashcode-pizza-problem](https://github.com/cmplx-xyttmt/hashcode-pizza-problem) — not kept after benchmarking
+- [CoffeeVector/HashCode2019PracticeProblem](https://github.com/CoffeeVector/HashCode2019PracticeProblem) — not kept after benchmarking
 - [comeonism/Pizza-Cutter](https://github.com/comeonism/Pizza-Cutter)
-- [DamCarduner/HGC.slicePizza](https://github.com/DamCarduner/HGC.slicePizza)
+- [DamCarduner/HGC.slicePizza](https://github.com/DamCarduner/HGC.slicePizza) — not kept after benchmarking
 - [DaneSlattery/oops-hashcode-2019](https://github.com/DaneSlattery/oops-hashcode-2019)
-- [danicrg/Google-HashCode](https://github.com/danicrg/Google-HashCode)
+- [danicrg/Google-HashCode](https://github.com/danicrg/Google-HashCode) — not kept after benchmarking
 - [Daniel-C-Dias/Hascode2019](https://github.com/Daniel-C-Dias/Hascode2019)
-- [DanieleMaisto/hashcode2018](https://github.com/DanieleMaisto/hashcode2018)
-- [danielfleischer/Pizza](https://github.com/danielfleischer/Pizza)
-- [DanielGorlo/HashCode2017](https://github.com/DanielGorlo/HashCode2017)
-- [darraghmerrick/Google-HashCodes-Pizza-Cutter](https://github.com/darraghmerrick/Google-HashCodes-Pizza-Cutter)
-- [davidmather/GoogleHashcode2017](https://github.com/davidmather/GoogleHashcode2017)
-- [DavidRoyApp/hashcode2018zaragoza](https://github.com/DavidRoyApp/hashcode2018zaragoza)
-- [DenysPodanenko/Google-Hackathon-HashCode-2017-PizzaSubmition](https://github.com/DenysPodanenko/Google-Hackathon-HashCode-2017-PizzaSubmition)
-- [diegologs/Pizza-HashCode](https://github.com/diegologs/Pizza-HashCode)
-- [Diegoriggle77/hashcode2017](https://github.com/Diegoriggle77/hashcode2017)
-- [dnltsk/pizza](https://github.com/dnltsk/pizza)
-- [DriesDeRydt/hashcode-pizza](https://github.com/DriesDeRydt/hashcode-pizza)
-- [DropAllTables-bkp/HashCodePratice2017](https://github.com/DropAllTables-bkp/HashCodePratice2017)
-- [drowolath/hashcode-2017-training](https://github.com/drowolath/hashcode-2017-training)
-- [drublackberry/hashcode-2017-prep](https://github.com/drublackberry/hashcode-2017-prep)
+- [DanieleMaisto/hashcode2018](https://github.com/DanieleMaisto/hashcode2018) — not kept after benchmarking
+- [danielfleischer/Pizza](https://github.com/danielfleischer/Pizza) — not kept after benchmarking
+- [DanielGorlo/HashCode2017](https://github.com/DanielGorlo/HashCode2017) — not kept after benchmarking
+- [darraghmerrick/Google-HashCodes-Pizza-Cutter](https://github.com/darraghmerrick/Google-HashCodes-Pizza-Cutter) — not kept after benchmarking
+- [davidmather/GoogleHashcode2017](https://github.com/davidmather/GoogleHashcode2017) — not kept after benchmarking
+- [DavidRoyApp/hashcode2018zaragoza](https://github.com/DavidRoyApp/hashcode2018zaragoza) — not kept after benchmarking
+- [DenysPodanenko/Google-Hackathon-HashCode-2017-PizzaSubmition](https://github.com/DenysPodanenko/Google-Hackathon-HashCode-2017-PizzaSubmition) — not kept after benchmarking
+- [diegologs/Pizza-HashCode](https://github.com/diegologs/Pizza-HashCode) — not kept after benchmarking
+- [Diegoriggle77/hashcode2017](https://github.com/Diegoriggle77/hashcode2017) — not kept after benchmarking
+- [dnltsk/pizza](https://github.com/dnltsk/pizza) — not kept after benchmarking
+- [DriesDeRydt/hashcode-pizza](https://github.com/DriesDeRydt/hashcode-pizza) — not kept after benchmarking
+- [DropAllTables-bkp/HashCodePratice2017](https://github.com/DropAllTables-bkp/HashCodePratice2017) — not kept after benchmarking
+- [drowolath/hashcode-2017-training](https://github.com/drowolath/hashcode-2017-training) — not kept after benchmarking
+- [drublackberry/hashcode-2017-prep](https://github.com/drublackberry/hashcode-2017-prep) — not kept after benchmarking
 - [duncanlindsey/GoogleHashCode2018_PizzaCutting](https://github.com/duncanlindsey/GoogleHashCode2018_PizzaCutting)
-- [dwarfmaster/hashcode17-training](https://github.com/dwarfmaster/hashcode17-training)
-- [EddyCerpa/HashCodePizza](https://github.com/EddyCerpa/HashCodePizza)
-- [Edraak/hashcode-2017-solution](https://github.com/Edraak/hashcode-2017-solution)
-- [elados93/Google_Pizza_Hash_Code](https://github.com/elados93/Google_Pizza_Hash_Code)
+- [dwarfmaster/hashcode17-training](https://github.com/dwarfmaster/hashcode17-training) — not kept after benchmarking
+- [EddyCerpa/HashCodePizza](https://github.com/EddyCerpa/HashCodePizza) — not kept after benchmarking
+- [Edraak/hashcode-2017-solution](https://github.com/Edraak/hashcode-2017-solution) — not kept after benchmarking
+- [elados93/Google_Pizza_Hash_Code](https://github.com/elados93/Google_Pizza_Hash_Code) — not kept after benchmarking
 - [elenalazarus/pizza-cutter](https://github.com/elenalazarus/pizza-cutter)
-- [ellisvlad/hashcode2019-pizza](https://github.com/ellisvlad/hashcode2019-pizza)
+- [ellisvlad/hashcode2019-pizza](https://github.com/ellisvlad/hashcode2019-pizza) — not kept after benchmarking
 - [elsandkls/GHashCode_Pizza](https://github.com/elsandkls/GHashCode_Pizza)
 - [Epiliptik/hashcode2019](https://github.com/Epiliptik/hashcode2019)
-- [erseco/google_hashcode_2017](https://github.com/erseco/google_hashcode_2017)
-- [FantastiCode/HashCodePractice2016](https://github.com/FantastiCode/HashCodePractice2016)
-- [Fellfalla/HashCode2017](https://github.com/Fellfalla/HashCode2017)
-- [ferquinz/HashCode2017](https://github.com/ferquinz/HashCode2017)
-- [fgadea/HashCode2017-practiseProblem](https://github.com/fgadea/HashCode2017-practiseProblem)
-- [filkaris/hashcode-pizza](https://github.com/filkaris/hashcode-pizza)
-- [firstprateek/hashcode-pizza](https://github.com/firstprateek/hashcode-pizza)
-- [flobilosaurus/google-hashcode](https://github.com/flobilosaurus/google-hashcode)
+- [erseco/google_hashcode_2017](https://github.com/erseco/google_hashcode_2017) — not kept after benchmarking
+- [FantastiCode/HashCodePractice2016](https://github.com/FantastiCode/HashCodePractice2016) — not kept after benchmarking
+- [Fellfalla/HashCode2017](https://github.com/Fellfalla/HashCode2017) — not kept after benchmarking
+- [ferquinz/HashCode2017](https://github.com/ferquinz/HashCode2017) — not kept after benchmarking
+- [fgadea/HashCode2017-practiseProblem](https://github.com/fgadea/HashCode2017-practiseProblem) — not kept after benchmarking
+- [filkaris/hashcode-pizza](https://github.com/filkaris/hashcode-pizza) — not kept after benchmarking
+- [firstprateek/hashcode-pizza](https://github.com/firstprateek/hashcode-pizza) — not kept after benchmarking
+- [flobilosaurus/google-hashcode](https://github.com/flobilosaurus/google-hashcode) — not kept after benchmarking
 - [flotos/Hashcode-2017](https://github.com/flotos/Hashcode-2017)
-- [Fokko/hashcode-example-2018](https://github.com/Fokko/hashcode-example-2018)
+- [Fokko/hashcode-example-2018](https://github.com/Fokko/hashcode-example-2018) — not kept after benchmarking
 - [fpoppinga/hashcode-2019](https://github.com/fpoppinga/hashcode-2019)
-- [FraLotito/hashcode_unitn](https://github.com/FraLotito/hashcode_unitn)
-- [Freeways/hashcode2017-practice](https://github.com/Freeways/hashcode2017-practice)
-- [gaetancollaud/hashcode_pizza](https://github.com/gaetancollaud/hashcode_pizza)
-- [GambuzX/Hashcode2018-Preparation](https://github.com/GambuzX/Hashcode2018-Preparation)
+- [FraLotito/hashcode_unitn](https://github.com/FraLotito/hashcode_unitn) — not kept after benchmarking
+- [Freeways/hashcode2017-practice](https://github.com/Freeways/hashcode2017-practice) — not kept after benchmarking
+- [gaetancollaud/hashcode_pizza](https://github.com/gaetancollaud/hashcode_pizza) — not kept after benchmarking
+- [GambuzX/Hashcode2018-Preparation](https://github.com/GambuzX/Hashcode2018-Preparation) — not kept after benchmarking
 - [GaspareG/HashCode-Practice](https://github.com/GaspareG/HashCode-Practice)
-- [gcoro/hashcode2021](https://github.com/gcoro/hashcode2021)
-- [gdgbologna/HashCode2018Pizza](https://github.com/gdgbologna/HashCode2018Pizza)
-- [gheorghe-sava/Hash-Code-Pizza-Practice-Round-](https://github.com/gheorghe-sava/Hash-Code-Pizza-Practice-Round-)
-- [ghepavdi/hashcode-2018-pizza](https://github.com/ghepavdi/hashcode-2018-pizza)
-- [GhostPoro/HashCode-Pizza](https://github.com/GhostPoro/HashCode-Pizza)
-- [Ghoul-SSZ/HashCode-Pratice-2017](https://github.com/Ghoul-SSZ/HashCode-Pratice-2017)
-- [GioVAX/HashCode2018](https://github.com/GioVAX/HashCode2018)
-- [gitaumoses4/PizzaProblem](https://github.com/gitaumoses4/PizzaProblem)
-- [Gituser143/GoogleHashCode_PizzaCutter](https://github.com/Gituser143/GoogleHashCode_PizzaCutter)
+- [gcoro/hashcode2021](https://github.com/gcoro/hashcode2021) — not kept after benchmarking
+- [gdgbologna/HashCode2018Pizza](https://github.com/gdgbologna/HashCode2018Pizza) — not kept after benchmarking
+- [gheorghe-sava/Hash-Code-Pizza-Practice-Round-](https://github.com/gheorghe-sava/Hash-Code-Pizza-Practice-Round-) — not kept after benchmarking
+- [ghepavdi/hashcode-2018-pizza](https://github.com/ghepavdi/hashcode-2018-pizza) — not kept after benchmarking
+- [GhostPoro/HashCode-Pizza](https://github.com/GhostPoro/HashCode-Pizza) — not kept after benchmarking
+- [Ghoul-SSZ/HashCode-Pratice-2017](https://github.com/Ghoul-SSZ/HashCode-Pratice-2017) — not kept after benchmarking
+- [GioVAX/HashCode2018](https://github.com/GioVAX/HashCode2018) — not kept after benchmarking
+- [gitaumoses4/PizzaProblem](https://github.com/gitaumoses4/PizzaProblem) — not kept after benchmarking
+- [Gituser143/GoogleHashCode_PizzaCutter](https://github.com/Gituser143/GoogleHashCode_PizzaCutter) — not kept after benchmarking
 - [goke-epapa/GoogleHashcodePizza](https://github.com/goke-epapa/GoogleHashcodePizza)
-- [Gonthar/GooglePizza](https://github.com/Gonthar/GooglePizza)
+- [Gonthar/GooglePizza](https://github.com/Gonthar/GooglePizza) — not kept after benchmarking
 - [GrbavaCigla/HashCodePizzaProblem](https://github.com/GrbavaCigla/HashCodePizzaProblem)
-- [greenTransistor/hashCode2019-training](https://github.com/greenTransistor/hashCode2019-training)
-- [guynnn/pizza-HashCode](https://github.com/guynnn/pizza-HashCode)
-- [hackathonsdrinkteam/hashcode-2019-preparation](https://github.com/hackathonsdrinkteam/hashcode-2019-preparation)
-- [hendrikcech/hashcode-pizza](https://github.com/hendrikcech/hashcode-pizza)
-- [hermanzdosilovic/hashcode-2017](https://github.com/hermanzdosilovic/hashcode-2017)
-- [hex7c0/google-hashcode](https://github.com/hex7c0/google-hashcode)
-- [HillaShx/HashCode](https://github.com/HillaShx/HashCode)
-- [hussien4321/Google_Hashcode_Pizza_Dart](https://github.com/hussien4321/Google_Hashcode_Pizza_Dart)
-- [huybthomas/StreamingVideos-GoogleHashCode2017](https://github.com/huybthomas/StreamingVideos-GoogleHashCode2017)
-- [idyczko/HashCode2019](https://github.com/idyczko/HashCode2019)
-- [ilie05/Google-Hash-Code-Pizza](https://github.com/ilie05/Google-Hash-Code-Pizza)
-- [InfinityCollaborations/HashCode-2017](https://github.com/InfinityCollaborations/HashCode-2017)
-- [ishmaelmakitla/hashcode2017-practice](https://github.com/ishmaelmakitla/hashcode2017-practice)
-- [islam-aymann/google-hash-code-pizza](https://github.com/islam-aymann/google-hash-code-pizza)
-- [itcherry/Pizza](https://github.com/itcherry/Pizza)
-- [Itope84/hashcode2018-practise](https://github.com/Itope84/hashcode2018-practise)
-- [ITSMarchi/HashCode2017_Practice](https://github.com/ITSMarchi/HashCode2017_Practice)
-- [iwih/Google_HashCode_PizzaSlicing](https://github.com/iwih/Google_HashCode_PizzaSlicing)
-- [jacksono/pizzapuzzle](https://github.com/jacksono/pizzapuzzle)
-- [jagh/hashCode](https://github.com/jagh/hashCode)
-- [janerikhein/google_hash_code_pizza_problem](https://github.com/janerikhein/google_hash_code_pizza_problem)
-- [jaracoder/google-hashcode-19](https://github.com/jaracoder/google-hashcode-19)
-- [JasonSome/hashcode](https://github.com/JasonSome/hashcode)
-- [jdmichaud/hashcode2017.0](https://github.com/jdmichaud/hashcode2017.0)
-- [jesusjimsa/Pizza-HashCode](https://github.com/jesusjimsa/Pizza-HashCode)
-- [jeysal/hashcode-prep](https://github.com/jeysal/hashcode-prep)
-- [JGShaw/Google-HashCode-2018-Test-Round](https://github.com/JGShaw/Google-HashCode-2018-Test-Round)
-- [JimNero009/HashCode2018](https://github.com/JimNero009/HashCode2018)
-- [JoaquinTrinanes/HashCodePizza](https://github.com/JoaquinTrinanes/HashCodePizza)
+- [greenTransistor/hashCode2019-training](https://github.com/greenTransistor/hashCode2019-training) — not kept after benchmarking
+- [guynnn/pizza-HashCode](https://github.com/guynnn/pizza-HashCode) — not kept after benchmarking
+- [hackathonsdrinkteam/hashcode-2019-preparation](https://github.com/hackathonsdrinkteam/hashcode-2019-preparation) — not kept after benchmarking
+- [hendrikcech/hashcode-pizza](https://github.com/hendrikcech/hashcode-pizza) — not kept after benchmarking
+- [hermanzdosilovic/hashcode-2017](https://github.com/hermanzdosilovic/hashcode-2017) — not kept after benchmarking
+- [hex7c0/google-hashcode](https://github.com/hex7c0/google-hashcode) — not kept after benchmarking
+- [HillaShx/HashCode](https://github.com/HillaShx/HashCode) — not kept after benchmarking
+- [hussien4321/Google_Hashcode_Pizza_Dart](https://github.com/hussien4321/Google_Hashcode_Pizza_Dart) — not kept after benchmarking
+- [huybthomas/StreamingVideos-GoogleHashCode2017](https://github.com/huybthomas/StreamingVideos-GoogleHashCode2017) — not kept after benchmarking
+- [idyczko/HashCode2019](https://github.com/idyczko/HashCode2019) — not kept after benchmarking
+- [ilie05/Google-Hash-Code-Pizza](https://github.com/ilie05/Google-Hash-Code-Pizza) — not kept after benchmarking
+- [InfinityCollaborations/HashCode-2017](https://github.com/InfinityCollaborations/HashCode-2017) — not kept after benchmarking
+- [ishmaelmakitla/hashcode2017-practice](https://github.com/ishmaelmakitla/hashcode2017-practice) — not kept after benchmarking
+- [islam-aymann/google-hash-code-pizza](https://github.com/islam-aymann/google-hash-code-pizza) — not kept after benchmarking
+- [itcherry/Pizza](https://github.com/itcherry/Pizza) — not kept after benchmarking
+- [Itope84/hashcode2018-practise](https://github.com/Itope84/hashcode2018-practise) — not kept after benchmarking
+- [ITSMarchi/HashCode2017_Practice](https://github.com/ITSMarchi/HashCode2017_Practice) — not kept after benchmarking
+- [iwih/Google_HashCode_PizzaSlicing](https://github.com/iwih/Google_HashCode_PizzaSlicing) — not kept after benchmarking
+- [jacksono/pizzapuzzle](https://github.com/jacksono/pizzapuzzle) — not kept after benchmarking
+- [jagh/hashCode](https://github.com/jagh/hashCode) — not kept after benchmarking
+- [janerikhein/google_hash_code_pizza_problem](https://github.com/janerikhein/google_hash_code_pizza_problem) — not kept after benchmarking
+- [jaracoder/google-hashcode-19](https://github.com/jaracoder/google-hashcode-19) — not kept after benchmarking
+- [JasonSome/hashcode](https://github.com/JasonSome/hashcode) — not kept after benchmarking
+- [jdmichaud/hashcode2017.0](https://github.com/jdmichaud/hashcode2017.0) — not kept after benchmarking
+- [jesusjimsa/Pizza-HashCode](https://github.com/jesusjimsa/Pizza-HashCode) — not kept after benchmarking
+- [jeysal/hashcode-prep](https://github.com/jeysal/hashcode-prep) — not kept after benchmarking
+- [JGShaw/Google-HashCode-2018-Test-Round](https://github.com/JGShaw/Google-HashCode-2018-Test-Round) — not kept after benchmarking
+- [JimNero009/HashCode2018](https://github.com/JimNero009/HashCode2018) — not kept after benchmarking
+- [JoaquinTrinanes/HashCodePizza](https://github.com/JoaquinTrinanes/HashCodePizza) — not kept after benchmarking
 - [JobGetabu/hashcode-2019](https://github.com/JobGetabu/hashcode-2019)
-- [JonathanWoollett-Light/pizzaHashCode](https://github.com/JonathanWoollett-Light/pizzaHashCode)
-- [Jordilg13/GoogleHashCode_Pizza_2019](https://github.com/Jordilg13/GoogleHashCode_Pizza_2019)
-- [josecyc/hashcode_2019](https://github.com/josecyc/hashcode_2019)
-- [joseffffff/HashCodeProblem2018](https://github.com/joseffffff/HashCodeProblem2018)
-- [JoseIgnacioRetamalThomsen/HashCodePracticeProblem2019](https://github.com/JoseIgnacioRetamalThomsen/HashCodePracticeProblem2019)
-- [JoseLlorensRipolles/HashCodePizza](https://github.com/JoseLlorensRipolles/HashCodePizza)
-- [joshiraez/Pizza-GoogleHashCode2018](https://github.com/joshiraez/Pizza-GoogleHashCode2018)
+- [JonathanWoollett-Light/pizzaHashCode](https://github.com/JonathanWoollett-Light/pizzaHashCode) — not kept after benchmarking
+- [Jordilg13/GoogleHashCode_Pizza_2019](https://github.com/Jordilg13/GoogleHashCode_Pizza_2019) — not kept after benchmarking
+- [josecyc/hashcode_2019](https://github.com/josecyc/hashcode_2019) — not kept after benchmarking
+- [joseffffff/HashCodeProblem2018](https://github.com/joseffffff/HashCodeProblem2018) — not kept after benchmarking
+- [JoseIgnacioRetamalThomsen/HashCodePracticeProblem2019](https://github.com/JoseIgnacioRetamalThomsen/HashCodePracticeProblem2019) — not kept after benchmarking
+- [JoseLlorensRipolles/HashCodePizza](https://github.com/JoseLlorensRipolles/HashCodePizza) — not kept after benchmarking
+- [joshiraez/Pizza-GoogleHashCode2018](https://github.com/joshiraez/Pizza-GoogleHashCode2018) — not kept after benchmarking
 - [jozefdickins/hashCodePractice](https://github.com/jozefdickins/hashCodePractice)
 - [jp172/google-hash-code-solutions](https://github.com/jp172/google-hash-code-solutions)
-- [jpborsi/pizza-hashcode](https://github.com/jpborsi/pizza-hashcode)
-- [jueyaye/HashCode-Warmup-2019](https://github.com/jueyaye/HashCode-Warmup-2019)
+- [jpborsi/pizza-hashcode](https://github.com/jpborsi/pizza-hashcode) — not kept after benchmarking
+- [jueyaye/HashCode-Warmup-2019](https://github.com/jueyaye/HashCode-Warmup-2019) — not kept after benchmarking
 - [julianhesse/HashCodePizza](https://github.com/julianhesse/HashCodePizza)
-- [JulianNeeleman/pizza](https://github.com/JulianNeeleman/pizza)
-- [Julien2313/hashcode](https://github.com/Julien2313/hashcode)
-- [kafkoders/hashcode-pizza](https://github.com/kafkoders/hashcode-pizza)
+- [JulianNeeleman/pizza](https://github.com/JulianNeeleman/pizza) — not kept after benchmarking
+- [Julien2313/hashcode](https://github.com/Julien2313/hashcode) — not kept after benchmarking
+- [kafkoders/hashcode-pizza](https://github.com/kafkoders/hashcode-pizza) — not kept after benchmarking
 - [kameranis/HashCode-2017](https://github.com/kameranis/HashCode-2017)
-- [KapsonLabs/Hashcode2018kapson](https://github.com/KapsonLabs/Hashcode2018kapson)
-- [karolkozak/HashCode_Pizza](https://github.com/karolkozak/HashCode_Pizza)
-- [kartsridhar/HashCode](https://github.com/kartsridhar/HashCode)
-- [kemo71/pizza](https://github.com/kemo71/pizza)
-- [kirmartynov/HashCode2019train](https://github.com/kirmartynov/HashCode2019train)
-- [klyse/GoogleHashCodePizzaProblem](https://github.com/klyse/GoogleHashCodePizzaProblem)
-- [KoenP/hashcode2017](https://github.com/KoenP/hashcode2017)
-- [konradbachusz-zz/Google-Hashcode-Pizza-Problem-Solution](https://github.com/konradbachusz-zz/Google-Hashcode-Pizza-Problem-Solution)
-- [kosyonikolov/HashPizza](https://github.com/kosyonikolov/HashPizza)
-- [krezac/hashcode-pizza](https://github.com/krezac/hashcode-pizza)
-- [KrutikaBhatt/HashCode2021](https://github.com/KrutikaBhatt/HashCode2021)
-- [krzysiekprzekwas/-Practise-Round-GoogleHashCode2017](https://github.com/krzysiekprzekwas/-Practise-Round-GoogleHashCode2017)
-- [kshikha818/pizza-problem-hash-code](https://github.com/kshikha818/pizza-problem-hash-code)
+- [KapsonLabs/Hashcode2018kapson](https://github.com/KapsonLabs/Hashcode2018kapson) — not kept after benchmarking
+- [karolkozak/HashCode_Pizza](https://github.com/karolkozak/HashCode_Pizza) — not kept after benchmarking
+- [kartsridhar/HashCode](https://github.com/kartsridhar/HashCode) — not kept after benchmarking
+- [kemo71/pizza](https://github.com/kemo71/pizza) — not kept after benchmarking
+- [kirmartynov/HashCode2019train](https://github.com/kirmartynov/HashCode2019train) — not kept after benchmarking
+- [klyse/GoogleHashCodePizzaProblem](https://github.com/klyse/GoogleHashCodePizzaProblem) — not kept after benchmarking
+- [KoenP/hashcode2017](https://github.com/KoenP/hashcode2017) — not kept after benchmarking
+- [konradbachusz-zz/Google-Hashcode-Pizza-Problem-Solution](https://github.com/konradbachusz-zz/Google-Hashcode-Pizza-Problem-Solution) — not kept after benchmarking
+- [kosyonikolov/HashPizza](https://github.com/kosyonikolov/HashPizza) — not kept after benchmarking
+- [krezac/hashcode-pizza](https://github.com/krezac/hashcode-pizza) — not kept after benchmarking
+- [KrutikaBhatt/HashCode2021](https://github.com/KrutikaBhatt/HashCode2021) — not kept after benchmarking
+- [krzysiekprzekwas/-Practise-Round-GoogleHashCode2017](https://github.com/krzysiekprzekwas/-Practise-Round-GoogleHashCode2017) — not kept after benchmarking
+- [kshikha818/pizza-problem-hash-code](https://github.com/kshikha818/pizza-problem-hash-code) — not kept after benchmarking
 - [kwahome/google-hashcode-2017](https://github.com/kwahome/google-hashcode-2017)
-- [Laged/suha17](https://github.com/Laged/suha17)
+- [Laged/suha17](https://github.com/Laged/suha17) — not kept after benchmarking
 - [LindaKadz/hashcode2019](https://github.com/LindaKadz/hashcode2019)
-- [lindskogen/google-hashcode-pizza-problem](https://github.com/lindskogen/google-hashcode-pizza-problem)
-- [linnykoleh/GooglePizza](https://github.com/linnykoleh/GooglePizza)
-- [Loniowsky/GoogleHashCodeTestRound](https://github.com/Loniowsky/GoogleHashCodeTestRound)
-- [LostVariables/hashcode2017-practice](https://github.com/LostVariables/hashcode2017-practice)
-- [LowikC/hashcode2017](https://github.com/LowikC/hashcode2017)
+- [lindskogen/google-hashcode-pizza-problem](https://github.com/lindskogen/google-hashcode-pizza-problem) — not kept after benchmarking
+- [linnykoleh/GooglePizza](https://github.com/linnykoleh/GooglePizza) — not kept after benchmarking
+- [Loniowsky/GoogleHashCodeTestRound](https://github.com/Loniowsky/GoogleHashCodeTestRound) — not kept after benchmarking
+- [LostVariables/hashcode2017-practice](https://github.com/LostVariables/hashcode2017-practice) — not kept after benchmarking
+- [LowikC/hashcode2017](https://github.com/LowikC/hashcode2017) — not kept after benchmarking
 - [Lrakulka/Jams](https://github.com/Lrakulka/Jams)
-- [lucianbc/google_hashcode_2017](https://github.com/lucianbc/google_hashcode_2017)
-- [LukeDS-it/pizza-hash](https://github.com/LukeDS-it/pizza-hash)
-- [LyashenkoGS/GoogleHashCode2017](https://github.com/LyashenkoGS/GoogleHashCode2017)
-- [madilraza/Google_HashCode-2019](https://github.com/madilraza/Google_HashCode-2019)
-- [MadonnasPlays/Pizza-WarmUp](https://github.com/MadonnasPlays/Pizza-WarmUp)
-- [MahmoudMabrok/Pizza-HashCode](https://github.com/MahmoudMabrok/Pizza-HashCode)
-- [maksmas/hashcode-pizza](https://github.com/maksmas/hashcode-pizza)
+- [lucianbc/google_hashcode_2017](https://github.com/lucianbc/google_hashcode_2017) — not kept after benchmarking
+- [LukeDS-it/pizza-hash](https://github.com/LukeDS-it/pizza-hash) — not kept after benchmarking
+- [LyashenkoGS/GoogleHashCode2017](https://github.com/LyashenkoGS/GoogleHashCode2017) — not kept after benchmarking
+- [madilraza/Google_HashCode-2019](https://github.com/madilraza/Google_HashCode-2019) — not kept after benchmarking
+- [MadonnasPlays/Pizza-WarmUp](https://github.com/MadonnasPlays/Pizza-WarmUp) — not kept after benchmarking
+- [MahmoudMabrok/Pizza-HashCode](https://github.com/MahmoudMabrok/Pizza-HashCode) — not kept after benchmarking
+- [maksmas/hashcode-pizza](https://github.com/maksmas/hashcode-pizza) — not kept after benchmarking
 - [mal2/Hashcode2017](https://github.com/mal2/Hashcode2017)
-- [manuelsalvadori/crHackers](https://github.com/manuelsalvadori/crHackers)
-- [manupm87/hashcode-palinkoders-2018](https://github.com/manupm87/hashcode-palinkoders-2018)
-- [marcosmmb/google-pizza-challenge](https://github.com/marcosmmb/google-pizza-challenge)
-- [mariaBianca/HashCode2017](https://github.com/mariaBianca/HashCode2017)
-- [martinajir/PizzaProblem](https://github.com/martinajir/PizzaProblem)
-- [matteoformenti/HashCode2018](https://github.com/matteoformenti/HashCode2018)
+- [manuelsalvadori/crHackers](https://github.com/manuelsalvadori/crHackers) — not kept after benchmarking
+- [manupm87/hashcode-palinkoders-2018](https://github.com/manupm87/hashcode-palinkoders-2018) — not kept after benchmarking
+- [marcosmmb/google-pizza-challenge](https://github.com/marcosmmb/google-pizza-challenge) — not kept after benchmarking
+- [mariaBianca/HashCode2017](https://github.com/mariaBianca/HashCode2017) — not kept after benchmarking
+- [martinajir/PizzaProblem](https://github.com/martinajir/PizzaProblem) — not kept after benchmarking
+- [matteoformenti/HashCode2018](https://github.com/matteoformenti/HashCode2018) — not kept after benchmarking
 - [maxxxlounge/hashcode2018-practice](https://github.com/maxxxlounge/hashcode2018-practice)
-- [mcamila777/Hashcode2019](https://github.com/mcamila777/Hashcode2019)
-- [mcanalesmayo/hashcode2019](https://github.com/mcanalesmayo/hashcode2019)
+- [mcamila777/Hashcode2019](https://github.com/mcamila777/Hashcode2019) — not kept after benchmarking
+- [mcanalesmayo/hashcode2019](https://github.com/mcanalesmayo/hashcode2019) — not kept after benchmarking
 - [mcieno/HashCode](https://github.com/mcieno/HashCode)
-- [mdelorme/hashcode2018_training](https://github.com/mdelorme/hashcode2018_training)
-- [mehmetbarisyaman/Pizza](https://github.com/mehmetbarisyaman/Pizza)
-- [mihai-bontea/Google-Hash-Code-2018-Practice-Problem](https://github.com/mihai-bontea/Google-Hash-Code-2018-Practice-Problem)
-- [mihailhernandez/Google-HashCode-2019](https://github.com/mihailhernandez/Google-HashCode-2019)
-- [mikeogezi/hashcode-pizza-problem-practice](https://github.com/mikeogezi/hashcode-pizza-problem-practice)
-- [Mikeywalsh/PizzaCutter](https://github.com/Mikeywalsh/PizzaCutter)
-- [mindfulme/google-hashcode-pizza](https://github.com/mindfulme/google-hashcode-pizza)
+- [mdelorme/hashcode2018_training](https://github.com/mdelorme/hashcode2018_training) — not kept after benchmarking
+- [mehmetbarisyaman/Pizza](https://github.com/mehmetbarisyaman/Pizza) — not kept after benchmarking
+- [mihai-bontea/Google-Hash-Code-2018-Practice-Problem](https://github.com/mihai-bontea/Google-Hash-Code-2018-Practice-Problem) — not kept after benchmarking
+- [mihailhernandez/Google-HashCode-2019](https://github.com/mihailhernandez/Google-HashCode-2019) — not kept after benchmarking
+- [mikeogezi/hashcode-pizza-problem-practice](https://github.com/mikeogezi/hashcode-pizza-problem-practice) — not kept after benchmarking
+- [Mikeywalsh/PizzaCutter](https://github.com/Mikeywalsh/PizzaCutter) — not kept after benchmarking
+- [mindfulme/google-hashcode-pizza](https://github.com/mindfulme/google-hashcode-pizza) — not kept after benchmarking
 - [mindfulme/HashcodeTrainingPizza2018](https://github.com/mindfulme/HashcodeTrainingPizza2018)
-- [mmarouen/hascode](https://github.com/mmarouen/hascode)
-- [mmtr/hashcode2017](https://github.com/mmtr/hashcode2017)
-- [mmtr/hashcode2018](https://github.com/mmtr/hashcode2018)
-- [mohantejach/google-hashcode-2019](https://github.com/mohantejach/google-hashcode-2019)
-- [mohsenTalal/HashCode](https://github.com/mohsenTalal/HashCode)
-- [moked/hashcode2017](https://github.com/moked/hashcode2017)
+- [mmarouen/hascode](https://github.com/mmarouen/hascode) — not kept after benchmarking
+- [mmtr/hashcode2017](https://github.com/mmtr/hashcode2017) — not kept after benchmarking
+- [mmtr/hashcode2018](https://github.com/mmtr/hashcode2018) — not kept after benchmarking
+- [mohantejach/google-hashcode-2019](https://github.com/mohantejach/google-hashcode-2019) — not kept after benchmarking
+- [mohsenTalal/HashCode](https://github.com/mohsenTalal/HashCode) — not kept after benchmarking
+- [moked/hashcode2017](https://github.com/moked/hashcode2017) — not kept after benchmarking
 - [mozanunal/NOP_HashCode2017](https://github.com/mozanunal/NOP_HashCode2017)
-- [mrknockturnal/Pizza-Problem](https://github.com/mrknockturnal/Pizza-Problem)
-- [Mroziek/Google-Hash-Code-Pizza](https://github.com/Mroziek/Google-Hash-Code-Pizza)
-- [mrtncls/GHC2018_C-ka](https://github.com/mrtncls/GHC2018_C-ka)
+- [mrknockturnal/Pizza-Problem](https://github.com/mrknockturnal/Pizza-Problem) — not kept after benchmarking
+- [Mroziek/Google-Hash-Code-Pizza](https://github.com/Mroziek/Google-Hash-Code-Pizza) — not kept after benchmarking
+- [mrtncls/GHC2018_C-ka](https://github.com/mrtncls/GHC2018_C-ka) — not kept after benchmarking
 - [msagi/hash-code-2018-test](https://github.com/msagi/hash-code-2018-test)
-- [msvechla/hashcode17-practice](https://github.com/msvechla/hashcode17-practice)
-- [muety/hashcode-2018](https://github.com/muety/hashcode-2018)
-- [muffin-coders/Hashcode-Pizza](https://github.com/muffin-coders/Hashcode-Pizza)
+- [msvechla/hashcode17-practice](https://github.com/msvechla/hashcode17-practice) — not kept after benchmarking
+- [muety/hashcode-2018](https://github.com/muety/hashcode-2018) — not kept after benchmarking
+- [muffin-coders/Hashcode-Pizza](https://github.com/muffin-coders/Hashcode-Pizza) — not kept after benchmarking
 - [MuhammedHasan/hash-code-pizza](https://github.com/MuhammedHasan/hash-code-pizza)
-- [nappa85/HashCode2017](https://github.com/nappa85/HashCode2017)
+- [nappa85/HashCode2017](https://github.com/nappa85/HashCode2017) — not kept after benchmarking
 - [nappa85/HashCode2018](https://github.com/nappa85/HashCode2018)
-- [Nasvera/HashCode-2017](https://github.com/Nasvera/HashCode-2017)
-- [Nasvera/hashcode2017-practice](https://github.com/Nasvera/hashcode2017-practice)
-- [necrashter/hashcode-pizza](https://github.com/necrashter/hashcode-pizza)
-- [ngulya/pizza_hashcode](https://github.com/ngulya/pizza_hashcode)
+- [Nasvera/HashCode-2017](https://github.com/Nasvera/HashCode-2017) — not kept after benchmarking
+- [Nasvera/hashcode2017-practice](https://github.com/Nasvera/hashcode2017-practice) — not kept after benchmarking
+- [necrashter/hashcode-pizza](https://github.com/necrashter/hashcode-pizza) — not kept after benchmarking
+- [ngulya/pizza_hashcode](https://github.com/ngulya/pizza_hashcode) — not kept after benchmarking
 - [nik72619c/Google-HashCode-Qualifier](https://github.com/nik72619c/Google-HashCode-Qualifier)
-- [nikitaeverywhere/google-hash-code-2017-task](https://github.com/nikitaeverywhere/google-hash-code-2017-task)
-- [Nikoloutsos/HashCodePizza](https://github.com/Nikoloutsos/HashCodePizza)
+- [nikitaeverywhere/google-hash-code-2017-task](https://github.com/nikitaeverywhere/google-hash-code-2017-task) — not kept after benchmarking
+- [Nikoloutsos/HashCodePizza](https://github.com/Nikoloutsos/HashCodePizza) — not kept after benchmarking
 - [nikpundik/google-hashcode-pizza](https://github.com/nikpundik/google-hashcode-pizza)
-- [nikpundik/google-hashcode-pizza-solution](https://github.com/nikpundik/google-hashcode-pizza-solution)
+- [nikpundik/google-hashcode-pizza-solution](https://github.com/nikpundik/google-hashcode-pizza-solution) — not kept after benchmarking
 - [nkaralis/HashCode2017](https://github.com/nkaralis/HashCode2017)
 - [NotAndD/PizzaHashCode](https://github.com/NotAndD/PizzaHashCode)
-- [ntedgi/Google-HashCode-Pizza-Problem](https://github.com/ntedgi/Google-HashCode-Pizza-Problem)
-- [nullhtp/HashcodePizza](https://github.com/nullhtp/HashcodePizza)
+- [ntedgi/Google-HashCode-Pizza-Problem](https://github.com/ntedgi/Google-HashCode-Pizza-Problem) — not kept after benchmarking
+- [nullhtp/HashcodePizza](https://github.com/nullhtp/HashcodePizza) — not kept after benchmarking
 - [obinnaelviso/google-hashcode-pizza-project-solution](https://github.com/obinnaelviso/google-hashcode-pizza-project-solution)
-- [OddballGreg/hashcode_2018_practice](https://github.com/OddballGreg/hashcode_2018_practice)
-- [oktomus/hashcode-2018](https://github.com/oktomus/hashcode-2018)
-- [Oliver-Binns/HashCode-2018-Practice](https://github.com/Oliver-Binns/HashCode-2018-Practice)
+- [OddballGreg/hashcode_2018_practice](https://github.com/OddballGreg/hashcode_2018_practice) — not kept after benchmarking
+- [oktomus/hashcode-2018](https://github.com/oktomus/hashcode-2018) — not kept after benchmarking
+- [Oliver-Binns/HashCode-2018-Practice](https://github.com/Oliver-Binns/HashCode-2018-Practice) — not kept after benchmarking
 - [OmarBish/HashCode2019](https://github.com/OmarBish/HashCode2019)
 - [OnePageCRM/hc-2017-practice](https://github.com/OnePageCRM/hc-2017-practice)
-- [Onurus/HashCode2017PizzaSlider](https://github.com/Onurus/HashCode2017PizzaSlider)
-- [orbytegithub/hashcode2018pizza](https://github.com/orbytegithub/hashcode2018pizza)
+- [Onurus/HashCode2017PizzaSlider](https://github.com/Onurus/HashCode2017PizzaSlider) — not kept after benchmarking
+- [orbytegithub/hashcode2018pizza](https://github.com/orbytegithub/hashcode2018pizza) — not kept after benchmarking
 - [osslate/hashcode-2018](https://github.com/osslate/hashcode-2018)
 - [OthnielDona/Google_HashCode_2019](https://github.com/OthnielDona/Google_HashCode_2019)
 - [parane/pizzaHashcodeProblem](https://github.com/parane/pizzaHashcodeProblem)
-- [ParisKitty/HashCode2017_Pizza](https://github.com/ParisKitty/HashCode2017_Pizza)
+- [ParisKitty/HashCode2017_Pizza](https://github.com/ParisKitty/HashCode2017_Pizza) — not kept after benchmarking
 - [Patataman/HashCode2018](https://github.com/Patataman/HashCode2018)
-- [PaulienVa/hashcode2018](https://github.com/PaulienVa/hashcode2018)
-- [pbarbero/pizza](https://github.com/pbarbero/pizza)
-- [Pcheape/hashcode2017](https://github.com/Pcheape/hashcode2017)
-- [perdy/hashcode-pizza](https://github.com/perdy/hashcode-pizza)
-- [peterjgill/HashCodePizza](https://github.com/peterjgill/HashCodePizza)
-- [phischepi/hashcode2018](https://github.com/phischepi/hashcode2018)
-- [PieterDr/google-hashcode-2017](https://github.com/PieterDr/google-hashcode-2017)
-- [planga82/hashCode2018](https://github.com/planga82/hashCode2018)
-- [prague-pandas/hashcode-pizza](https://github.com/prague-pandas/hashcode-pizza)
-- [pysergio/Pizza](https://github.com/pysergio/Pizza)
-- [pzierahn/Hashcode2019Practice](https://github.com/pzierahn/Hashcode2019Practice)
-- [QTimort/Google-Hashcode-2019](https://github.com/QTimort/Google-Hashcode-2019)
-- [radjavi/hashcode19](https://github.com/radjavi/hashcode19)
-- [Ratchet-Studios/Pizza](https://github.com/Ratchet-Studios/Pizza)
-- [raviautar/Google-HashCode2019](https://github.com/raviautar/Google-HashCode2019)
-- [renuo/hashcode2017-jamp-pizza](https://github.com/renuo/hashcode2017-jamp-pizza)
+- [PaulienVa/hashcode2018](https://github.com/PaulienVa/hashcode2018) — not kept after benchmarking
+- [pbarbero/pizza](https://github.com/pbarbero/pizza) — not kept after benchmarking
+- [Pcheape/hashcode2017](https://github.com/Pcheape/hashcode2017) — not kept after benchmarking
+- [perdy/hashcode-pizza](https://github.com/perdy/hashcode-pizza) — not kept after benchmarking
+- [peterjgill/HashCodePizza](https://github.com/peterjgill/HashCodePizza) — not kept after benchmarking
+- [phischepi/hashcode2018](https://github.com/phischepi/hashcode2018) — not kept after benchmarking
+- [PieterDr/google-hashcode-2017](https://github.com/PieterDr/google-hashcode-2017) — not kept after benchmarking
+- [planga82/hashCode2018](https://github.com/planga82/hashCode2018) — not kept after benchmarking
+- [prague-pandas/hashcode-pizza](https://github.com/prague-pandas/hashcode-pizza) — not kept after benchmarking
+- [pysergio/Pizza](https://github.com/pysergio/Pizza) — not kept after benchmarking
+- [pzierahn/Hashcode2019Practice](https://github.com/pzierahn/Hashcode2019Practice) — not kept after benchmarking
+- [QTimort/Google-Hashcode-2019](https://github.com/QTimort/Google-Hashcode-2019) — not kept after benchmarking
+- [radjavi/hashcode19](https://github.com/radjavi/hashcode19) — not kept after benchmarking
+- [Ratchet-Studios/Pizza](https://github.com/Ratchet-Studios/Pizza) — not kept after benchmarking
+- [raviautar/Google-HashCode2019](https://github.com/raviautar/Google-HashCode2019) — not kept after benchmarking
+- [renuo/hashcode2017-jamp-pizza](https://github.com/renuo/hashcode2017-jamp-pizza) — not kept after benchmarking
 - [ripoul/hashcode_pizza](https://github.com/ripoul/hashcode_pizza)
 - [rkholoniuk/google-hashcode-2017](https://github.com/rkholoniuk/google-hashcode-2017)
 - [RobertObkircher/pizza](https://github.com/RobertObkircher/pizza)
 - [ROMBTeam/hashcode-practice-pizza](https://github.com/ROMBTeam/hashcode-practice-pizza)
-- [rotolonico/hashcode-pizza-problem](https://github.com/rotolonico/hashcode-pizza-problem)
-- [RubinDaija/The-Pizza-Problem](https://github.com/RubinDaija/The-Pizza-Problem)
-- [RustamZakAs/HashCodePizza](https://github.com/RustamZakAs/HashCodePizza)
-- [Rwothoromo/pizza](https://github.com/Rwothoromo/pizza)
+- [rotolonico/hashcode-pizza-problem](https://github.com/rotolonico/hashcode-pizza-problem) — not kept after benchmarking
+- [RubinDaija/The-Pizza-Problem](https://github.com/RubinDaija/The-Pizza-Problem) — not kept after benchmarking
+- [RustamZakAs/HashCodePizza](https://github.com/RustamZakAs/HashCodePizza) — not kept after benchmarking
+- [Rwothoromo/pizza](https://github.com/Rwothoromo/pizza) — not kept after benchmarking
 - [RyanHerb/hashcode_pizza](https://github.com/RyanHerb/hashcode_pizza)
-- [sachinjegaonkar/PizzaSlicer](https://github.com/sachinjegaonkar/PizzaSlicer)
+- [sachinjegaonkar/PizzaSlicer](https://github.com/sachinjegaonkar/PizzaSlicer) — not kept after benchmarking
 - [sagishporer/hashcode-practice-pizza](https://github.com/sagishporer/hashcode-practice-pizza)
 - [samduy/google-hashcode](https://github.com/samduy/google-hashcode)
-- [sameersemna/js_ocono_hashcode_test](https://github.com/sameersemna/js_ocono_hashcode_test)
+- [sameersemna/js_ocono_hashcode_test](https://github.com/sameersemna/js_ocono_hashcode_test) — not kept after benchmarking
 - [sankalpchauhan-me/HashCodePizza](https://github.com/sankalpchauhan-me/HashCodePizza)
 - [sbrodehl/Hashcode2k18](https://github.com/sbrodehl/Hashcode2k18)
-- [shaharalgaby/HashCode-2017-Pizza](https://github.com/shaharalgaby/HashCode-2017-Pizza)
-- [ShambaC/HashCode-Pizza-IM](https://github.com/ShambaC/HashCode-Pizza-IM)
-- [sharkadi-a/hashcode-2018](https://github.com/sharkadi-a/hashcode-2018)
-- [shemetz/Google_Hashcode_2018_Pizza_Practice](https://github.com/shemetz/Google_Hashcode_2018_Pizza_Practice)
-- [ShirazSuleman/hashcode-2017](https://github.com/ShirazSuleman/hashcode-2017)
-- [ShivamShrirao/hashcode_pizza](https://github.com/ShivamShrirao/hashcode_pizza)
-- [Shoomaher/hashcode](https://github.com/Shoomaher/hashcode)
-- [SimonIyamu/The-Pizza-Problem](https://github.com/SimonIyamu/The-Pizza-Problem)
-- [siowmeng/HashCodeQual2019](https://github.com/siowmeng/HashCodeQual2019)
-- [sklipnoty/GoogleHashCodePizza](https://github.com/sklipnoty/GoogleHashCodePizza)
-- [sklipnoty/GoogleHashCodePizza2019](https://github.com/sklipnoty/GoogleHashCodePizza2019)
-- [slaby93/HashCode_2017_practice_round](https://github.com/slaby93/HashCode_2017_practice_round)
-- [slimcdk/google-hashcode-2018](https://github.com/slimcdk/google-hashcode-2018)
-- [snowme34/hashcode_pizza](https://github.com/snowme34/hashcode_pizza)
-- [snugdad/42Robo-food](https://github.com/snugdad/42Robo-food)
-- [spanoselias/GoogleHashCode2019](https://github.com/spanoselias/GoogleHashCode2019)
-- [sprkrd/hashcode-pizza](https://github.com/sprkrd/hashcode-pizza)
+- [shaharalgaby/HashCode-2017-Pizza](https://github.com/shaharalgaby/HashCode-2017-Pizza) — not kept after benchmarking
+- [ShambaC/HashCode-Pizza-IM](https://github.com/ShambaC/HashCode-Pizza-IM) — not kept after benchmarking
+- [sharkadi-a/hashcode-2018](https://github.com/sharkadi-a/hashcode-2018) — not kept after benchmarking
+- [shemetz/Google_Hashcode_2018_Pizza_Practice](https://github.com/shemetz/Google_Hashcode_2018_Pizza_Practice) — not kept after benchmarking
+- [ShirazSuleman/hashcode-2017](https://github.com/ShirazSuleman/hashcode-2017) — not kept after benchmarking
+- [ShivamShrirao/hashcode_pizza](https://github.com/ShivamShrirao/hashcode_pizza) — not kept after benchmarking
+- [Shoomaher/hashcode](https://github.com/Shoomaher/hashcode) — not kept after benchmarking
+- [SimonIyamu/The-Pizza-Problem](https://github.com/SimonIyamu/The-Pizza-Problem) — not kept after benchmarking
+- [siowmeng/HashCodeQual2019](https://github.com/siowmeng/HashCodeQual2019) — not kept after benchmarking
+- [sklipnoty/GoogleHashCodePizza](https://github.com/sklipnoty/GoogleHashCodePizza) — not kept after benchmarking
+- [sklipnoty/GoogleHashCodePizza2019](https://github.com/sklipnoty/GoogleHashCodePizza2019) — not kept after benchmarking
+- [slaby93/HashCode_2017_practice_round](https://github.com/slaby93/HashCode_2017_practice_round) — not kept after benchmarking
+- [slimcdk/google-hashcode-2018](https://github.com/slimcdk/google-hashcode-2018) — not kept after benchmarking
+- [snowme34/hashcode_pizza](https://github.com/snowme34/hashcode_pizza) — not kept after benchmarking
+- [snugdad/42Robo-food](https://github.com/snugdad/42Robo-food) — not kept after benchmarking
+- [spanoselias/GoogleHashCode2019](https://github.com/spanoselias/GoogleHashCode2019) — not kept after benchmarking
+- [sprkrd/hashcode-pizza](https://github.com/sprkrd/hashcode-pizza) — not kept after benchmarking
 - [Steakfault/pizza-java](https://github.com/Steakfault/pizza-java)
-- [stemlaur/pizza-slicing](https://github.com/stemlaur/pizza-slicing)
-- [stoman/HashCode2017Warmup](https://github.com/stoman/HashCode2017Warmup)
-- [stoman/HashCode2018Warmup](https://github.com/stoman/HashCode2018Warmup)
-- [stuffrome/google-hashcode-pizza-solution](https://github.com/stuffrome/google-hashcode-pizza-solution)
-- [Taity-mini/HashCodePizza](https://github.com/Taity-mini/HashCodePizza)
-- [team-pithon/hash-code-2019](https://github.com/team-pithon/hash-code-2019)
-- [TeamLS/Hash-Code-2017-Practice-Test-Pizza-Problem-](https://github.com/TeamLS/Hash-Code-2017-Practice-Test-Pizza-Problem-)
-- [TeamRocketHashcode/hashcode2017](https://github.com/TeamRocketHashcode/hashcode2017)
-- [TedevFR/GHC_Practice2017_Pizza](https://github.com/TedevFR/GHC_Practice2017_Pizza)
-- [Thanerik/G-hashcode-trial](https://github.com/Thanerik/G-hashcode-trial)
+- [stemlaur/pizza-slicing](https://github.com/stemlaur/pizza-slicing) — not kept after benchmarking
+- [stoman/HashCode2017Warmup](https://github.com/stoman/HashCode2017Warmup) — not kept after benchmarking
+- [stoman/HashCode2018Warmup](https://github.com/stoman/HashCode2018Warmup) — not kept after benchmarking
+- [stuffrome/google-hashcode-pizza-solution](https://github.com/stuffrome/google-hashcode-pizza-solution) — not kept after benchmarking
+- [Taity-mini/HashCodePizza](https://github.com/Taity-mini/HashCodePizza) — not kept after benchmarking
+- [team-pithon/hash-code-2019](https://github.com/team-pithon/hash-code-2019) — not kept after benchmarking
+- [TeamLS/Hash-Code-2017-Practice-Test-Pizza-Problem-](https://github.com/TeamLS/Hash-Code-2017-Practice-Test-Pizza-Problem-) — not kept after benchmarking
+- [TeamRocketHashcode/hashcode2017](https://github.com/TeamRocketHashcode/hashcode2017) — not kept after benchmarking
+- [TedevFR/GHC_Practice2017_Pizza](https://github.com/TedevFR/GHC_Practice2017_Pizza) — not kept after benchmarking
+- [Thanerik/G-hashcode-trial](https://github.com/Thanerik/G-hashcode-trial) — not kept after benchmarking
 - [thatsmesasha/pizza_cutting_turbo_simulator](https://github.com/thatsmesasha/pizza_cutting_turbo_simulator)
-- [TheBoomBoxer/GoogleHashCode-Pizza](https://github.com/TheBoomBoxer/GoogleHashCode-Pizza)
+- [TheBoomBoxer/GoogleHashCode-Pizza](https://github.com/TheBoomBoxer/GoogleHashCode-Pizza) — not kept after benchmarking
 - [TheFl0w/hashcode-pizza](https://github.com/TheFl0w/hashcode-pizza)
-- [tieberthomas/Hashcode_practice_2019](https://github.com/tieberthomas/Hashcode_practice_2019)
-- [Tifzou/Pizza](https://github.com/Tifzou/Pizza)
+- [tieberthomas/Hashcode_practice_2019](https://github.com/tieberthomas/Hashcode_practice_2019) — not kept after benchmarking
+- [Tifzou/Pizza](https://github.com/Tifzou/Pizza) — not kept after benchmarking
 - [timower/hashcode2017](https://github.com/timower/hashcode2017)
 - [timozattol/hashcode2018](https://github.com/timozattol/hashcode2018)
-- [tirbal/hashcode2018](https://github.com/tirbal/hashcode2018)
-- [titusmann/Pizza-Hashcode-Example-2018](https://github.com/titusmann/Pizza-Hashcode-Example-2018)
+- [tirbal/hashcode2018](https://github.com/tirbal/hashcode2018) — not kept after benchmarking
+- [titusmann/Pizza-Hashcode-Example-2018](https://github.com/titusmann/Pizza-Hashcode-Example-2018) — not kept after benchmarking
 - [Tobertet/hash-code-pizza-viewer](https://github.com/Tobertet/hash-code-pizza-viewer)
-- [tod01/pizza_google_hashcode](https://github.com/tod01/pizza_google_hashcode)
+- [tod01/pizza_google_hashcode](https://github.com/tod01/pizza_google_hashcode) — not kept after benchmarking
 - [Tolumbas/Hashcode2018Prepare](https://github.com/Tolumbas/Hashcode2018Prepare)
 - [TomasGiS/HashCodePizza](https://github.com/TomasGiS/HashCodePizza)
 - [TStepi/hashcode-2018](https://github.com/TStepi/hashcode-2018)
-- [tyburam/hashcode-core](https://github.com/tyburam/hashcode-core)
+- [tyburam/hashcode-core](https://github.com/tyburam/hashcode-core) — not kept after benchmarking
 - [UoSCompSoc/Hash-Code-File-Reader](https://github.com/UoSCompSoc/Hash-Code-File-Reader)
 - [UoSCompSoc/Hash-Code-Marker](https://github.com/UoSCompSoc/Hash-Code-Marker)
-- [uran-lajci/google-hash-code-pizza](https://github.com/uran-lajci/google-hash-code-pizza)
-- [vaiol/hashcode2017](https://github.com/vaiol/hashcode2017)
+- [uran-lajci/google-hash-code-pizza](https://github.com/uran-lajci/google-hash-code-pizza) — not kept after benchmarking
+- [vaiol/hashcode2017](https://github.com/vaiol/hashcode2017) — not kept after benchmarking
 - [vboiko-gt/HASH_Pizza](https://github.com/vboiko-gt/HASH_Pizza)
 - [vboiko-gt/HashCode2019_UNIT_Train](https://github.com/vboiko-gt/HashCode2019_UNIT_Train)
-- [veselypeta/pizza](https://github.com/veselypeta/pizza)
-- [vicmunoz/hashcode-2018-pizza](https://github.com/vicmunoz/hashcode-2018-pizza)
-- [victorspgl/HashCode-Train1-2018](https://github.com/victorspgl/HashCode-Train1-2018)
+- [veselypeta/pizza](https://github.com/veselypeta/pizza) — not kept after benchmarking
+- [vicmunoz/hashcode-2018-pizza](https://github.com/vicmunoz/hashcode-2018-pizza) — not kept after benchmarking
+- [victorspgl/HashCode-Train1-2018](https://github.com/victorspgl/HashCode-Train1-2018) — not kept after benchmarking
 - [VictorWinberg/hashcode2018-pizza](https://github.com/VictorWinberg/hashcode2018-pizza)
-- [VigHub/Problem-Statement-Pizza-Hash-Code-0xZBV_3](https://github.com/VigHub/Problem-Statement-Pizza-Hash-Code-0xZBV_3)
+- [VigHub/Problem-Statement-Pizza-Hash-Code-0xZBV_3](https://github.com/VigHub/Problem-Statement-Pizza-Hash-Code-0xZBV_3) — not kept after benchmarking
 - [vihangasankalpa220/HashCode-2019](https://github.com/vihangasankalpa220/HashCode-2019)
-- [vitaliipoliakov/hashcode_pizza](https://github.com/vitaliipoliakov/hashcode_pizza)
-- [vuslysty/Pizza_HASH_CODE](https://github.com/vuslysty/Pizza_HASH_CODE)
-- [wawrzy/pizza_GoogleHashCode_2017](https://github.com/wawrzy/pizza_GoogleHashCode_2017)
-- [wdaniel1993/HashCodePizza](https://github.com/wdaniel1993/HashCodePizza)
-- [WeberJulian/hashcode-2019](https://github.com/WeberJulian/hashcode-2019)
-- [WestleyB/practice_hashcode_2017](https://github.com/WestleyB/practice_hashcode_2017)
-- [WilliamMajanja-zz/HashCode2017](https://github.com/WilliamMajanja-zz/HashCode2017)
-- [wl-seclin-hashcode/hashcode-2017-practice](https://github.com/wl-seclin-hashcode/hashcode-2017-practice)
-- [xiaohan2012/hashcode-2017-practice](https://github.com/xiaohan2012/hashcode-2017-practice)
-- [YacovAverbuch/Google_Hashcode_pizza_problem_solution](https://github.com/YacovAverbuch/Google_Hashcode_pizza_problem_solution)
-- [YaZko/HashCode2017](https://github.com/YaZko/HashCode2017)
+- [vitaliipoliakov/hashcode_pizza](https://github.com/vitaliipoliakov/hashcode_pizza) — not kept after benchmarking
+- [vuslysty/Pizza_HASH_CODE](https://github.com/vuslysty/Pizza_HASH_CODE) — not kept after benchmarking
+- [wawrzy/pizza_GoogleHashCode_2017](https://github.com/wawrzy/pizza_GoogleHashCode_2017) — not kept after benchmarking
+- [wdaniel1993/HashCodePizza](https://github.com/wdaniel1993/HashCodePizza) — not kept after benchmarking
+- [WeberJulian/hashcode-2019](https://github.com/WeberJulian/hashcode-2019) — not kept after benchmarking
+- [WestleyB/practice_hashcode_2017](https://github.com/WestleyB/practice_hashcode_2017) — not kept after benchmarking
+- [WilliamMajanja-zz/HashCode2017](https://github.com/WilliamMajanja-zz/HashCode2017) — not kept after benchmarking
+- [wl-seclin-hashcode/hashcode-2017-practice](https://github.com/wl-seclin-hashcode/hashcode-2017-practice) — not kept after benchmarking
+- [xiaohan2012/hashcode-2017-practice](https://github.com/xiaohan2012/hashcode-2017-practice) — not kept after benchmarking
+- [YacovAverbuch/Google_Hashcode_pizza_problem_solution](https://github.com/YacovAverbuch/Google_Hashcode_pizza_problem_solution) — not kept after benchmarking
+- [YaZko/HashCode2017](https://github.com/YaZko/HashCode2017) — not kept after benchmarking
 - [yoann-dufresne/hashcode_pizza_2018](https://github.com/yoann-dufresne/hashcode_pizza_2018)
-- [yoann-dufresne/Pizza](https://github.com/yoann-dufresne/Pizza)
+- [yoann-dufresne/Pizza](https://github.com/yoann-dufresne/Pizza) — not kept after benchmarking
 - [younid/jarjarbean](https://github.com/younid/jarjarbean)
-- [youstinus/hashcode-2019](https://github.com/youstinus/hashcode-2019)
-- [yumin-chen/ghc-pizza](https://github.com/yumin-chen/ghc-pizza)
+- [youstinus/hashcode-2019](https://github.com/youstinus/hashcode-2019) — not kept after benchmarking
+- [yumin-chen/ghc-pizza](https://github.com/yumin-chen/ghc-pizza) — not kept after benchmarking
 - [Z00mers/hashcode_pizza](https://github.com/Z00mers/hashcode_pizza)
-- [zack-xiang/hashcode-practice-pizza](https://github.com/zack-xiang/hashcode-practice-pizza)
-- [zazizizou/Hashcode2018](https://github.com/zazizizou/Hashcode2018)
+- [zack-xiang/hashcode-practice-pizza](https://github.com/zack-xiang/hashcode-practice-pizza) — not kept after benchmarking
+- [zazizizou/Hashcode2018](https://github.com/zazizizou/Hashcode2018) — not kept after benchmarking
 
 ### Found but not collected (3)
 

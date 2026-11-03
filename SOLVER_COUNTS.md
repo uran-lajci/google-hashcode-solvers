@@ -9,7 +9,7 @@ Number of solvers collected and kept for each problem, in contest order. A `-` m
 | [Loon](loon/) (2015, final) | 23 | 1 |
 | [Delivery](delivery/) (2016, qualification) | 162 | - |
 | [Satellites](satellites/) (2016, final) | 15 | 2 |
-| [Pizza](pizza/) (2017, practice) | 326 | - |
+| [Pizza](pizza/) (2017, practice) | 294 | 11 |
 | [Streaming Videos](streaming_videos/) (2017, qualification) | 363 | - |
 | [Router Placement](router_placement/) (2017, final) | 25 | 9 |
 | [Self-driving Rides](self_driving_rides/) (2018, qualification) | 526 | - |

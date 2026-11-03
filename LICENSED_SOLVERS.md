@@ -1,6 +1,6 @@
 # Licensed solvers
 
-Solvers in this collection that need a Gurobi or CPLEX license. These programs cannot be benchmarked without one, so a benchmark run without a license skips them. The repositories stay in their problem folders.
+Solvers in this collection that need a Gurobi, CPLEX or LocalSolver license. These programs cannot be benchmarked without one, so a benchmark run without a license skips them. The repositories stay in their problem folders.
 
 They were identified by reading the code, without running it. Solvers that use free exact methods, such as CP-SAT, SCIP or CBC, are not listed here because they can be benchmarked like any other solver.
 
@@ -24,14 +24,15 @@ They were identified by reading the code, without running it. Solvers that use f
 | Book Scanning | [`google-hash-code-solutions_jp172`](book_scanning/google-hash-code-solutions_jp172/) | Gurobi | `2020-quali/src/main.cpp` | — |
 | One Pizza | [`Google-HashCode-2022_filipesouzacit`](one_pizza/Google-HashCode-2022_filipesouzacit/) | Gurobi | `gurobi.py` | 99.9% |
 
-## Some programs run without a license (12)
+## Some programs run without a license (13)
 
 Only the licensed program is skipped. The other programs are benchmarked as usual.
 
 | Problem | Repository | Solver | Licensed program | Runs without a license | Stored score |
 |---|---|---|---|---|---:|
 | Optimize a Data Center | [`OptimizeDatacenter_Hashcode2015_exo404`](optimize_a_data_center/OptimizeDatacenter_Hashcode2015_exo404/) | Gurobi | `test/ottima.py` | `eurGreedy.py` | — |
-| Pizza | [`hashcode_pizza_2018_yoann-dufresne`](pizza/hashcode_pizza_2018_yoann-dufresne/) | Gurobi | `solver_gurobi.py` | `solver_hill_climbing.py`, `solver_random.py` | — |
+| Pizza | [`hashcode_pizza_2018_yoann-dufresne`](pizza/hashcode_pizza_2018_yoann-dufresne/) | Gurobi | `solver_gurobi.py`, and `solver_hill_climbing.py`, which imports it | `solver_random.py` | — |
+| Pizza | [`hashcode-2018_clemkoa`](pizza/hashcode-2018_clemkoa/) | LocalSolver | `pizza/solve.py` | `pizza/run.py` | — |
 | Router Placement | [`scored_greedy_with_mst_backbone`](router_placement/solvers/scored_greedy_with_mst_backbone/) (`hashcode17_finals_matteojug`) | CPLEX | `cplex/test.cpp` | `main.cpp` | 99.3% |
 | Self-driving Rides | [`hashCodeQualif_bitqr`](self_driving_rides/hashCodeQualif_bitqr/) | CPLEX | `ExactModel.java` | `Main.java` | — |
 | Photo Slideshow | [`RP_HashCode_2019_lucasschott`](photo_slideshow/RP_HashCode_2019_lucasschott/) | Gurobi | `Ilp.cpp` | `Annealing.cpp`, `Greedy.cpp`, `Stoch_descent.cpp` | — |
